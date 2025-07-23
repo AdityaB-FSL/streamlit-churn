@@ -20,7 +20,7 @@ NVIDIA_API_KEY = os.getenv("NVIDIA_API_KEY")
 llm = ChatOpenAI(
     openai_api_base="https://integrate.api.nvidia.com/v1",
     openai_api_key=NVIDIA_API_KEY,
-    model="nvidia/llama-3.1-nemotron-ultra-253b-v1"
+    model="qwen/qwen3-235b-a22b"
 )
 
 def prompt(feature_shap_importance: dict ,proba: int, customer_row): 
