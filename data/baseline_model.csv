@@ -1,0 +1,1001 @@
+subscription_type,plan_type,auto_renew,avg_articles_per_week,days_since_last_login,support_tickets_last_90d,discount_used_last_renewal,email_open_rate,time_spent_per_session_mins,region,most_read_category,completion_rate,article_skips_per_week,primary_device,previous_renewal_status,last_campaign_engaged,campaign_ctr,nps_score,sentiment_score,csat_score,customer_age,signup_source,payment_method,downgrade_history,subscription_status,tenure_days
+Digital,Monthly,No,4.59,22,1,Yes,0.89,9.83,Europe,Politics,0.89,0,Mobile,Auto,Retention Offer,0.05,-19,0.29,5,58,Mobile App,Credit Card,No,Cancelled,1515
+Digital+Print,Monthly,No,3.93,12,1,No,0.2,4.1,Asia,Politics,0.75,0,Mobile,Auto,Newsletter Promo,0.31,-94,-0.02,5,59,Mobile App,PayPal,No,Active,273
+Digital,Annual,Yes,4.03,22,0,No,0.61,13.79,Europe,Politics,0.58,3,Desktop,Auto,,0.06,-24,-0.18,3,47,Mobile App,PayPal,Yes,Active,1534
+Digital,Annual,No,0.95,17,0,No,0.09,10.22,Europe,Technology,0.31,0,Mobile,Auto,,0.35,21,0.36,2,22,Mobile App,PayPal,No,Cancelled,1705
+Digital,Annual,No,4.82,27,0,No,0.39,11.69,Asia,Culture,0.71,1,Tablet,Auto,,0.26,-32,0.46,2,27,Mobile App,PayPal,No,Active,173
+Digital,Monthly,Yes,3.39,10,0,No,0.71,8.14,Europe,Politics,0.31,2,Mobile,Auto,Newsletter Promo,0.31,-11,-0.85,2,65,Web,Credit Card,No,Active,1137
+Digital+Print,Monthly,Yes,2.45,14,0,Yes,0.66,8.53,North America,Culture,0.3,0,Desktop,Manual,Newsletter Promo,0.22,-99,0.53,5,48,Web,Credit Card,Yes,Active,1810
+Digital,Annual,Yes,3.22,24,1,Yes,0.62,11.15,Asia,Technology,0.73,1,Desktop,Auto,,0.02,60,-0.16,2,28,Web,Credit Card,No,Active,1550
+Digital,Monthly,No,0.34,25,1,Yes,0.28,5.34,North America,Technology,0.43,1,Mobile,Manual,,0.15,75,0.8,3,55,Referral,Credit Card,No,Cancelled,1767
+Espresso,Monthly,Yes,3.61,24,3,No,0.38,8.57,Asia,Environment,0.43,1,Desktop,Auto,,0.33,-64,-0.33,4,24,Web,Credit Card,Yes,Active,718
+Digital,Monthly,No,1.46,21,0,Yes,0.1,6.56,Asia,Politics,0.76,2,Desktop,Auto,Newsletter Promo,0.45,-12,-0.5,5,29,Web,Debit Card,No,Cancelled,594
+Digital,Annual,No,0.97,28,1,No,0.72,6.44,Others,Environment,0.34,1,Desktop,Auto,Survey,0.56,26,0.32,4,62,Mobile App,Credit Card,No,Cancelled,1632
+Digital+Print,Annual,Yes,0.72,18,0,No,0.5,1.56,North America,Politics,0.52,2,Desktop,Auto,,0.34,2,1.07,4,66,Web,Credit Card,No,Active,154
+Digital+Print,Monthly,No,4.67,0,0,Yes,0.71,15.36,Europe,Finance,0.4,1,Mobile,Auto,,0.13,-71,-0.81,5,58,Mobile App,Credit Card,Yes,Active,1032
+Digital,Annual,Yes,2.06,3,0,Yes,0.25,7.25,Europe,Culture,0.71,0,Desktop,Auto,Newsletter Promo,0.26,-60,0.42,5,25,Web,PayPal,No,Active,376
+Digital+Print,Annual,Yes,5.3,13,0,No,0.32,14.65,North America,Environment,0.76,2,Tablet,Auto,Newsletter Promo,0.16,-97,0.28,2,45,Mobile App,Credit Card,No,Active,377
+Digital+Print,Monthly,Yes,2.2,13,1,No,0.33,14.28,North America,Finance,0.8,1,Mobile,Auto,,0.53,-18,-0.02,3,33,Web,Credit Card,No,Active,1289
+Digital,Monthly,Yes,0.44,2,1,No,0.03,4.86,Europe,Technology,0.48,0,Mobile,Manual,Retention Offer,0.25,10,1.04,5,20,Web,Credit Card,No,Active,1311
+Digital,Annual,No,1.33,29,0,Yes,0.34,5.65,Europe,Technology,0.36,1,Tablet,Auto,,0.26,66,-0.96,4,54,Mobile App,Credit Card,No,Cancelled,730
+Digital,Monthly,Yes,4.85,27,1,No,0.8,20.24,North America,Culture,0.36,1,Mobile,Auto,,0.24,-77,0.56,5,49,Mobile App,PayPal,No,Active,520
+Espresso,Monthly,Yes,2.77,16,2,Yes,0.9,17.0,Europe,Politics,0.6,0,Desktop,Manual,,0.16,-51,0.49,3,38,Web,Credit Card,No,Active,284
+Digital,Monthly,Yes,2.18,2,1,No,0.52,9.87,Asia,Culture,0.96,1,Desktop,Auto,Newsletter Promo,0.3,-64,0.6,1,62,Web,Credit Card,No,Active,377
+Digital,Annual,Yes,3.24,15,1,No,0.46,11.03,Asia,Finance,0.45,1,Desktop,Manual,Newsletter Promo,0.18,80,0.54,4,35,Web,Debit Card,No,Active,444
+Espresso,Annual,No,3.75,13,1,No,0.03,7.48,Others,Finance,0.48,0,Mobile,Manual,Survey,0.08,-76,0.12,1,65,Web,Credit Card,No,Active,599
+Digital+Print,Annual,Yes,4.68,29,3,No,0.88,11.73,Europe,Finance,0.37,3,Mobile,Manual,,0.35,-8,-0.15,1,63,Web,Credit Card,No,Active,138
+Digital+Print,Monthly,No,5.17,19,2,No,0.01,7.13,Others,Finance,0.72,0,Mobile,Auto,Retention Offer,0.33,24,-0.31,3,28,Mobile App,PayPal,No,Cancelled,451
+Digital,Annual,Yes,2.46,28,0,Yes,0.94,1.87,Asia,Environment,0.78,2,Desktop,Auto,Retention Offer,0.28,-70,0.29,5,67,Web,PayPal,No,Active,442
+Digital+Print,Annual,Yes,1.01,12,0,Yes,0.49,4.71,North America,Finance,0.75,1,Desktop,Auto,Survey,0.26,-9,-0.0,1,25,Web,Credit Card,No,Active,914
+Digital+Print,Monthly,No,2.38,14,1,Yes,0.34,10.08,North America,Environment,0.9,2,Desktop,Auto,Retention Offer,0.27,-63,-0.11,2,29,Mobile App,PayPal,No,Active,844
+Digital,Annual,Yes,3.39,13,1,Yes,0.92,5.48,Europe,Politics,0.64,0,Desktop,Auto,,0.47,26,-0.28,5,68,Web,Credit Card,No,Active,285
+Digital,Monthly,No,1.55,23,1,Yes,0.02,9.73,Europe,Technology,0.39,0,Mobile,Auto,Newsletter Promo,0.07,-43,-0.2,4,69,Mobile App,Debit Card,No,Cancelled,1136
+Digital,Monthly,Yes,1.56,24,0,No,0.58,5.7,Europe,Culture,0.5,0,Mobile,Manual,,0.07,80,0.39,5,19,Mobile App,PayPal,No,Cancelled,690
+Espresso,Monthly,Yes,3.52,18,2,Yes,0.55,6.87,Europe,Technology,0.76,1,Desktop,Auto,,0.66,13,0.01,3,58,Web,Credit Card,No,Active,1667
+Digital,Monthly,Yes,2.93,5,1,No,0.22,13.41,Asia,Technology,0.73,0,Mobile,Manual,,0.71,-51,0.6,3,39,Web,Credit Card,No,Active,1422
+Digital,Monthly,Yes,3.05,9,1,No,0.43,10.99,Europe,Technology,0.67,1,Mobile,Manual,Retention Offer,0.3,31,-0.68,4,26,Web,Credit Card,Yes,Active,993
+Digital,Monthly,Yes,1.86,26,1,No,0.65,9.96,North America,Culture,0.78,0,Mobile,Auto,,0.49,-9,0.31,4,31,Mobile App,PayPal,No,Cancelled,701
+Digital,Monthly,No,2.65,14,0,No,0.73,13.52,Asia,Culture,0.75,0,Mobile,Auto,Newsletter Promo,0.2,79,-0.5,4,32,Mobile App,PayPal,No,Active,426
+Digital+Print,Annual,No,1.61,20,0,No,0.0,11.92,North America,Politics,0.92,0,Mobile,Auto,Survey,0.53,58,0.6,3,28,Mobile App,Debit Card,No,Cancelled,465
+Digital+Print,Monthly,No,4.34,21,2,Yes,0.94,15.79,Others,Culture,0.71,2,Desktop,Manual,,0.11,-23,0.62,5,30,Referral,Credit Card,No,Cancelled,507
+Digital+Print,Monthly,No,4.55,19,0,No,0.16,8.16,North America,Finance,0.85,1,Tablet,Auto,,0.29,41,-0.71,1,45,Mobile App,PayPal,No,Cancelled,808
+Digital+Print,Monthly,Yes,0.23,25,0,No,0.23,8.28,Others,Politics,0.47,1,Desktop,Auto,Retention Offer,0.2,28,-0.38,1,42,Mobile App,Credit Card,No,Cancelled,348
+Digital+Print,Annual,Yes,1.61,5,2,No,0.26,4.8,North America,Culture,0.77,0,Tablet,Auto,,0.02,-58,-0.36,2,54,Web,Credit Card,Yes,Active,1603
+Espresso,Monthly,Yes,0.76,22,1,No,0.04,8.28,North America,Finance,0.93,1,Tablet,Manual,Newsletter Promo,0.08,17,0.63,3,23,Web,PayPal,No,Cancelled,168
+Digital+Print,Monthly,No,2.02,24,2,No,0.12,13.86,North America,Culture,0.57,0,Desktop,Manual,Newsletter Promo,0.21,-42,-0.3,4,54,Web,Credit Card,No,Cancelled,1775
+Digital+Print,Annual,Yes,2.87,9,0,No,0.99,15.2,Asia,Politics,0.85,1,Mobile,Auto,Retention Offer,0.22,-40,0.35,5,50,Mobile App,Credit Card,No,Active,1654
+Digital,Monthly,Yes,0.83,6,1,No,0.32,13.84,Asia,Politics,0.81,0,Desktop,Auto,Retention Offer,0.28,-60,-0.33,3,42,Web,PayPal,No,Active,682
+Digital,Monthly,No,1.62,21,0,No,0.12,2.82,Europe,Finance,0.34,0,Mobile,Auto,Retention Offer,0.52,-83,0.54,2,67,Mobile App,Credit Card,Yes,Cancelled,1643
+Digital,Monthly,Yes,1.49,16,5,Yes,0.11,14.33,Others,Politics,0.71,1,Mobile,Auto,Newsletter Promo,0.15,87,0.59,1,40,Mobile App,Debit Card,No,Cancelled,1086
+Digital,Annual,Yes,3.31,17,0,Yes,0.72,2.65,Europe,Culture,0.39,0,Mobile,Manual,,0.21,96,0.83,5,25,Web,Credit Card,No,Active,1330
+Digital,Monthly,No,3.1,16,0,No,0.85,13.59,Europe,Politics,0.98,1,Desktop,Manual,Newsletter Promo,0.36,-22,-0.09,1,34,Mobile App,Credit Card,No,Cancelled,93
+Espresso,Annual,Yes,1.92,8,1,No,0.26,8.53,Asia,Finance,0.87,1,Mobile,Manual,,0.22,86,0.0,5,48,Web,Credit Card,No,Active,570
+Digital+Print,Monthly,Yes,3.27,9,0,No,0.02,12.81,North America,Politics,0.38,0,Mobile,Auto,Retention Offer,0.31,69,-0.07,4,43,Web,Credit Card,No,Active,1005
+Espresso,Annual,No,2.18,9,2,Yes,0.22,4.67,North America,Politics,0.39,1,Mobile,Auto,,0.24,63,0.01,5,28,Mobile App,Debit Card,No,Active,470
+Digital,Annual,Yes,2.59,24,0,No,0.06,14.68,Others,Culture,0.72,0,Desktop,Auto,,0.54,67,-0.21,4,47,Mobile App,Credit Card,No,Active,1460
+Espresso,Annual,Yes,5.51,6,0,No,0.1,4.14,Others,Politics,0.54,1,Desktop,Auto,Survey,0.41,-71,0.53,3,28,Web,Credit Card,Yes,Active,536
+Digital+Print,Monthly,Yes,5.01,15,0,Yes,0.43,7.33,Others,Technology,0.32,0,Desktop,Auto,,0.4,1,-0.38,1,20,Web,Credit Card,No,Active,424
+Digital+Print,Annual,Yes,1.05,28,0,No,0.23,6.01,Others,Environment,0.68,1,Mobile,Manual,,0.08,-90,-0.07,5,57,Web,PayPal,No,Active,1581
+Digital,Monthly,Yes,4.24,17,2,No,0.52,2.98,North America,Technology,0.57,2,Mobile,Auto,,0.15,23,0.1,5,57,Web,Credit Card,Yes,Active,51
+Digital,Monthly,Yes,4.22,5,0,No,0.25,10.38,Asia,Culture,0.37,1,Desktop,Manual,Retention Offer,0.51,52,0.25,2,38,Referral,PayPal,No,Active,335
+Digital,Monthly,Yes,1.28,26,1,Yes,0.94,17.22,Europe,Politics,0.86,0,Mobile,Auto,,0.31,72,-0.6,1,52,Web,PayPal,No,Cancelled,610
+Digital+Print,Annual,No,4.23,19,2,Yes,0.91,20.67,Others,Politics,0.94,2,Desktop,Auto,Retention Offer,0.32,78,-0.12,3,45,Referral,Credit Card,Yes,Active,301
+Digital+Print,Annual,Yes,5.31,0,0,Yes,0.57,10.39,Europe,Culture,0.83,0,Desktop,Auto,Newsletter Promo,0.11,70,0.01,4,39,Referral,Debit Card,Yes,Active,849
+Digital+Print,Annual,Yes,1.32,0,1,No,0.35,14.47,Europe,Technology,0.88,0,Desktop,Auto,Newsletter Promo,0.06,-35,0.4,3,59,Web,PayPal,No,Active,1596
+Digital,Monthly,Yes,1.62,11,1,No,0.38,10.93,Europe,Technology,0.45,3,Tablet,Auto,,0.69,-2,-0.11,2,68,Web,Credit Card,Yes,Active,55
+Espresso,Monthly,No,4.53,20,1,Yes,0.41,12.0,North America,Technology,0.48,1,Mobile,Manual,,0.24,74,-0.05,3,63,Mobile App,PayPal,Yes,Cancelled,533
+Digital,Annual,Yes,3.41,27,0,Yes,0.73,8.63,North America,Finance,0.45,1,Mobile,Auto,,0.58,-77,0.07,4,35,Web,PayPal,No,Active,1710
+Digital+Print,Monthly,No,3.83,1,1,No,0.45,10.78,Asia,Politics,0.84,1,Desktop,Manual,,0.57,-24,0.52,1,40,Mobile App,PayPal,Yes,Active,59
+Digital,Monthly,No,3.51,3,1,Yes,0.86,12.15,Asia,Culture,0.96,1,Mobile,Manual,Retention Offer,0.3,64,-1.03,2,43,Web,Credit Card,No,Active,870
+Digital+Print,Monthly,No,3.59,16,0,No,0.94,7.69,North America,Technology,0.8,2,Mobile,Auto,,0.09,27,0.05,5,52,Web,PayPal,Yes,Cancelled,1772
+Digital+Print,Monthly,Yes,1.01,3,0,No,0.34,9.69,Asia,Finance,0.92,1,Mobile,Manual,,0.19,83,0.58,5,46,Web,Credit Card,No,Active,773
+Digital+Print,Monthly,Yes,4.57,10,0,Yes,0.56,9.77,Europe,Culture,0.75,1,Mobile,Auto,Survey,0.47,-7,-0.41,1,69,Web,Credit Card,No,Active,815
+Digital,Monthly,Yes,4.75,21,1,No,0.1,13.31,Europe,Finance,0.57,0,Mobile,Manual,,0.19,-14,-0.38,3,63,Mobile App,PayPal,Yes,Active,465
+Espresso,Monthly,No,2.66,25,1,Yes,0.2,5.74,North America,Politics,0.6,1,Mobile,Auto,,0.64,23,0.61,5,28,Referral,PayPal,No,Cancelled,394
+Digital+Print,Monthly,Yes,2.93,3,0,No,0.41,9.79,Asia,Culture,0.35,1,Desktop,Auto,,0.08,-55,-0.17,2,59,Web,Credit Card,Yes,Active,1439
+Digital+Print,Annual,Yes,0.7,0,1,No,0.21,17.65,Asia,Culture,0.32,1,Desktop,Auto,Retention Offer,0.55,55,-0.16,4,63,Web,Credit Card,No,Active,795
+Digital,Monthly,Yes,3.77,6,1,Yes,0.88,14.66,Europe,Finance,0.79,0,Desktop,Auto,Retention Offer,0.23,-8,0.14,3,18,Web,PayPal,No,Active,859
+Digital+Print,Monthly,No,3.86,29,2,Yes,0.16,15.4,Europe,Politics,0.61,1,Desktop,Manual,Retention Offer,0.33,79,-1.49,4,33,Web,Debit Card,Yes,Cancelled,924
+Digital,Monthly,Yes,2.91,17,1,No,0.46,10.1,North America,Politics,0.69,2,Mobile,Manual,Newsletter Promo,0.39,-86,-0.91,3,42,Mobile App,Credit Card,No,Active,1628
+Digital,Monthly,Yes,4.69,8,0,No,0.61,11.28,Europe,Technology,0.69,2,Mobile,Manual,,0.32,72,0.29,2,55,Mobile App,Credit Card,No,Active,1741
+Digital,Annual,Yes,2.5,28,0,Yes,0.69,14.01,North America,Finance,0.49,2,Mobile,Auto,Survey,0.11,-43,-0.12,4,35,Web,PayPal,No,Active,775
+Digital+Print,Annual,No,3.85,2,1,No,0.38,16.24,North America,Culture,0.63,0,Desktop,Auto,Newsletter Promo,0.44,94,-0.08,2,33,Mobile App,Credit Card,No,Active,1139
+Digital,Monthly,No,1.47,7,1,Yes,0.87,2.19,Europe,Environment,0.63,0,Desktop,Auto,,0.46,-29,-0.33,4,36,Mobile App,Credit Card,No,Cancelled,1257
+Digital,Monthly,Yes,2.96,28,0,Yes,0.57,4.74,Others,Culture,0.57,0,Mobile,Auto,,0.33,-3,-0.14,3,33,Web,PayPal,No,Active,1488
+Espresso,Annual,Yes,2.74,23,4,No,0.44,15.24,Europe,Finance,0.87,2,Mobile,Auto,Newsletter Promo,0.07,-28,0.6,2,22,Mobile App,Credit Card,No,Active,185
+Digital,Annual,Yes,3.34,18,0,No,0.07,8.89,North America,Culture,0.62,2,Tablet,Auto,Retention Offer,0.3,-20,0.07,3,44,Web,Credit Card,No,Active,1106
+Digital+Print,Monthly,Yes,2.45,3,1,No,0.46,7.31,Europe,Finance,0.72,3,Desktop,Auto,,0.2,68,0.53,3,61,Mobile App,PayPal,No,Active,485
+Digital,Monthly,No,2.8,17,2,Yes,0.82,4.98,Asia,Politics,0.93,1,Desktop,Auto,,0.09,-36,-0.08,4,23,Web,Credit Card,No,Cancelled,558
+Digital+Print,Monthly,Yes,4.24,19,0,No,0.61,7.78,Asia,Politics,0.91,2,Mobile,Auto,Survey,0.17,67,0.01,4,51,Web,Credit Card,No,Active,450
+Digital+Print,Annual,Yes,2.34,26,2,No,0.83,4.39,Asia,Finance,0.92,2,Mobile,Auto,Newsletter Promo,0.58,-96,0.16,2,33,Mobile App,Credit Card,No,Active,43
+Digital+Print,Monthly,Yes,0.59,10,0,No,0.49,18.36,Europe,Environment,0.49,1,Desktop,Manual,,0.3,-73,0.26,5,40,Mobile App,Credit Card,Yes,Active,904
+Digital+Print,Annual,Yes,5.62,26,3,No,0.12,9.91,Asia,Politics,0.32,1,Desktop,Auto,Newsletter Promo,0.38,-63,-0.42,1,60,Mobile App,Credit Card,Yes,Active,1395
+Digital,Monthly,Yes,5.07,13,0,No,0.01,9.77,North America,Politics,0.48,1,Desktop,Manual,,0.36,-20,-0.01,4,61,Web,Credit Card,No,Active,167
+Digital,Monthly,No,1.06,24,2,No,0.3,12.35,North America,Environment,0.5,0,Desktop,Auto,,0.23,-14,-0.34,3,49,Mobile App,PayPal,No,Cancelled,131
+Digital,Monthly,Yes,4.03,17,3,Yes,0.7,13.85,North America,Politics,0.94,0,Desktop,Manual,Retention Offer,0.16,45,0.75,1,60,Web,PayPal,No,Cancelled,1643
+Digital,Monthly,No,2.25,27,2,Yes,0.79,13.78,Europe,Culture,0.75,3,Desktop,Auto,Retention Offer,0.21,-64,-0.86,2,40,Mobile App,Credit Card,No,Cancelled,673
+Digital,Monthly,Yes,3.4,27,0,Yes,0.3,14.29,Others,Finance,0.36,1,Mobile,Auto,Retention Offer,0.38,54,0.29,1,37,Mobile App,Credit Card,No,Active,538
+Digital,Monthly,Yes,3.44,28,1,No,0.5,7.48,Asia,Politics,0.39,1,Mobile,Auto,Newsletter Promo,0.63,-76,-0.39,1,36,Web,Credit Card,No,Active,1359
+Digital+Print,Monthly,Yes,2.65,15,1,No,0.42,8.81,North America,Environment,0.41,2,Desktop,Manual,,0.09,96,-0.57,5,46,Web,PayPal,No,Active,1387
+Digital+Print,Annual,Yes,1.82,2,0,Yes,0.41,13.08,North America,Politics,0.74,0,Mobile,Auto,Retention Offer,0.17,-18,-0.15,5,25,Mobile App,Credit Card,No,Active,1377
+Digital,Monthly,Yes,1.96,14,1,No,0.23,7.89,North America,Technology,0.81,1,Desktop,Auto,,0.33,-74,0.65,1,46,Mobile App,PayPal,No,Active,155
+Digital,Monthly,Yes,1.63,26,2,Yes,0.14,9.98,North America,Politics,0.9,0,Desktop,Manual,Newsletter Promo,0.28,-24,-0.32,5,35,Referral,Credit Card,No,Cancelled,1057
+Digital,Annual,Yes,1.75,26,0,Yes,0.2,11.6,Europe,Politics,0.96,0,Tablet,Auto,,0.49,81,-0.9,5,22,Web,Debit Card,No,Cancelled,52
+Digital,Annual,No,2.9,3,1,No,0.06,13.14,Others,Politics,0.44,2,Mobile,Auto,,0.3,34,-0.47,1,29,Mobile App,Credit Card,No,Active,1139
+Digital+Print,Annual,Yes,1.93,4,0,Yes,0.2,2.89,Others,Politics,0.52,0,Mobile,Auto,,0.41,-11,0.06,4,27,Mobile App,PayPal,No,Active,1144
+Digital,Annual,Yes,4.02,16,3,Yes,0.01,12.86,Europe,Politics,0.47,1,Desktop,Auto,,0.5,-74,-0.81,5,64,Mobile App,PayPal,No,Active,313
+Digital,Monthly,Yes,5.23,6,2,No,0.63,9.07,Asia,Culture,0.55,0,Desktop,Auto,Newsletter Promo,0.35,21,0.36,1,54,Mobile App,Credit Card,No,Active,639
+Digital,Monthly,Yes,2.13,15,1,No,0.32,12.83,Europe,Finance,0.94,0,Desktop,Auto,,0.45,-42,-0.79,4,34,Web,PayPal,Yes,Active,804
+Digital,Annual,Yes,3.36,13,1,No,0.97,13.11,North America,Finance,0.7,4,Mobile,Manual,Retention Offer,0.59,-29,-0.24,5,49,Mobile App,PayPal,No,Active,636
+Digital,Monthly,No,3.75,25,0,No,0.19,16.43,Europe,Finance,0.82,0,Mobile,Manual,Newsletter Promo,0.2,58,0.41,1,21,Mobile App,PayPal,No,Cancelled,198
+Digital,Monthly,Yes,3.71,15,0,No,0.35,15.41,Europe,Environment,0.64,0,Desktop,Auto,Retention Offer,0.39,-10,-0.25,5,48,Web,PayPal,No,Active,1187
+Digital,Annual,No,3.11,6,0,No,0.36,15.39,Asia,Environment,0.32,0,Desktop,Auto,,0.06,-33,-0.67,4,43,Web,Credit Card,Yes,Active,254
+Digital,Monthly,No,4.11,8,1,Yes,0.01,15.77,North America,Technology,0.34,3,Desktop,Manual,,0.17,5,-0.05,1,29,Mobile App,Credit Card,No,Active,184
+Digital,Monthly,No,3.72,3,2,No,0.84,11.17,North America,Culture,0.68,2,Mobile,Manual,,0.43,-97,-0.25,4,35,Web,Credit Card,No,Active,1303
+Digital,Monthly,Yes,1.14,29,0,No,0.03,10.13,North America,Finance,0.8,1,Mobile,Manual,Newsletter Promo,0.51,45,0.61,3,25,Web,PayPal,Yes,Cancelled,772
+Digital+Print,Monthly,Yes,4.3,29,2,Yes,0.94,13.49,Others,Finance,0.45,0,Mobile,Auto,Retention Offer,0.11,-38,0.41,2,49,Mobile App,Credit Card,No,Active,1000
+Digital,Monthly,No,4.33,21,3,No,0.89,12.93,Europe,Technology,0.81,2,Tablet,Manual,Survey,0.31,-14,0.25,3,37,Web,PayPal,No,Cancelled,273
+Digital,Monthly,Yes,1.86,10,1,Yes,0.54,8.76,Asia,Technology,0.87,0,Desktop,Manual,,0.73,79,0.01,5,66,Web,Credit Card,No,Cancelled,453
+Digital,Annual,Yes,3.06,1,1,No,0.54,11.62,Asia,Finance,0.59,3,Mobile,Auto,Newsletter Promo,0.42,10,-0.11,4,57,Mobile App,Credit Card,Yes,Active,1783
+Espresso,Monthly,No,4.02,11,0,No,0.65,9.86,North America,Finance,0.82,0,Mobile,Auto,,0.06,90,-0.11,1,30,Web,Credit Card,No,Active,1679
+Digital,Monthly,Yes,2.69,11,2,No,0.39,6.58,Europe,Environment,0.58,0,Desktop,Auto,Retention Offer,0.42,72,-0.85,4,40,Mobile App,Credit Card,No,Active,1521
+Espresso,Annual,Yes,4.61,29,2,Yes,0.65,15.16,Asia,Culture,0.77,0,Mobile,Auto,Retention Offer,0.11,39,0.0,5,20,Web,Credit Card,No,Active,687
+Digital,Annual,Yes,6.55,3,1,No,0.04,10.22,Europe,Finance,0.83,0,Desktop,Manual,Newsletter Promo,0.26,35,-0.4,1,52,Mobile App,Credit Card,No,Active,1610
+Espresso,Annual,Yes,1.82,17,2,Yes,0.05,18.19,Others,Technology,0.99,0,Desktop,Manual,Newsletter Promo,0.18,-79,-0.04,3,56,Web,Credit Card,No,Cancelled,1018
+Digital,Annual,Yes,0.93,25,1,No,0.46,3.5,North America,Politics,0.54,1,Mobile,Manual,Newsletter Promo,0.12,-10,0.03,4,67,Web,PayPal,Yes,Active,1787
+Digital,Monthly,Yes,3.46,20,2,No,0.55,7.77,North America,Politics,0.59,1,Mobile,Manual,,0.17,68,-0.24,2,38,Mobile App,Credit Card,Yes,Active,532
+Digital+Print,Monthly,Yes,4.08,6,0,No,0.89,10.13,Asia,Finance,0.42,1,Desktop,Auto,,0.23,15,0.47,5,24,Web,Credit Card,No,Active,1764
+Digital,Monthly,Yes,2.65,28,0,Yes,0.1,14.55,Asia,Finance,0.44,1,Mobile,Auto,,0.33,-60,-0.54,5,43,Mobile App,PayPal,No,Active,788
+Espresso,Monthly,No,5.18,0,0,Yes,0.82,11.6,Others,Politics,0.79,3,Mobile,Manual,,0.31,-20,-0.25,4,40,Mobile App,Credit Card,Yes,Active,910
+Digital,Monthly,Yes,0.99,25,0,No,0.21,11.24,Europe,Culture,0.94,2,Tablet,Auto,Survey,0.42,22,-0.16,3,49,Mobile App,Credit Card,No,Cancelled,829
+Digital,Monthly,Yes,4.04,25,2,No,0.39,5.49,Others,Finance,0.58,2,Desktop,Auto,Retention Offer,0.39,-44,0.58,3,19,Web,Credit Card,No,Active,663
+Digital+Print,Annual,No,2.09,22,2,No,0.32,5.37,Asia,Technology,0.43,3,Desktop,Auto,,0.34,59,0.02,2,56,Mobile App,Credit Card,No,Active,1490
+Digital,Monthly,No,5.58,25,2,No,0.4,11.29,Asia,Politics,0.5,2,Mobile,Auto,,0.05,26,-0.01,2,19,Web,Credit Card,No,Cancelled,1190
+Digital+Print,Monthly,Yes,5.99,12,0,No,0.15,4.54,Europe,Politics,0.62,1,Mobile,Auto,Retention Offer,0.3,-6,0.44,4,56,Web,Credit Card,No,Active,1084
+Digital,Monthly,Yes,1.85,5,1,Yes,0.5,7.87,North America,Culture,0.5,0,Mobile,Auto,Newsletter Promo,0.14,-46,-0.26,1,63,Web,Credit Card,Yes,Cancelled,717
+Digital,Monthly,Yes,2.18,5,0,Yes,0.8,12.0,Others,Technology,0.46,0,Mobile,Auto,,0.28,-95,0.44,3,32,Mobile App,Credit Card,No,Active,1716
+Digital,Monthly,Yes,4.29,11,1,No,0.44,6.07,Europe,Environment,0.82,0,Desktop,Manual,,0.1,66,0.2,1,33,Mobile App,Credit Card,Yes,Active,379
+Digital+Print,Annual,No,2.42,7,1,No,0.49,16.42,Europe,Environment,0.31,0,Mobile,Manual,Newsletter Promo,0.4,-92,0.62,1,43,Web,Credit Card,No,Active,256
+Digital,Monthly,Yes,2.93,23,1,Yes,0.85,14.9,Europe,Finance,0.68,1,Desktop,Manual,,0.54,-69,-0.19,4,25,Mobile App,Credit Card,No,Active,853
+Espresso,Monthly,No,3.04,21,4,Yes,0.71,3.71,Europe,Politics,0.86,2,Mobile,Auto,,0.09,63,-0.15,2,33,Mobile App,Credit Card,No,Cancelled,800
+Digital,Monthly,Yes,0.12,18,0,No,0.49,6.27,Europe,Culture,0.49,0,Mobile,Manual,Newsletter Promo,0.32,27,0.07,1,38,Web,PayPal,No,Cancelled,225
+Digital,Annual,Yes,2.98,4,2,No,0.26,0.86,North America,Environment,0.72,3,Tablet,Manual,,0.42,-85,-0.03,4,56,Mobile App,PayPal,No,Active,1376
+Digital+Print,Monthly,Yes,1.97,17,1,No,0.88,6.87,Asia,Technology,0.77,5,Mobile,Auto,,0.35,39,0.38,2,28,Web,PayPal,Yes,Cancelled,401
+Digital,Monthly,Yes,2.26,29,0,No,0.58,13.07,Europe,Culture,0.76,2,Mobile,Manual,,0.09,-60,-0.11,1,41,Mobile App,PayPal,No,Active,856
+Digital,Monthly,Yes,5.17,4,1,No,0.22,8.34,Europe,Culture,0.61,0,Mobile,Auto,Survey,0.2,94,-0.53,1,53,Mobile App,PayPal,No,Active,1443
+Digital,Monthly,Yes,1.12,29,1,No,0.27,11.84,North America,Finance,0.54,1,Mobile,Manual,Retention Offer,0.2,85,0.68,2,35,Web,Credit Card,No,Cancelled,1288
+Digital,Annual,Yes,4.22,24,0,Yes,0.8,3.91,North America,Technology,0.89,0,Mobile,Auto,Retention Offer,0.43,36,0.96,2,40,Mobile App,Credit Card,No,Active,1714
+Digital,Annual,Yes,2.58,9,1,No,0.04,13.19,North America,Culture,0.83,0,Mobile,Auto,Newsletter Promo,0.3,24,-0.78,5,30,Web,Credit Card,No,Active,83
+Digital,Monthly,Yes,2.58,0,1,No,0.99,7.78,Asia,Technology,0.52,1,Desktop,Auto,,0.39,-84,0.24,5,66,Mobile App,Credit Card,No,Active,1149
+Digital,Annual,Yes,4.19,9,1,No,0.13,10.05,North America,Politics,0.37,0,Desktop,Auto,,0.36,9,0.37,4,61,Web,Credit Card,No,Active,290
+Espresso,Annual,Yes,3.51,4,3,Yes,0.8,9.63,Others,Finance,0.35,0,Desktop,Auto,,0.29,32,0.12,4,67,Mobile App,Debit Card,No,Active,1226
+Digital+Print,Annual,Yes,3.86,11,1,Yes,0.39,4.91,North America,Politics,0.37,1,Mobile,Manual,Retention Offer,0.23,-75,0.79,3,59,Mobile App,Debit Card,Yes,Active,98
+Espresso,Annual,No,4.45,21,1,No,0.49,5.39,North America,Politics,0.71,0,Desktop,Manual,Retention Offer,0.16,28,-0.67,5,56,Mobile App,Credit Card,Yes,Active,1795
+Digital,Monthly,Yes,2.5,29,1,No,0.88,13.87,North America,Environment,0.34,1,Mobile,Manual,,0.08,-100,-0.28,2,61,Web,Credit Card,No,Active,1462
+Digital,Monthly,Yes,2.08,26,2,Yes,0.41,11.6,North America,Politics,0.54,0,Desktop,Auto,,0.07,-66,0.05,5,61,Mobile App,Credit Card,Yes,Active,1069
+Digital,Monthly,No,1.37,6,0,No,0.54,14.2,Asia,Politics,0.83,0,Desktop,Manual,,0.28,-92,0.46,4,62,Web,PayPal,No,Cancelled,432
+Digital,Annual,No,1.76,8,2,No,0.05,11.3,Asia,Finance,0.51,0,Mobile,Auto,,0.48,-14,0.6,4,18,Web,PayPal,No,Active,630
+Digital+Print,Monthly,No,7.42,21,0,No,0.0,10.57,Europe,Technology,0.83,2,Desktop,Manual,,0.31,-63,-0.6,4,24,Web,Credit Card,No,Cancelled,837
+Digital,Annual,Yes,4.87,20,1,No,0.24,3.1,North America,Finance,0.82,0,Tablet,Auto,Newsletter Promo,0.36,-97,-0.89,2,65,Mobile App,PayPal,No,Active,384
+Digital,Annual,Yes,0.97,11,0,No,0.68,8.92,North America,Politics,0.47,1,Desktop,Auto,Newsletter Promo,0.29,-49,0.39,1,65,Web,PayPal,No,Active,1681
+Digital,Monthly,Yes,1.02,22,0,Yes,0.12,9.89,Europe,Politics,0.81,0,Mobile,Manual,,0.04,46,0.06,4,38,Mobile App,Credit Card,No,Cancelled,473
+Espresso,Annual,Yes,3.72,28,1,Yes,0.11,17.81,Others,Politics,0.82,1,Desktop,Manual,,0.29,-96,0.08,5,33,Mobile App,Credit Card,No,Active,756
+Digital,Monthly,Yes,3.82,0,0,No,0.41,12.75,North America,Finance,0.58,0,Tablet,Auto,Retention Offer,0.32,5,0.4,1,65,Mobile App,Debit Card,No,Active,302
+Digital+Print,Monthly,Yes,3.82,10,2,Yes,0.65,16.14,Asia,Politics,0.45,2,Mobile,Manual,Survey,0.52,-53,-0.4,5,31,Web,PayPal,Yes,Active,99
+Digital+Print,Annual,Yes,2.62,29,1,No,0.71,12.39,Europe,Environment,0.66,3,Desktop,Auto,,0.59,-14,-0.12,4,60,Mobile App,Credit Card,No,Active,828
+Digital,Monthly,Yes,2.81,20,0,No,0.18,7.15,North America,Finance,0.94,1,Mobile,Manual,Newsletter Promo,0.26,90,0.26,2,68,Web,Credit Card,No,Active,797
+Digital,Annual,Yes,3.49,14,0,No,0.08,10.47,Europe,Politics,0.75,1,Mobile,Auto,,0.47,-63,-0.48,1,60,Mobile App,Credit Card,No,Active,118
+Digital,Annual,Yes,3.13,1,1,Yes,0.94,10.94,North America,Technology,0.42,0,Desktop,Auto,Survey,0.45,-49,-0.27,1,19,Mobile App,PayPal,No,Active,717
+Digital,Monthly,No,0.0,19,0,No,0.26,6.24,Asia,Finance,0.78,1,Desktop,Auto,Retention Offer,0.15,-14,0.05,4,48,Mobile App,Credit Card,No,Cancelled,61
+Digital,Monthly,Yes,2.66,6,2,No,0.85,8.46,North America,Technology,0.6,1,Desktop,Auto,,0.1,-55,0.26,4,56,Mobile App,Credit Card,No,Active,1455
+Digital,Monthly,Yes,1.72,20,1,Yes,0.86,9.18,Asia,Politics,0.71,1,Tablet,Manual,,0.24,-8,-0.72,4,26,Web,Credit Card,No,Cancelled,1234
+Digital+Print,Monthly,Yes,3.26,11,1,Yes,0.77,16.42,North America,Technology,0.81,0,Mobile,Auto,Newsletter Promo,0.2,36,0.33,3,58,Web,Credit Card,No,Active,170
+Digital,Annual,No,7.48,21,1,Yes,0.17,1.68,Others,Culture,0.66,2,Mobile,Auto,,0.34,-51,0.22,2,31,Web,Credit Card,No,Active,907
+Digital,Monthly,No,3.55,17,0,No,0.82,14.82,North America,Environment,0.87,0,Tablet,Auto,Newsletter Promo,0.41,-35,-0.42,2,27,Web,Credit Card,No,Cancelled,702
+Espresso,Monthly,Yes,2.53,2,0,No,0.77,6.25,Asia,Politics,0.81,1,Mobile,Auto,Retention Offer,0.22,-63,1.12,4,65,Referral,Credit Card,No,Active,70
+Digital+Print,Monthly,No,4.38,6,0,No,0.6,4.51,Asia,Finance,0.73,2,Desktop,Manual,Retention Offer,0.34,54,-0.48,3,41,Web,PayPal,No,Active,261
+Digital,Monthly,Yes,3.72,10,0,No,0.34,14.72,Others,Finance,0.41,0,Desktop,Auto,Retention Offer,0.18,4,0.37,4,67,Referral,Credit Card,Yes,Active,461
+Digital,Annual,No,3.63,17,5,Yes,0.26,12.93,Europe,Environment,0.89,0,Mobile,Auto,Newsletter Promo,0.13,47,0.14,4,50,Mobile App,Credit Card,No,Cancelled,202
+Digital,Monthly,Yes,3.91,11,0,No,0.12,15.02,Asia,Environment,0.96,0,Mobile,Auto,,0.08,89,-0.21,2,51,Mobile App,PayPal,No,Active,1199
+Digital+Print,Annual,Yes,6.08,5,1,No,0.51,13.2,North America,Politics,0.4,3,Desktop,Auto,Newsletter Promo,0.04,-85,0.05,3,37,Mobile App,Credit Card,No,Active,1595
+Digital,Monthly,Yes,1.3,4,1,Yes,0.59,18.24,North America,Politics,0.64,0,Desktop,Manual,,0.08,-22,0.27,2,45,Web,Credit Card,No,Cancelled,244
+Digital,Annual,Yes,3.71,25,0,No,0.36,12.23,Europe,Finance,0.48,1,Desktop,Auto,,0.23,-88,1.43,4,21,Web,Credit Card,No,Active,1736
+Digital+Print,Monthly,No,1.61,0,0,No,0.48,9.37,North America,Politics,0.83,1,Desktop,Auto,Newsletter Promo,0.18,13,-0.72,5,51,Mobile App,PayPal,No,Cancelled,237
+Digital,Monthly,No,3.83,11,1,Yes,0.36,11.37,Others,Finance,0.81,2,Mobile,Manual,,0.19,1,-1.36,1,21,Web,PayPal,Yes,Active,1108
+Digital,Annual,Yes,1.62,26,2,Yes,0.64,14.97,North America,Politics,0.4,0,Mobile,Auto,,0.62,47,-0.51,4,23,Web,Credit Card,Yes,Cancelled,1140
+Digital,Monthly,Yes,2.37,25,1,Yes,0.9,6.88,Europe,Technology,0.91,1,Mobile,Manual,,0.54,51,-0.02,3,39,Mobile App,PayPal,Yes,Active,537
+Digital,Annual,Yes,2.56,10,0,No,0.16,7.39,Europe,Environment,0.43,2,Mobile,Auto,Newsletter Promo,0.36,77,0.33,5,21,Mobile App,Debit Card,No,Active,735
+Espresso,Monthly,Yes,4.46,3,2,No,0.38,8.76,Europe,Environment,0.86,1,Mobile,Manual,,0.26,34,0.05,3,67,Mobile App,Credit Card,No,Active,1243
+Digital+Print,Monthly,Yes,4.38,26,0,Yes,0.14,1.58,Europe,Finance,0.62,0,Mobile,Auto,Survey,0.21,-14,-0.08,4,22,Web,PayPal,No,Active,1130
+Digital,Monthly,Yes,1.13,17,0,No,0.62,10.55,North America,Technology,0.53,0,Mobile,Auto,Newsletter Promo,0.47,-13,0.77,4,28,Referral,Credit Card,Yes,Cancelled,405
+Digital+Print,Annual,Yes,3.08,3,1,No,0.73,2.46,Europe,Culture,0.41,2,Mobile,Auto,Newsletter Promo,0.47,-72,-0.4,1,62,Mobile App,Credit Card,No,Active,1204
+Digital+Print,Monthly,No,1.94,16,1,Yes,0.93,10.21,North America,Politics,0.42,0,Mobile,Manual,,0.28,32,0.83,3,52,Mobile App,Credit Card,No,Cancelled,245
+Digital+Print,Monthly,Yes,1.11,1,2,No,0.28,13.46,Others,Technology,0.76,3,Desktop,Manual,Retention Offer,0.17,6,0.31,5,36,Web,PayPal,No,Active,1214
+Digital,Monthly,Yes,2.67,28,0,Yes,0.95,8.09,Asia,Finance,0.69,2,Desktop,Auto,,0.28,62,0.75,1,69,Mobile App,Credit Card,No,Active,737
+Digital,Monthly,Yes,2.54,23,2,No,0.06,16.71,Others,Politics,0.39,1,Mobile,Manual,Newsletter Promo,0.19,-36,-0.47,3,28,Mobile App,Credit Card,No,Active,1661
+Digital+Print,Monthly,No,6.64,21,3,No,0.6,4.16,North America,Finance,0.38,1,Tablet,Auto,Retention Offer,0.08,-1,-0.18,4,28,Mobile App,Credit Card,Yes,Cancelled,314
+Digital+Print,Annual,Yes,3.65,1,0,No,0.06,14.77,North America,Politics,0.35,0,Mobile,Manual,,0.42,14,-0.73,1,44,Web,Credit Card,No,Active,42
+Digital+Print,Annual,Yes,0.93,11,0,Yes,0.89,12.7,North America,Technology,0.82,3,Desktop,Manual,Retention Offer,0.29,97,0.15,4,19,Mobile App,PayPal,Yes,Active,1286
+Digital,Annual,Yes,2.15,5,0,No,0.53,3.14,North America,Politics,0.8,1,Mobile,Auto,Newsletter Promo,0.08,-14,0.16,2,64,Referral,Credit Card,No,Active,1727
+Digital,Annual,Yes,4.53,9,3,No,0.67,20.84,North America,Finance,0.34,0,Desktop,Manual,Retention Offer,0.39,-27,1.0,2,25,Mobile App,Credit Card,Yes,Active,785
+Digital+Print,Monthly,Yes,6.13,24,0,Yes,0.83,9.75,Europe,Politics,0.69,1,Mobile,Auto,Retention Offer,0.06,34,0.04,1,51,Web,Credit Card,No,Active,822
+Digital+Print,Annual,Yes,0.62,22,1,Yes,0.15,6.49,North America,Culture,0.36,1,Desktop,Auto,,0.12,71,-0.76,1,57,Web,Credit Card,Yes,Cancelled,965
+Espresso,Monthly,No,0.18,24,0,Yes,0.04,4.37,Europe,Finance,0.93,2,Mobile,Auto,Survey,0.43,99,0.47,3,37,Web,Credit Card,No,Cancelled,904
+Digital,Monthly,Yes,5.81,20,1,No,0.88,9.12,Asia,Technology,0.93,4,Desktop,Manual,Newsletter Promo,0.26,-88,-0.46,5,40,Mobile App,PayPal,No,Active,1317
+Digital,Monthly,No,3.58,22,0,No,0.31,9.49,Europe,Technology,0.79,0,Mobile,Manual,,0.36,-7,-0.63,5,32,Mobile App,Credit Card,No,Cancelled,1240
+Espresso,Monthly,Yes,1.7,26,1,Yes,0.13,10.41,North America,Finance,0.95,0,Mobile,Manual,Newsletter Promo,0.37,-23,0.35,2,65,Web,Credit Card,No,Cancelled,180
+Digital+Print,Annual,Yes,3.8,15,1,Yes,0.47,8.81,North America,Politics,0.87,0,Desktop,Manual,,0.57,23,-0.38,2,30,Referral,Credit Card,No,Active,1476
+Digital,Monthly,No,0.0,13,0,No,0.6,12.53,Europe,Technology,0.88,0,Mobile,Manual,Newsletter Promo,0.35,24,-0.3,2,48,Mobile App,PayPal,No,Cancelled,1149
+Digital,Monthly,Yes,3.01,6,0,No,0.03,8.45,North America,Politics,0.7,1,Tablet,Auto,Newsletter Promo,0.04,-63,0.7,4,66,Web,Credit Card,No,Active,1180
+Digital+Print,Monthly,No,3.49,27,1,Yes,0.27,2.26,Europe,Politics,0.51,0,Mobile,Auto,,0.4,-88,0.26,5,63,Web,PayPal,No,Cancelled,367
+Digital,Annual,Yes,4.39,27,1,No,0.03,9.4,North America,Technology,0.45,0,Mobile,Auto,Retention Offer,0.32,-47,0.3,1,31,Web,Credit Card,No,Active,1034
+Digital+Print,Monthly,Yes,1.48,18,0,Yes,0.42,0.53,Asia,Politics,0.53,2,Desktop,Auto,Retention Offer,0.39,5,-0.69,2,18,Mobile App,PayPal,No,Cancelled,1683
+Digital+Print,Monthly,Yes,3.13,22,1,No,0.9,11.42,Asia,Finance,0.74,1,Mobile,Auto,,0.08,-57,0.35,3,44,Web,Credit Card,No,Active,1129
+Digital+Print,Monthly,No,1.61,16,1,No,0.98,6.08,Europe,Finance,0.42,2,Mobile,Auto,,0.18,40,-0.14,1,50,Mobile App,PayPal,No,Cancelled,702
+Digital,Annual,Yes,3.38,8,2,Yes,0.64,10.65,North America,Finance,0.48,2,Desktop,Manual,,0.38,52,-0.22,1,52,Mobile App,Credit Card,No,Active,1261
+Espresso,Monthly,Yes,1.66,25,1,No,0.16,15.26,North America,Technology,0.63,1,Desktop,Manual,,0.2,-77,0.2,1,32,Web,Credit Card,No,Cancelled,691
+Digital,Monthly,Yes,2.39,12,4,No,0.91,6.21,Asia,Technology,0.46,0,Tablet,Auto,,0.68,23,0.0,5,22,Web,Credit Card,No,Active,984
+Digital,Monthly,Yes,1.51,21,1,No,0.52,14.25,Europe,Technology,0.71,0,Mobile,Manual,Newsletter Promo,0.4,-72,-0.73,2,54,Mobile App,PayPal,No,Cancelled,1190
+Digital,Monthly,No,3.98,4,0,No,0.15,8.27,North America,Technology,0.95,0,Desktop,Auto,Newsletter Promo,0.13,97,0.48,3,21,Web,Credit Card,Yes,Active,626
+Digital,Monthly,Yes,4.29,22,3,Yes,0.92,17.01,North America,Politics,0.82,0,Mobile,Manual,,0.2,45,0.52,4,63,Referral,PayPal,No,Cancelled,822
+Digital,Monthly,No,2.65,4,2,Yes,0.76,8.54,North America,Finance,0.77,1,Mobile,Auto,,0.28,-9,-0.29,3,37,Mobile App,Debit Card,No,Active,1222
+Digital,Annual,Yes,3.06,9,1,Yes,0.73,6.64,Asia,Finance,0.71,1,Desktop,Auto,,0.26,-96,0.3,3,56,Web,Credit Card,No,Active,1270
+Digital+Print,Monthly,Yes,0.83,20,0,No,0.71,12.75,North America,Finance,0.64,6,Mobile,Manual,,0.21,45,0.46,3,39,Mobile App,Debit Card,No,Cancelled,1439
+Digital+Print,Monthly,No,2.55,26,4,No,0.2,8.26,Europe,Environment,0.43,0,Mobile,Auto,Newsletter Promo,0.38,90,-0.93,4,41,Mobile App,Credit Card,No,Cancelled,197
+Digital,Annual,No,2.92,9,1,No,0.21,6.63,Europe,Culture,0.93,1,Mobile,Auto,Newsletter Promo,0.45,24,-0.26,3,64,Web,PayPal,No,Active,1104
+Digital+Print,Monthly,No,6.93,26,1,Yes,0.69,8.09,Europe,Politics,0.47,0,Desktop,Auto,Newsletter Promo,0.35,64,-1.09,3,28,Web,Debit Card,No,Cancelled,196
+Digital,Monthly,Yes,1.33,6,1,Yes,0.22,9.82,Asia,Politics,0.36,0,Tablet,Auto,,0.32,-30,0.32,2,63,Mobile App,Debit Card,No,Cancelled,987
+Digital+Print,Monthly,Yes,5.2,25,0,Yes,0.44,15.37,Asia,Politics,0.83,2,Desktop,Manual,,0.21,82,0.22,2,23,Web,Credit Card,No,Active,1140
+Digital,Monthly,Yes,4.5,14,1,No,0.78,2.26,Europe,Politics,0.42,5,Mobile,Auto,,0.08,-2,-0.33,2,44,Web,PayPal,Yes,Active,319
+Digital,Annual,No,3.42,6,1,No,0.78,10.09,North America,Politics,0.56,0,Desktop,Manual,,0.09,-89,-0.08,1,27,Mobile App,Credit Card,Yes,Active,1481
+Digital,Monthly,No,5.64,28,1,No,0.45,12.5,Europe,Finance,0.32,3,Desktop,Auto,,0.27,-49,-0.18,3,56,Mobile App,Credit Card,No,Cancelled,1714
+Digital,Annual,Yes,3.56,26,0,No,0.79,10.77,Europe,Culture,0.4,0,Mobile,Auto,,0.47,84,-1.02,5,27,Mobile App,Credit Card,No,Active,1662
+Digital,Monthly,No,3.58,14,0,No,0.84,15.24,Europe,Technology,0.42,1,Mobile,Auto,Survey,0.48,-55,0.65,5,63,Web,Credit Card,No,Active,789
+Digital,Monthly,Yes,2.92,2,1,Yes,0.65,9.7,Europe,Politics,0.34,0,Mobile,Manual,,0.27,3,0.13,5,43,Web,PayPal,No,Active,1275
+Digital,Monthly,Yes,4.84,18,0,No,0.23,9.26,North America,Finance,0.76,0,Mobile,Auto,Survey,0.17,-57,-0.07,4,54,Mobile App,Credit Card,Yes,Active,1685
+Digital,Monthly,Yes,4.64,9,1,No,0.27,12.37,Europe,Finance,0.89,0,Desktop,Auto,Retention Offer,0.6,51,-0.07,2,50,Mobile App,Debit Card,No,Active,1358
+Digital,Monthly,Yes,2.06,27,2,No,0.31,10.4,North America,Culture,0.56,1,Mobile,Auto,Retention Offer,0.28,-92,0.35,2,68,Mobile App,PayPal,No,Active,421
+Digital,Annual,Yes,1.02,28,2,Yes,0.12,8.44,Asia,Culture,0.91,0,Mobile,Auto,,0.14,39,-0.79,2,25,Web,PayPal,No,Cancelled,640
+Digital,Monthly,No,2.7,14,1,No,0.27,12.06,North America,Environment,0.45,1,Tablet,Manual,Survey,0.44,-1,-0.44,4,68,Web,PayPal,Yes,Active,1662
+Digital,Annual,No,1.8,2,1,Yes,0.21,7.39,Asia,Finance,0.53,0,Desktop,Auto,Newsletter Promo,0.19,36,0.11,3,66,Mobile App,PayPal,No,Cancelled,1726
+Digital+Print,Monthly,No,2.9,5,2,Yes,0.46,7.56,North America,Technology,0.41,0,Desktop,Auto,Newsletter Promo,0.31,2,0.56,1,68,Mobile App,Credit Card,No,Active,1776
+Digital,Annual,Yes,4.86,11,1,No,0.91,7.89,Europe,Politics,0.73,0,Mobile,Auto,,0.07,9,-1.21,2,45,Web,Credit Card,Yes,Active,1626
+Digital+Print,Annual,No,2.31,14,1,Yes,0.1,15.41,Asia,Technology,0.59,0,Mobile,Auto,,0.19,15,0.5,3,65,Web,Credit Card,Yes,Active,307
+Digital,Annual,Yes,2.94,5,3,No,0.72,-2.88,North America,Politics,0.73,0,Mobile,Auto,Newsletter Promo,0.46,-79,-0.35,5,53,Mobile App,Credit Card,No,Active,448
+Digital+Print,Annual,Yes,3.09,12,2,No,0.69,11.58,Asia,Finance,0.83,1,Mobile,Auto,,0.14,44,-0.14,1,57,Referral,Credit Card,No,Active,1196
+Digital,Annual,Yes,4.27,28,2,Yes,0.1,10.14,Europe,Technology,0.68,0,Mobile,Auto,Survey,0.09,60,0.02,5,42,Web,PayPal,No,Active,510
+Digital,Monthly,Yes,0.0,18,0,Yes,0.92,3.28,Europe,Politics,0.74,1,Desktop,Auto,,0.4,74,-0.55,3,53,Web,Credit Card,No,Cancelled,1552
+Digital,Monthly,No,2.09,2,2,No,0.57,11.24,North America,Politics,0.95,2,Mobile,Auto,Newsletter Promo,0.51,-13,-0.62,3,30,Web,Credit Card,No,Active,744
+Digital,Monthly,Yes,3.32,7,1,No,0.36,11.9,Europe,Politics,0.51,1,Mobile,Manual,Newsletter Promo,0.25,42,0.1,5,24,Web,Credit Card,No,Active,768
+Digital,Annual,Yes,4.8,7,1,No,0.76,12.36,Europe,Politics,0.55,0,Mobile,Manual,Newsletter Promo,0.14,-68,0.95,1,18,Web,Credit Card,No,Active,1231
+Digital+Print,Monthly,No,2.26,22,2,No,0.26,-0.61,Europe,Politics,0.8,1,Desktop,Auto,Newsletter Promo,0.35,-86,-0.47,5,26,Web,PayPal,No,Cancelled,1557
+Digital+Print,Annual,No,0.19,25,2,No,0.69,15.47,Europe,Politics,0.73,2,Desktop,Auto,Retention Offer,0.13,-74,-0.48,5,45,Mobile App,PayPal,No,Cancelled,794
+Digital,Monthly,Yes,3.93,19,2,No,0.04,7.05,Europe,Politics,0.42,1,Desktop,Manual,,0.17,88,-0.61,5,53,Mobile App,Debit Card,No,Active,535
+Digital+Print,Monthly,Yes,2.05,14,0,No,0.84,12.75,North America,Politics,0.56,3,Mobile,Manual,Newsletter Promo,0.53,95,-0.11,1,63,Mobile App,Credit Card,No,Active,1667
+Digital+Print,Monthly,Yes,1.22,3,0,Yes,0.45,12.96,North America,Environment,0.63,1,Mobile,Auto,,0.44,11,-0.49,4,47,Mobile App,Credit Card,No,Cancelled,1427
+Digital,Monthly,Yes,2.06,18,0,No,0.64,6.49,North America,Finance,0.59,0,Mobile,Manual,Survey,0.47,-19,-0.48,1,26,Web,Credit Card,No,Active,986
+Digital+Print,Monthly,Yes,2.72,20,2,No,0.22,12.64,North America,Politics,0.42,1,Mobile,Manual,Retention Offer,0.24,-53,0.11,5,47,Web,Debit Card,Yes,Active,811
+Espresso,Monthly,Yes,2.09,2,0,No,0.68,8.46,Asia,Finance,0.95,1,Desktop,Auto,Survey,0.51,-93,-0.72,2,52,Mobile App,Credit Card,No,Active,487
+Espresso,Monthly,Yes,0.0,12,0,Yes,0.77,1.71,Asia,Culture,0.83,1,Tablet,Auto,,0.11,33,0.81,2,64,Mobile App,Credit Card,No,Cancelled,501
+Espresso,Monthly,Yes,4.35,7,1,No,0.47,14.67,North America,Technology,0.64,0,Desktop,Manual,,0.26,90,-0.59,3,44,Web,Credit Card,Yes,Active,1210
+Digital+Print,Monthly,Yes,4.91,22,2,No,0.62,6.9,Others,Politics,0.78,0,Tablet,Auto,Newsletter Promo,0.24,17,0.57,4,46,Web,Credit Card,Yes,Active,261
+Espresso,Monthly,Yes,3.98,15,2,No,0.46,6.58,Europe,Technology,0.93,1,Desktop,Manual,,0.05,-17,0.99,3,22,Mobile App,Credit Card,No,Active,139
+Espresso,Annual,Yes,1.29,12,1,Yes,0.89,8.39,Others,Technology,0.4,1,Mobile,Manual,Newsletter Promo,0.29,-99,0.6,3,18,Web,PayPal,No,Active,1123
+Digital,Monthly,Yes,2.7,2,0,No,0.5,11.09,Asia,Technology,0.48,0,Tablet,Manual,,0.14,49,0.54,2,60,Web,PayPal,No,Active,627
+Digital,Monthly,Yes,2.99,15,1,Yes,0.84,9.77,Asia,Technology,0.68,0,Mobile,Auto,Retention Offer,0.46,17,0.4,1,68,Referral,Credit Card,No,Active,648
+Digital,Monthly,Yes,3.9,8,0,Yes,0.8,12.19,North America,Culture,0.86,1,Desktop,Auto,,0.34,-80,0.11,3,22,Mobile App,Credit Card,Yes,Active,1392
+Espresso,Monthly,Yes,4.0,27,0,Yes,0.41,4.64,North America,Culture,0.33,1,Mobile,Auto,Newsletter Promo,0.49,33,0.59,3,46,Mobile App,Credit Card,Yes,Active,1823
+Digital,Monthly,Yes,1.9,13,0,Yes,0.23,7.03,North America,Technology,0.99,2,Mobile,Manual,Retention Offer,0.51,22,-0.13,4,34,Web,PayPal,No,Cancelled,633
+Digital,Monthly,Yes,3.12,12,1,No,0.41,9.54,Asia,Finance,0.62,1,Desktop,Manual,,0.41,-5,0.43,2,68,Mobile App,PayPal,No,Active,1424
+Digital,Monthly,No,3.69,20,1,No,0.83,17.59,North America,Technology,0.55,0,Mobile,Auto,,0.14,97,0.55,1,66,Mobile App,PayPal,No,Cancelled,269
+Digital+Print,Monthly,Yes,5.18,24,1,Yes,0.23,9.54,Asia,Culture,0.5,0,Mobile,Auto,Newsletter Promo,0.3,-88,0.25,4,54,Mobile App,Credit Card,No,Active,750
+Digital+Print,Monthly,No,4.06,6,1,No,0.52,14.34,North America,Politics,0.42,0,Mobile,Manual,Retention Offer,0.18,-100,-0.13,1,41,Web,PayPal,No,Active,232
+Digital,Annual,Yes,4.18,14,2,No,0.81,10.15,Asia,Environment,0.85,1,Mobile,Manual,,0.15,49,0.24,1,69,Referral,Debit Card,No,Active,685
+Digital,Annual,Yes,3.13,6,1,Yes,0.35,8.07,North America,Politics,0.97,0,Tablet,Auto,,0.11,16,-0.18,3,44,Web,PayPal,No,Active,709
+Digital+Print,Monthly,Yes,5.12,5,1,No,0.64,9.01,North America,Finance,0.59,0,Desktop,Auto,Retention Offer,0.26,51,-0.27,4,26,Web,Credit Card,No,Active,153
+Digital,Monthly,Yes,3.61,1,1,No,0.25,9.33,North America,Culture,0.97,0,Mobile,Manual,,0.16,-37,0.39,3,55,Web,PayPal,No,Active,488
+Digital+Print,Monthly,Yes,1.71,8,3,No,0.11,12.41,Europe,Politics,0.88,0,Mobile,Manual,,0.35,68,0.07,5,30,Mobile App,PayPal,Yes,Cancelled,376
+Digital,Monthly,Yes,5.11,21,1,No,0.79,15.5,North America,Finance,0.64,1,Desktop,Manual,Retention Offer,0.41,49,0.39,1,43,Mobile App,Credit Card,No,Active,563
+Digital,Annual,Yes,4.05,23,1,Yes,0.1,11.44,Asia,Politics,0.77,1,Mobile,Auto,,0.06,-40,0.08,4,28,Mobile App,Credit Card,No,Active,238
+Digital,Monthly,Yes,2.34,16,1,No,0.27,14.75,North America,Finance,0.6,2,Mobile,Auto,,0.24,7,0.25,2,41,Web,PayPal,No,Active,1275
+Digital,Monthly,No,2.28,4,0,No,0.86,6.14,North America,Politics,0.69,2,Mobile,Auto,,0.09,-89,0.7,3,50,Mobile App,PayPal,No,Active,1751
+Digital,Monthly,No,3.44,11,2,No,0.35,8.34,Asia,Finance,0.34,2,Desktop,Manual,Newsletter Promo,0.49,-11,-0.08,5,66,Web,Debit Card,No,Active,599
+Digital,Annual,Yes,3.69,0,1,Yes,0.97,7.1,North America,Finance,0.79,2,Mobile,Manual,,0.5,31,-0.2,5,23,Web,Credit Card,No,Active,650
+Digital+Print,Monthly,Yes,3.3,9,0,Yes,0.98,11.26,Others,Environment,0.34,3,Mobile,Manual,Newsletter Promo,0.19,-18,0.21,5,52,Mobile App,PayPal,No,Active,1750
+Digital,Monthly,No,3.47,10,1,No,0.27,8.56,Others,Environment,0.87,1,Mobile,Auto,Survey,0.14,27,-1.29,3,33,Web,Credit Card,Yes,Active,1589
+Digital,Monthly,No,5.55,15,0,Yes,0.04,12.92,North America,Politics,0.88,1,Mobile,Manual,Retention Offer,0.49,39,0.35,2,30,Mobile App,Debit Card,No,Active,1000
+Digital,Monthly,No,4.61,13,0,No,0.71,6.28,North America,Technology,0.47,0,Desktop,Auto,,0.61,-68,-0.43,4,61,Web,Credit Card,No,Active,1376
+Digital,Monthly,Yes,3.29,7,0,Yes,0.45,10.17,North America,Politics,0.53,1,Mobile,Auto,,0.27,48,0.84,1,28,Web,Credit Card,No,Active,354
+Digital,Monthly,Yes,4.41,23,0,No,0.1,12.75,Asia,Politics,0.64,2,Mobile,Auto,Newsletter Promo,0.11,27,0.39,2,40,Web,Credit Card,No,Active,128
+Digital,Monthly,Yes,1.45,16,2,Yes,0.71,1.74,Europe,Politics,0.72,0,Mobile,Manual,,0.13,-1,0.46,3,19,Web,PayPal,No,Cancelled,391
+Digital,Monthly,No,3.6,24,2,No,0.03,18.49,Europe,Environment,0.5,1,Mobile,Manual,,0.17,5,0.47,4,47,Web,Credit Card,No,Cancelled,1641
+Digital,Monthly,Yes,5.71,17,2,No,0.87,8.87,Asia,Environment,0.71,2,Desktop,Auto,Retention Offer,0.25,-29,-0.23,1,36,Web,PayPal,Yes,Active,1528
+Digital,Monthly,No,2.67,11,0,No,0.14,1.9,North America,Politics,0.51,0,Desktop,Auto,,0.29,-27,-0.13,4,57,Mobile App,Credit Card,No,Active,1559
+Digital+Print,Monthly,No,1.73,24,2,Yes,0.13,10.63,Asia,Politics,0.34,1,Mobile,Manual,,0.39,-5,-0.85,1,62,Web,Credit Card,Yes,Cancelled,1020
+Digital+Print,Monthly,Yes,2.02,16,0,No,0.18,10.13,Asia,Politics,0.3,0,Mobile,Auto,Retention Offer,0.07,-9,0.75,1,63,Mobile App,Credit Card,Yes,Active,212
+Digital+Print,Annual,No,1.37,27,1,Yes,0.96,9.67,Europe,Finance,0.37,0,Mobile,Manual,Survey,0.25,-27,-0.64,5,64,Mobile App,Credit Card,No,Cancelled,111
+Digital+Print,Monthly,No,1.82,25,2,No,0.69,13.96,Asia,Technology,0.85,2,Desktop,Auto,,0.08,-29,-0.01,3,66,Mobile App,Credit Card,No,Cancelled,681
+Digital,Monthly,No,2.44,13,1,No,0.8,12.99,Asia,Politics,0.97,2,Desktop,Auto,Newsletter Promo,0.1,79,0.61,2,32,Mobile App,PayPal,Yes,Active,882
+Digital+Print,Monthly,No,0.89,15,1,No,0.4,11.19,North America,Culture,0.6,3,Mobile,Auto,,0.31,74,0.77,5,59,Web,Credit Card,Yes,Cancelled,1562
+Digital,Monthly,No,3.02,13,3,Yes,0.34,11.8,Europe,Finance,0.66,3,Desktop,Auto,Newsletter Promo,0.22,-42,-0.13,5,50,Web,Credit Card,No,Cancelled,1058
+Digital,Annual,Yes,4.35,8,0,No,0.23,9.58,Europe,Environment,0.4,0,Desktop,Auto,,0.21,74,-0.85,4,61,Mobile App,Credit Card,Yes,Active,1792
+Digital,Monthly,Yes,1.64,3,2,Yes,0.48,17.1,North America,Technology,0.69,1,Tablet,Auto,Survey,0.3,-45,0.12,1,58,Mobile App,Credit Card,No,Cancelled,357
+Digital+Print,Annual,Yes,5.28,24,2,Yes,0.55,4.08,Others,Finance,0.4,1,Mobile,Auto,Newsletter Promo,0.36,-88,0.17,1,22,Web,Credit Card,No,Active,85
+Digital,Monthly,Yes,3.77,22,1,Yes,0.63,10.56,North America,Culture,0.73,1,Mobile,Auto,,0.17,71,0.21,4,39,Mobile App,Debit Card,No,Active,631
+Digital,Monthly,No,4.55,10,1,No,0.26,10.26,Europe,Culture,0.95,2,Mobile,Manual,,0.19,-66,-0.15,3,44,Mobile App,Credit Card,Yes,Active,1392
+Digital+Print,Annual,Yes,2.01,5,1,Yes,0.95,13.25,Europe,Politics,0.44,1,Desktop,Auto,Newsletter Promo,0.37,18,-0.07,1,64,Mobile App,PayPal,No,Active,778
+Digital,Annual,Yes,4.28,14,2,Yes,0.17,6.62,North America,Finance,0.84,0,Desktop,Auto,Survey,0.31,14,-0.35,5,52,Mobile App,PayPal,No,Active,118
+Digital,Annual,No,1.36,4,0,No,0.97,3.03,Others,Environment,0.32,0,Desktop,Manual,,0.62,56,0.08,5,36,Web,Credit Card,No,Active,813
+Espresso,Annual,Yes,4.34,10,1,Yes,0.01,10.63,Asia,Politics,0.56,0,Mobile,Auto,,0.21,-45,0.4,1,56,Web,Credit Card,No,Active,1322
+Digital+Print,Monthly,No,3.26,24,0,No,0.48,11.12,Europe,Politics,0.38,1,Mobile,Auto,,0.48,32,0.13,1,24,Web,Credit Card,Yes,Cancelled,882
+Digital+Print,Annual,Yes,3.83,17,1,No,0.33,15.96,North America,Finance,0.55,1,Mobile,Manual,Newsletter Promo,0.4,94,-0.02,3,56,Web,Credit Card,Yes,Active,1667
+Digital+Print,Monthly,Yes,1.24,29,0,No,0.45,4.92,North America,Culture,0.42,1,Desktop,Manual,Newsletter Promo,0.33,-48,0.56,1,51,Referral,PayPal,No,Cancelled,467
+Digital,Annual,Yes,1.66,12,1,No,0.57,14.62,North America,Culture,0.56,2,Mobile,Manual,Survey,0.39,0,0.13,3,51,Web,PayPal,No,Active,617
+Digital,Monthly,Yes,3.9,10,2,No,0.44,19.47,North America,Environment,0.59,0,Mobile,Auto,,0.54,19,0.02,5,44,Web,Debit Card,No,Active,1402
+Digital,Annual,Yes,1.58,13,1,No,0.41,8.49,Europe,Finance,0.51,1,Desktop,Manual,,0.07,-41,0.04,3,61,Web,PayPal,Yes,Active,1362
+Digital,Monthly,Yes,3.69,27,2,Yes,0.73,4.84,Others,Politics,0.76,0,Mobile,Auto,Newsletter Promo,0.02,4,-0.61,1,22,Mobile App,Credit Card,No,Active,1788
+Digital,Monthly,No,0.95,17,1,No,0.69,8.37,Europe,Technology,0.94,1,Mobile,Auto,,0.13,33,-0.55,2,21,Mobile App,PayPal,No,Cancelled,201
+Digital,Monthly,No,4.27,26,0,No,0.83,10.06,Asia,Culture,0.58,1,Mobile,Manual,Survey,0.14,75,-0.06,1,24,Mobile App,PayPal,No,Cancelled,173
+Digital+Print,Annual,Yes,1.15,27,1,No,0.25,12.26,Europe,Politics,0.43,0,Desktop,Auto,Newsletter Promo,0.43,5,-0.37,2,65,Mobile App,PayPal,No,Active,404
+Digital+Print,Monthly,Yes,3.83,24,1,No,0.61,7.63,Europe,Politics,0.49,0,Desktop,Manual,Retention Offer,0.33,-21,-0.02,5,20,Web,PayPal,No,Active,1547
+Espresso,Monthly,Yes,3.94,27,2,Yes,0.59,16.22,Asia,Politics,0.9,0,Tablet,Auto,,0.38,62,0.43,4,38,Web,Debit Card,No,Active,31
+Digital,Monthly,Yes,1.95,18,0,No,0.37,5.54,Europe,Technology,0.7,2,Mobile,Auto,Newsletter Promo,0.23,45,0.35,5,51,Mobile App,Credit Card,No,Cancelled,538
+Digital,Monthly,Yes,3.87,23,3,Yes,0.49,3.04,Asia,Culture,0.62,2,Tablet,Manual,Retention Offer,0.19,-90,0.2,5,66,Mobile App,Credit Card,No,Cancelled,1444
+Digital,Annual,Yes,3.39,26,1,No,0.31,14.43,North America,Technology,0.4,1,Desktop,Auto,,0.27,-50,0.42,5,26,Web,PayPal,No,Active,1794
+Digital,Monthly,Yes,2.19,14,0,Yes,0.14,0.9,North America,Environment,0.61,1,Desktop,Manual,Survey,0.17,20,0.52,3,37,Web,Credit Card,No,Active,998
+Digital,Annual,Yes,1.49,8,1,No,0.21,9.18,Asia,Politics,0.49,0,Tablet,Manual,,0.37,-78,0.5,5,57,Mobile App,PayPal,No,Active,445
+Digital+Print,Monthly,Yes,0.06,7,0,No,0.11,22.47,Europe,Environment,0.96,0,Mobile,Manual,,0.37,-54,0.48,4,29,Web,Credit Card,No,Active,728
+Digital,Monthly,Yes,3.52,19,1,Yes,0.68,9.95,Asia,Culture,0.92,2,Mobile,Auto,,0.22,-26,-0.6,1,56,Web,Credit Card,No,Active,1790
+Digital,Annual,No,0.65,27,0,No,0.66,5.52,Others,Finance,0.36,0,Mobile,Auto,,0.2,86,-0.95,2,63,Mobile App,Credit Card,Yes,Cancelled,351
+Digital+Print,Monthly,Yes,3.14,0,1,Yes,0.95,9.77,North America,Environment,0.66,3,Desktop,Manual,Retention Offer,0.1,84,-0.39,5,45,Web,PayPal,Yes,Active,579
+Digital+Print,Monthly,No,2.6,3,0,Yes,0.73,9.8,Europe,Politics,0.46,1,Desktop,Manual,Retention Offer,0.22,-8,-0.23,2,65,Mobile App,Credit Card,Yes,Active,1376
+Digital,Monthly,No,4.02,13,0,No,0.05,10.64,North America,Culture,0.59,0,Desktop,Auto,Retention Offer,0.48,26,0.46,5,50,Web,PayPal,No,Active,750
+Digital+Print,Annual,No,2.55,24,2,No,0.88,12.65,Europe,Culture,0.91,0,Mobile,Manual,Retention Offer,0.47,-45,-0.05,3,27,Web,Debit Card,Yes,Active,293
+Digital,Monthly,Yes,2.51,1,2,No,0.86,5.84,Asia,Culture,0.67,1,Mobile,Auto,Newsletter Promo,0.21,54,-0.24,2,28,Mobile App,Credit Card,Yes,Active,173
+Digital+Print,Annual,Yes,4.1,15,2,Yes,0.44,16.75,North America,Technology,0.53,1,Mobile,Manual,Newsletter Promo,0.04,-28,0.08,5,24,Web,Credit Card,No,Active,550
+Digital,Annual,No,3.5,2,0,Yes,0.59,10.98,Europe,Politics,0.45,0,Desktop,Auto,Newsletter Promo,0.33,62,0.27,5,35,Mobile App,Credit Card,Yes,Active,1321
+Digital,Monthly,Yes,3.47,25,1,No,0.98,12.91,Asia,Finance,0.86,1,Mobile,Auto,Retention Offer,0.16,82,0.39,4,36,Web,Credit Card,No,Active,994
+Digital+Print,Monthly,Yes,3.7,7,2,No,0.53,7.49,North America,Finance,0.74,0,Tablet,Auto,,0.44,36,-0.21,4,31,Web,Credit Card,Yes,Active,1319
+Digital,Monthly,Yes,0.7,5,1,No,0.91,15.15,Asia,Culture,0.63,1,Mobile,Auto,Newsletter Promo,0.32,-83,-0.48,4,34,Web,Credit Card,No,Active,483
+Digital,Monthly,No,4.14,15,2,Yes,0.08,8.97,Europe,Culture,0.45,4,Mobile,Manual,,0.54,-57,-0.39,3,40,Mobile App,Credit Card,No,Active,1121
+Digital+Print,Monthly,Yes,3.92,23,0,No,0.19,11.11,Others,Environment,0.53,1,Desktop,Auto,Retention Offer,0.36,48,0.06,2,36,Web,Credit Card,No,Active,59
+Digital,Monthly,Yes,1.47,15,1,No,0.44,6.27,North America,Politics,0.97,0,Mobile,Manual,,0.28,-45,-0.53,3,62,Web,PayPal,Yes,Active,625
+Digital,Monthly,No,2.63,6,0,Yes,0.58,6.01,North America,Culture,0.66,0,Mobile,Auto,Survey,0.11,75,0.47,1,20,Web,Debit Card,Yes,Active,673
+Digital+Print,Annual,No,2.94,29,0,No,0.82,12.75,Europe,Environment,0.58,0,Mobile,Auto,,0.2,-1,-0.52,5,51,Mobile App,Credit Card,No,Active,175
+Digital+Print,Annual,Yes,2.8,12,1,No,0.99,8.23,North America,Culture,0.66,1,Mobile,Auto,,0.38,-100,-0.78,5,42,Web,PayPal,No,Active,1538
+Digital+Print,Annual,Yes,3.5,12,0,Yes,0.39,6.58,Others,Politics,0.85,1,Tablet,Auto,Survey,0.37,54,0.08,5,58,Mobile App,Credit Card,No,Active,714
+Digital+Print,Monthly,Yes,5.15,4,0,Yes,0.05,7.43,North America,Politics,0.54,2,Desktop,Auto,Newsletter Promo,0.23,-56,-0.14,4,48,Referral,Credit Card,No,Active,203
+Digital+Print,Monthly,Yes,4.62,24,0,No,0.8,12.8,Asia,Politics,0.43,1,Mobile,Auto,Survey,0.17,-38,0.24,5,56,Web,Credit Card,No,Active,1542
+Digital+Print,Monthly,Yes,1.03,19,0,No,0.6,7.48,Europe,Technology,0.71,0,Desktop,Manual,,0.56,-43,-0.25,4,31,Web,Credit Card,No,Cancelled,922
+Digital,Annual,Yes,3.93,21,1,No,0.2,9.53,North America,Technology,0.77,2,Mobile,Auto,,0.06,67,0.2,1,54,Mobile App,Credit Card,No,Active,1428
+Digital,Monthly,No,4.99,17,0,No,0.49,10.06,North America,Environment,0.8,0,Desktop,Auto,Newsletter Promo,0.09,-38,0.5,3,69,Web,Credit Card,No,Cancelled,1159
+Digital,Annual,Yes,3.58,14,0,Yes,0.74,2.33,Europe,Finance,0.92,0,Tablet,Manual,,0.22,-63,-0.31,3,64,Mobile App,Debit Card,No,Active,391
+Espresso,Monthly,Yes,4.64,17,2,No,0.77,4.12,Europe,Finance,0.56,2,Desktop,Auto,,0.68,-72,0.26,3,37,Web,Credit Card,Yes,Active,1079
+Digital,Monthly,Yes,6.02,1,1,Yes,0.5,11.35,North America,Technology,0.35,2,Mobile,Auto,,0.41,-61,0.9,4,49,Web,PayPal,No,Active,1445
+Digital+Print,Annual,Yes,4.54,9,0,Yes,0.31,7.05,Others,Culture,0.97,3,Mobile,Auto,,0.39,46,0.39,2,50,Referral,PayPal,No,Active,1488
+Digital,Monthly,Yes,3.37,22,0,No,0.97,14.23,North America,Environment,0.6,2,Mobile,Auto,Retention Offer,0.41,-13,-0.4,2,69,Web,Credit Card,Yes,Active,900
+Digital+Print,Annual,No,4.57,12,0,No,0.66,13.87,Europe,Culture,0.74,0,Desktop,Auto,Newsletter Promo,0.73,-45,0.17,1,48,Web,Credit Card,No,Active,887
+Digital,Annual,Yes,3.22,17,2,No,0.41,12.88,Europe,Finance,0.77,1,Desktop,Auto,Newsletter Promo,0.35,-57,-0.65,2,24,Mobile App,Credit Card,No,Active,391
+Digital,Monthly,No,3.04,14,1,Yes,0.28,17.28,North America,Technology,0.68,1,Mobile,Manual,Newsletter Promo,0.09,92,-0.58,1,22,Referral,Credit Card,No,Active,928
+Espresso,Monthly,Yes,2.47,11,1,Yes,0.73,9.67,Others,Culture,0.44,0,Tablet,Manual,Retention Offer,0.49,-1,0.75,5,21,Web,Credit Card,Yes,Active,1307
+Digital+Print,Monthly,No,5.35,14,0,No,0.24,12.6,North America,Finance,0.83,0,Mobile,Auto,Retention Offer,0.09,40,0.2,3,28,Referral,Credit Card,No,Active,1303
+Espresso,Annual,No,1.77,12,1,Yes,0.17,7.66,North America,Politics,0.86,0,Mobile,Manual,Newsletter Promo,0.07,57,0.77,4,36,Mobile App,Credit Card,No,Cancelled,145
+Digital,Monthly,Yes,5.3,17,1,No,0.53,19.81,North America,Politics,0.69,0,Mobile,Auto,,0.35,-52,0.21,1,55,Referral,Credit Card,No,Active,1004
+Digital,Monthly,No,3.75,14,2,Yes,0.29,17.93,Europe,Politics,0.64,1,Mobile,Auto,Retention Offer,0.09,14,-0.27,4,37,Mobile App,Credit Card,No,Active,1702
+Digital,Monthly,Yes,0.9,24,1,No,0.63,10.05,Europe,Technology,0.38,2,Mobile,Auto,Survey,0.15,-26,0.02,4,44,Mobile App,Credit Card,No,Cancelled,1318
+Digital,Annual,Yes,3.55,22,1,No,0.12,11.55,Europe,Politics,0.36,1,Desktop,Auto,,0.59,90,0.13,3,46,Mobile App,Debit Card,No,Active,1426
+Digital,Monthly,No,0.0,10,2,Yes,0.65,15.44,North America,Politics,0.54,1,Mobile,Auto,,0.41,98,1.11,5,35,Web,Credit Card,No,Cancelled,558
+Digital+Print,Annual,No,3.94,18,3,No,0.28,9.41,North America,Politics,0.52,0,Mobile,Auto,Retention Offer,0.05,62,0.35,5,54,Referral,PayPal,No,Cancelled,1653
+Digital,Annual,Yes,4.33,2,2,No,0.0,7.37,Asia,Technology,0.97,0,Desktop,Manual,,0.14,38,-0.37,2,69,Web,Debit Card,No,Active,1107
+Digital,Monthly,Yes,2.11,6,1,No,0.13,13.5,North America,Finance,0.85,0,Mobile,Manual,,0.27,-52,-0.1,5,64,Web,Credit Card,No,Active,1633
+Digital+Print,Monthly,Yes,3.19,20,2,No,0.93,10.31,Asia,Technology,0.76,1,Desktop,Auto,Survey,0.14,6,0.24,3,42,Mobile App,Credit Card,No,Active,600
+Digital+Print,Annual,Yes,5.93,25,1,No,0.87,10.73,North America,Politics,0.66,4,Mobile,Manual,,0.34,10,-0.54,4,37,Web,Credit Card,Yes,Active,1269
+Digital+Print,Monthly,Yes,2.24,13,0,Yes,0.23,6.66,Asia,Politics,0.42,1,Desktop,Manual,,0.29,14,-0.01,1,23,Mobile App,Debit Card,No,Active,1478
+Digital,Annual,Yes,1.41,13,0,No,0.78,3.13,North America,Finance,0.98,3,Tablet,Auto,,0.27,67,-0.1,1,53,Mobile App,PayPal,No,Active,1094
+Digital+Print,Monthly,Yes,5.22,21,1,No,0.61,10.94,Europe,Finance,0.56,1,Mobile,Auto,Retention Offer,0.34,-80,0.24,5,66,Web,Credit Card,No,Active,1426
+Digital,Monthly,Yes,5.94,12,0,Yes,0.97,13.62,North America,Politics,0.37,0,Desktop,Auto,Retention Offer,0.16,-54,-0.05,2,32,Web,PayPal,No,Active,1234
+Digital,Annual,No,3.01,11,1,No,0.37,9.1,North America,Politics,0.65,1,Desktop,Auto,,0.19,-98,-0.7,1,35,Mobile App,Credit Card,No,Active,442
+Espresso,Monthly,Yes,4.52,23,0,No,0.68,15.75,North America,Culture,0.91,1,Desktop,Auto,Retention Offer,0.33,57,-0.02,2,55,Mobile App,Credit Card,No,Active,320
+Digital,Monthly,Yes,5.01,8,1,Yes,0.06,7.18,North America,Technology,0.92,2,Mobile,Auto,Retention Offer,0.73,26,0.38,1,42,Mobile App,PayPal,No,Active,460
+Digital,Monthly,Yes,1.89,0,3,Yes,0.4,5.78,North America,Politics,0.31,2,Mobile,Auto,,0.47,-34,0.72,2,37,Web,PayPal,Yes,Cancelled,320
+Digital+Print,Monthly,Yes,2.27,18,3,Yes,0.96,9.73,Europe,Politics,0.92,1,Desktop,Auto,Newsletter Promo,0.33,-39,0.48,2,39,Referral,Credit Card,No,Cancelled,695
+Digital+Print,Monthly,Yes,4.85,10,2,Yes,0.54,9.67,Europe,Environment,0.49,0,Desktop,Auto,,0.17,64,-0.8,4,68,Web,PayPal,No,Active,1148
+Digital+Print,Monthly,Yes,5.53,22,1,No,0.29,13.08,Asia,Technology,0.33,1,Mobile,Auto,Survey,0.41,49,-0.67,3,29,Web,Credit Card,No,Active,779
+Digital,Annual,Yes,3.84,21,1,Yes,0.12,6.9,Europe,Finance,0.89,2,Mobile,Auto,Newsletter Promo,0.15,-70,-0.53,1,58,Web,PayPal,No,Active,81
+Digital+Print,Monthly,Yes,1.68,22,1,No,0.7,15.47,Europe,Technology,0.9,0,Mobile,Auto,Newsletter Promo,0.09,-55,0.75,5,57,Web,Credit Card,No,Cancelled,1790
+Digital,Monthly,Yes,5.98,23,1,Yes,0.64,17.87,Europe,Culture,0.72,1,Mobile,Auto,Retention Offer,0.07,-56,0.25,3,64,Mobile App,PayPal,No,Active,48
+Digital,Monthly,Yes,2.2,21,1,No,0.37,9.84,Europe,Culture,0.7,1,Mobile,Manual,Retention Offer,0.31,-87,1.32,4,50,Mobile App,PayPal,No,Active,1087
+Digital+Print,Annual,Yes,2.5,18,2,Yes,0.95,15.0,Europe,Finance,0.87,1,Mobile,Auto,Retention Offer,0.64,20,0.64,4,46,Mobile App,Credit Card,No,Active,302
+Digital+Print,Monthly,Yes,3.51,17,0,Yes,0.02,5.77,Asia,Finance,0.85,0,Mobile,Auto,Retention Offer,0.25,39,0.05,4,19,Mobile App,Debit Card,No,Active,968
+Digital,Annual,Yes,5.33,11,0,Yes,0.3,14.3,North America,Politics,0.92,0,Mobile,Auto,Newsletter Promo,0.21,18,-0.23,5,43,Web,Credit Card,No,Active,1502
+Digital,Monthly,Yes,4.28,22,2,No,0.92,14.19,North America,Environment,0.69,0,Tablet,Manual,Newsletter Promo,0.34,90,0.19,1,49,Mobile App,Credit Card,No,Active,996
+Digital,Monthly,Yes,3.62,27,0,No,0.32,13.45,Europe,Technology,0.98,0,Mobile,Manual,,0.16,-24,0.42,1,20,Web,Credit Card,Yes,Active,707
+Digital+Print,Monthly,No,3.69,27,3,Yes,0.25,9.94,North America,Politics,1.0,0,Mobile,Auto,,0.07,-13,0.61,2,47,Mobile App,Credit Card,No,Cancelled,816
+Digital+Print,Monthly,Yes,3.07,27,0,Yes,0.53,-1.82,Asia,Environment,0.38,2,Mobile,Auto,,0.07,65,-0.14,2,36,Web,Credit Card,No,Active,1653
+Digital,Monthly,No,3.84,26,0,No,0.82,7.43,Asia,Environment,0.89,3,Tablet,Auto,,0.26,16,1.1,2,27,Web,PayPal,No,Cancelled,1444
+Digital,Monthly,Yes,0.0,0,0,Yes,0.1,7.5,North America,Environment,0.65,1,Desktop,Auto,Retention Offer,0.63,74,-0.02,5,42,Web,PayPal,Yes,Cancelled,1502
+Digital,Annual,Yes,2.56,18,0,Yes,0.94,6.09,North America,Culture,0.57,0,Desktop,Manual,,0.28,23,0.59,3,63,Mobile App,Credit Card,No,Active,1037
+Digital,Monthly,No,3.36,27,0,No,0.8,10.49,Europe,Environment,0.73,2,Mobile,Auto,Newsletter Promo,0.18,-47,0.17,1,36,Mobile App,PayPal,No,Cancelled,1694
+Digital,Monthly,No,1.27,26,0,Yes,0.18,8.32,Europe,Politics,0.34,1,Desktop,Auto,Retention Offer,0.38,82,-0.18,2,60,Referral,PayPal,No,Cancelled,694
+Digital,Monthly,Yes,3.58,19,1,No,0.71,6.7,North America,Culture,0.65,0,Mobile,Auto,,0.11,-53,-0.98,5,38,Web,PayPal,No,Active,48
+Digital+Print,Annual,Yes,2.69,28,2,No,0.38,5.76,Asia,Culture,0.91,0,Mobile,Auto,Newsletter Promo,0.48,99,-0.62,5,23,Referral,Debit Card,Yes,Active,243
+Digital,Monthly,Yes,5.63,29,0,No,0.4,7.14,Europe,Politics,0.45,3,Desktop,Manual,Newsletter Promo,0.38,0,0.59,2,68,Web,Credit Card,No,Active,819
+Espresso,Monthly,No,5.36,16,1,No,0.78,14.49,North America,Politics,0.6,1,Desktop,Auto,,0.34,-86,0.38,4,31,Mobile App,PayPal,No,Cancelled,1515
+Digital+Print,Monthly,Yes,2.3,4,1,Yes,0.96,7.36,North America,Environment,0.96,0,Desktop,Manual,Survey,0.41,98,0.3,4,25,Web,Credit Card,No,Active,1312
+Digital,Annual,Yes,2.77,25,1,No,0.13,7.94,Asia,Politics,0.6,1,Desktop,Auto,Newsletter Promo,0.17,12,0.78,4,19,Web,PayPal,No,Active,804
+Digital+Print,Monthly,Yes,2.89,2,0,Yes,0.42,8.17,North America,Culture,0.55,0,Tablet,Auto,Newsletter Promo,0.23,-85,-0.49,2,35,Mobile App,PayPal,No,Active,1129
+Digital,Monthly,Yes,2.32,1,1,Yes,0.48,11.36,Asia,Politics,0.61,1,Mobile,Auto,,0.21,70,-0.24,5,39,Mobile App,Credit Card,No,Active,827
+Espresso,Annual,Yes,3.29,2,5,Yes,0.38,11.82,Europe,Politics,0.66,0,Mobile,Auto,,0.53,34,-0.2,5,47,Mobile App,Debit Card,No,Active,100
+Espresso,Annual,No,1.86,7,2,No,0.36,-2.18,Europe,Finance,0.74,0,Mobile,Auto,Retention Offer,0.33,-58,-0.67,1,53,Web,PayPal,No,Active,242
+Digital,Monthly,Yes,1.3,15,0,Yes,0.05,14.09,Asia,Politics,0.86,0,Desktop,Auto,,0.16,-73,-0.4,4,45,Mobile App,Debit Card,No,Cancelled,1054
+Digital+Print,Annual,Yes,3.93,5,3,No,0.69,15.75,Asia,Technology,0.62,0,Mobile,Manual,Survey,0.05,-35,-0.54,2,52,Web,Credit Card,No,Active,1298
+Digital,Monthly,Yes,3.94,12,0,No,0.44,5.8,North America,Technology,0.87,0,Desktop,Auto,Newsletter Promo,0.23,-3,-0.78,1,19,Web,PayPal,No,Active,386
+Digital+Print,Monthly,No,1.79,29,0,No,0.19,6.11,North America,Politics,0.67,1,Mobile,Auto,Survey,0.36,-41,-0.45,5,53,Mobile App,PayPal,Yes,Cancelled,1182
+Digital+Print,Monthly,Yes,4.34,22,2,No,0.82,8.2,Asia,Politics,0.54,1,Mobile,Auto,Survey,0.4,27,-0.03,1,35,Mobile App,Credit Card,No,Active,118
+Digital,Monthly,No,2.05,27,0,Yes,0.8,6.98,Europe,Finance,0.76,1,Mobile,Auto,Newsletter Promo,0.37,30,0.89,4,60,Referral,PayPal,No,Cancelled,547
+Digital+Print,Monthly,Yes,3.38,21,1,No,0.49,10.9,North America,Politics,0.8,0,Mobile,Manual,,0.33,28,-0.51,3,26,Web,PayPal,Yes,Active,62
+Digital,Annual,Yes,4.23,21,2,Yes,0.3,2.21,Others,Culture,0.69,1,Desktop,Auto,Newsletter Promo,0.3,58,0.54,4,45,Referral,PayPal,Yes,Active,640
+Digital,Monthly,Yes,2.95,15,1,No,0.64,5.53,North America,Finance,0.34,0,Mobile,Manual,,0.34,-45,0.11,4,25,Mobile App,Credit Card,No,Active,752
+Digital+Print,Monthly,No,3.68,27,1,No,0.29,16.16,North America,Politics,0.42,0,Mobile,Auto,,0.25,-17,0.22,2,25,Mobile App,PayPal,No,Cancelled,659
+Digital,Monthly,No,2.23,15,1,Yes,0.24,6.29,North America,Finance,0.5,1,Mobile,Manual,Newsletter Promo,0.45,73,0.07,3,22,Web,PayPal,No,Active,387
+Digital+Print,Annual,Yes,2.71,2,2,Yes,0.73,14.97,Europe,Politics,0.5,2,Mobile,Manual,,0.13,-69,-0.93,3,30,Mobile App,PayPal,No,Active,1496
+Digital+Print,Monthly,No,2.69,27,0,No,0.04,11.42,Europe,Politics,0.77,1,Mobile,Manual,,0.12,-20,-0.53,3,24,Mobile App,Credit Card,No,Cancelled,568
+Digital+Print,Monthly,No,1.88,12,0,No,0.09,2.76,North America,Politics,0.31,0,Mobile,Auto,Newsletter Promo,0.17,-83,0.29,5,38,Web,Credit Card,No,Cancelled,1780
+Digital+Print,Monthly,Yes,2.73,13,0,No,0.01,12.54,North America,Culture,0.83,0,Desktop,Auto,Retention Offer,0.3,95,0.02,1,46,Mobile App,Credit Card,No,Active,1510
+Digital,Monthly,Yes,0.68,7,1,No,0.15,9.53,North America,Environment,0.49,0,Mobile,Auto,Retention Offer,0.16,-66,-0.82,5,54,Web,PayPal,No,Active,335
+Digital,Annual,No,2.26,11,3,Yes,0.07,8.18,Europe,Culture,0.52,0,Mobile,Auto,,0.42,3,-0.11,3,62,Mobile App,Credit Card,No,Active,1610
+Espresso,Annual,Yes,2.57,22,1,Yes,1.0,10.98,North America,Finance,0.67,0,Desktop,Auto,Survey,0.06,-1,0.3,2,69,Referral,Credit Card,No,Active,1377
+Digital+Print,Monthly,No,2.62,22,2,No,0.29,11.9,Others,Politics,0.45,0,Mobile,Manual,,0.47,-78,-0.63,4,65,Web,PayPal,Yes,Cancelled,1523
+Digital,Annual,Yes,2.64,21,1,Yes,0.15,12.83,North America,Finance,0.92,3,Mobile,Auto,Newsletter Promo,0.35,40,-0.2,4,31,Mobile App,Credit Card,No,Active,1431
+Digital+Print,Monthly,Yes,2.91,20,1,No,0.24,14.71,Others,Technology,0.36,1,Desktop,Manual,,0.54,41,0.76,5,54,Web,Debit Card,Yes,Active,1480
+Digital+Print,Annual,Yes,3.72,25,1,No,0.94,11.63,North America,Environment,0.61,0,Mobile,Auto,Newsletter Promo,0.4,64,0.29,5,68,Mobile App,Credit Card,No,Active,279
+Digital,Monthly,Yes,4.31,7,0,No,0.52,4.5,Asia,Politics,0.89,0,Desktop,Manual,Retention Offer,0.17,-96,0.79,2,21,Mobile App,Debit Card,No,Active,759
+Espresso,Monthly,Yes,2.03,20,3,Yes,0.36,8.11,North America,Politics,0.73,2,Mobile,Auto,,0.24,49,-0.19,4,39,Web,Credit Card,No,Cancelled,1669
+Digital,Monthly,Yes,1.2,24,2,No,0.87,21.77,North America,Technology,0.5,0,Desktop,Auto,,0.22,-73,0.54,5,28,Web,Credit Card,No,Cancelled,968
+Digital+Print,Monthly,No,1.44,8,1,No,0.39,12.9,Asia,Culture,0.59,1,Tablet,Manual,,0.43,31,-0.52,1,51,Mobile App,Credit Card,No,Cancelled,813
+Digital+Print,Monthly,Yes,2.27,0,2,No,0.34,19.48,Asia,Culture,0.79,0,Mobile,Auto,Survey,0.32,-51,0.42,5,62,Mobile App,PayPal,No,Active,1768
+Digital,Monthly,Yes,2.47,5,0,No,0.21,15.58,Europe,Technology,0.98,0,Mobile,Manual,,0.04,1,-0.36,5,33,Web,Credit Card,Yes,Active,1810
+Digital+Print,Monthly,Yes,1.85,22,0,Yes,0.38,10.97,Asia,Environment,0.93,1,Mobile,Auto,,0.09,-72,0.23,3,26,Web,Credit Card,No,Cancelled,1090
+Digital,Annual,Yes,1.06,18,0,No,0.32,11.21,Europe,Finance,0.54,0,Mobile,Auto,Retention Offer,0.29,-64,0.25,1,33,Web,Debit Card,No,Active,680
+Digital,Monthly,Yes,2.32,22,2,No,0.68,9.85,Asia,Environment,1.0,0,Desktop,Manual,Survey,0.45,62,0.34,1,56,Web,Credit Card,No,Active,1200
+Digital,Monthly,No,3.27,10,0,Yes,0.29,3.05,North America,Environment,0.3,2,Desktop,Auto,,0.47,47,-0.5,2,33,Mobile App,PayPal,No,Active,52
+Digital,Annual,Yes,3.89,10,2,Yes,0.58,10.07,Europe,Culture,0.32,4,Mobile,Manual,,0.34,62,0.16,3,48,Web,PayPal,No,Active,461
+Digital,Monthly,Yes,2.16,22,0,Yes,0.07,14.84,Europe,Finance,0.88,1,Desktop,Auto,Newsletter Promo,0.43,29,0.01,1,48,Mobile App,Credit Card,Yes,Active,504
+Digital+Print,Monthly,Yes,2.38,29,1,No,0.19,7.6,North America,Politics,0.44,2,Mobile,Manual,,0.57,15,0.63,3,30,Web,PayPal,No,Active,188
+Digital+Print,Monthly,Yes,1.61,12,0,No,0.41,11.65,Asia,Finance,0.34,4,Desktop,Auto,,0.43,-43,-0.32,3,22,Web,Credit Card,No,Active,621
+Digital,Annual,Yes,2.95,10,2,No,0.94,13.41,North America,Finance,0.47,3,Desktop,Auto,Retention Offer,0.44,45,-0.65,4,64,Web,Credit Card,No,Active,995
+Digital+Print,Monthly,Yes,1.73,17,2,No,0.38,6.36,North America,Culture,0.6,1,Desktop,Auto,,0.32,5,-0.82,1,56,Mobile App,Credit Card,Yes,Cancelled,854
+Digital,Monthly,No,3.86,22,0,Yes,0.66,8.19,Europe,Politics,0.81,0,Mobile,Auto,Survey,0.06,-45,-0.14,4,35,Web,PayPal,No,Cancelled,193
+Digital+Print,Annual,No,0.32,14,0,No,0.26,5.93,Europe,Politics,0.74,2,Desktop,Auto,Retention Offer,0.34,21,-0.21,5,37,Referral,Credit Card,No,Active,1502
+Espresso,Annual,No,2.46,0,0,No,0.13,6.71,North America,Culture,0.47,0,Mobile,Auto,Retention Offer,0.47,91,-0.15,5,19,Web,Credit Card,No,Active,1336
+Digital,Monthly,Yes,3.45,20,3,No,0.06,4.85,North America,Politics,0.65,3,Desktop,Auto,,0.08,2,-0.15,4,57,Web,PayPal,Yes,Active,750
+Digital,Monthly,No,3.28,24,0,No,0.31,6.4,Others,Finance,0.95,0,Mobile,Auto,Newsletter Promo,0.22,22,0.7,5,47,Web,Credit Card,Yes,Cancelled,1243
+Digital+Print,Monthly,Yes,7.04,6,0,Yes,0.16,15.68,North America,Finance,0.87,0,Mobile,Auto,,0.06,79,-0.07,4,27,Web,Debit Card,No,Active,1817
+Digital,Annual,Yes,3.52,22,2,No,0.17,6.34,Europe,Technology,0.53,0,Desktop,Auto,,0.29,-79,0.57,2,59,Mobile App,Credit Card,No,Active,274
+Espresso,Monthly,Yes,1.49,26,3,No,0.76,10.51,Asia,Politics,0.99,1,Desktop,Auto,Newsletter Promo,0.39,-41,0.19,3,28,Mobile App,Credit Card,No,Cancelled,612
+Digital,Monthly,Yes,2.86,12,2,No,0.02,7.99,Europe,Culture,0.8,1,Mobile,Auto,,0.28,37,-0.46,2,46,Web,PayPal,No,Active,101
+Espresso,Annual,No,0.34,11,1,No,0.56,14.72,Others,Finance,0.34,2,Tablet,Auto,,0.24,-17,0.0,1,57,Mobile App,Credit Card,No,Active,575
+Digital,Monthly,Yes,2.88,17,1,No,0.38,15.24,Asia,Environment,0.32,1,Desktop,Manual,,0.06,27,0.77,2,33,Mobile App,PayPal,No,Active,682
+Digital,Monthly,Yes,1.75,23,1,Yes,0.51,13.46,Europe,Finance,0.42,0,Desktop,Auto,,0.19,-21,0.51,2,65,Referral,Debit Card,Yes,Cancelled,1724
+Digital,Monthly,Yes,4.37,18,1,No,0.56,11.22,Europe,Politics,0.81,1,Desktop,Manual,,0.5,33,0.6,5,45,Web,Credit Card,No,Active,1738
+Digital,Monthly,Yes,2.18,14,0,Yes,0.31,9.08,Europe,Politics,0.43,2,Mobile,Auto,Retention Offer,0.46,-20,0.25,4,34,Web,Credit Card,Yes,Active,893
+Digital,Monthly,Yes,2.82,7,2,Yes,0.3,5.23,Europe,Politics,0.66,0,Desktop,Manual,Newsletter Promo,0.3,-95,-0.24,1,55,Mobile App,Credit Card,Yes,Active,1241
+Digital,Monthly,Yes,2.05,18,0,Yes,0.73,17.77,Asia,Finance,0.37,2,Mobile,Auto,Retention Offer,0.02,-15,0.82,5,67,Web,PayPal,Yes,Active,437
+Digital,Monthly,Yes,5.61,9,2,Yes,0.87,6.96,North America,Politics,0.94,2,Mobile,Auto,Newsletter Promo,0.56,-19,0.28,1,66,Mobile App,Credit Card,No,Active,1572
+Digital,Monthly,Yes,2.52,6,0,No,0.19,12.65,North America,Finance,0.54,0,Desktop,Manual,,0.35,55,0.47,3,61,Referral,Credit Card,No,Active,962
+Digital,Annual,Yes,5.75,17,1,No,0.1,14.24,North America,Technology,0.94,2,Desktop,Manual,,0.18,-59,0.05,4,32,Web,PayPal,No,Active,547
+Digital,Monthly,No,4.22,15,0,No,0.9,7.78,North America,Politics,0.96,2,Desktop,Auto,,0.21,-27,-0.52,5,48,Mobile App,Credit Card,Yes,Active,1112
+Digital,Annual,Yes,3.72,19,2,Yes,0.35,14.15,North America,Politics,0.3,2,Desktop,Auto,Newsletter Promo,0.36,-60,0.2,2,24,Referral,Credit Card,No,Active,880
+Digital,Monthly,No,3.55,26,0,Yes,0.55,13.06,Asia,Culture,0.62,0,Desktop,Auto,Newsletter Promo,0.27,-38,0.85,3,63,Referral,Debit Card,Yes,Cancelled,144
+Digital,Annual,Yes,3.59,5,1,Yes,0.36,16.91,Europe,Environment,0.32,1,Mobile,Auto,,0.3,-79,0.4,2,47,Mobile App,Credit Card,Yes,Active,124
+Digital,Annual,Yes,0.11,26,1,No,0.13,8.12,Europe,Politics,0.94,1,Tablet,Manual,Newsletter Promo,0.05,-22,0.28,1,53,Mobile App,Credit Card,No,Active,935
+Digital,Monthly,No,2.58,8,0,Yes,0.59,4.86,Europe,Politics,0.66,1,Mobile,Auto,,0.17,56,-0.43,3,66,Web,Credit Card,No,Active,761
+Digital,Annual,Yes,4.27,20,0,No,0.53,7.98,Asia,Environment,0.35,2,Desktop,Auto,Newsletter Promo,0.14,-30,0.76,5,43,Referral,PayPal,No,Active,1123
+Digital,Annual,Yes,2.93,12,1,No,0.2,10.84,Europe,Politics,0.38,2,Desktop,Auto,Survey,0.03,13,0.67,2,28,Web,Credit Card,No,Active,414
+Espresso,Monthly,Yes,0.89,24,1,No,0.45,10.23,Asia,Environment,0.57,1,Desktop,Auto,,0.14,-67,-0.89,2,23,Web,Credit Card,Yes,Cancelled,705
+Digital,Monthly,Yes,2.92,20,1,No,0.8,8.43,North America,Politics,0.96,1,Mobile,Auto,,0.2,-5,0.46,1,59,Web,Credit Card,No,Active,1302
+Digital,Monthly,Yes,5.56,25,2,No,0.59,2.36,Others,Culture,0.79,0,Tablet,Manual,Retention Offer,0.1,29,-0.12,1,46,Mobile App,Debit Card,No,Active,1593
+Digital+Print,Annual,No,4.87,7,3,No,0.1,11.88,Europe,Finance,0.91,1,Desktop,Auto,,0.17,53,0.15,4,45,Web,Credit Card,Yes,Active,1104
+Digital,Annual,Yes,2.91,15,0,No,0.55,17.89,North America,Environment,0.56,1,Tablet,Manual,Survey,0.46,8,-0.41,4,32,Mobile App,Credit Card,No,Active,1331
+Digital,Annual,No,4.43,12,0,Yes,0.7,11.86,Europe,Finance,0.33,1,Mobile,Auto,,0.66,-26,0.06,1,46,Mobile App,Credit Card,No,Active,1714
+Digital,Monthly,Yes,2.45,12,0,Yes,0.79,12.44,Europe,Technology,0.98,1,Desktop,Auto,Retention Offer,0.05,-82,-0.55,4,23,Web,Credit Card,No,Active,867
+Digital,Annual,No,0.44,16,0,Yes,0.63,12.29,North America,Politics,0.31,2,Desktop,Auto,Newsletter Promo,0.27,24,-0.4,2,65,Web,PayPal,No,Cancelled,1407
+Digital,Monthly,Yes,1.61,22,0,No,0.15,11.59,Europe,Politics,0.96,2,Desktop,Auto,Newsletter Promo,0.4,-81,0.26,1,29,Web,PayPal,No,Cancelled,92
+Digital,Monthly,Yes,5.34,19,0,Yes,0.71,13.73,North America,Culture,0.56,1,Tablet,Manual,Retention Offer,0.46,60,-0.38,3,68,Web,Credit Card,No,Active,1761
+Digital+Print,Monthly,No,2.59,4,1,Yes,0.68,11.58,North America,Finance,0.31,0,Mobile,Auto,,0.45,15,0.21,1,33,Web,Credit Card,No,Active,1296
+Digital+Print,Monthly,Yes,2.63,21,0,No,0.02,8.75,Others,Environment,0.78,4,Mobile,Auto,Retention Offer,0.53,-7,0.05,5,63,Web,Credit Card,No,Active,1575
+Digital,Monthly,Yes,2.55,20,0,No,0.41,6.82,Europe,Finance,0.99,0,Mobile,Auto,Newsletter Promo,0.26,-19,1.19,5,55,Mobile App,Credit Card,Yes,Active,72
+Digital,Monthly,Yes,5.86,27,1,No,0.33,9.0,Asia,Culture,0.98,1,Mobile,Auto,,0.55,-5,-0.32,1,26,Mobile App,PayPal,No,Active,137
+Digital,Monthly,Yes,5.44,16,0,No,0.67,11.26,Europe,Finance,0.41,0,Tablet,Manual,,0.1,3,-0.17,3,39,Mobile App,Credit Card,Yes,Active,65
+Digital,Monthly,Yes,6.33,27,0,Yes,0.22,8.74,North America,Environment,0.43,2,Mobile,Auto,,0.18,-97,-0.36,1,50,Web,Credit Card,No,Active,882
+Digital,Monthly,Yes,2.76,8,2,Yes,0.59,11.26,Europe,Environment,0.7,2,Mobile,Manual,Survey,0.17,59,0.71,3,43,Web,Credit Card,Yes,Active,820
+Digital,Monthly,No,3.44,1,1,No,0.91,11.76,Europe,Finance,0.75,1,Mobile,Auto,Retention Offer,0.12,46,0.05,2,57,Mobile App,PayPal,No,Active,1581
+Digital,Monthly,No,0.73,24,2,Yes,0.8,13.33,Others,Culture,0.82,3,Desktop,Auto,,0.14,30,-0.08,2,24,Mobile App,PayPal,Yes,Cancelled,1483
+Digital,Monthly,Yes,5.22,25,0,Yes,0.92,15.13,North America,Culture,0.43,0,Mobile,Auto,Newsletter Promo,0.04,-9,0.39,3,63,Web,Credit Card,Yes,Active,950
+Digital,Monthly,Yes,1.25,17,0,Yes,0.98,10.31,Asia,Politics,0.97,0,Mobile,Manual,Newsletter Promo,0.08,-40,-0.44,4,49,Web,Credit Card,Yes,Cancelled,894
+Digital,Monthly,Yes,3.33,8,2,No,0.01,4.77,Others,Technology,0.75,1,Mobile,Manual,Retention Offer,0.49,-63,-0.67,2,57,Referral,Debit Card,No,Active,1744
+Digital+Print,Monthly,Yes,1.35,5,2,Yes,0.62,8.62,Europe,Politics,0.89,1,Mobile,Auto,Retention Offer,0.27,17,0.14,5,60,Web,Credit Card,No,Cancelled,474
+Digital+Print,Monthly,Yes,2.12,10,4,No,0.41,10.18,Others,Culture,0.68,1,Tablet,Auto,Newsletter Promo,0.45,33,0.08,1,41,Web,Credit Card,No,Active,420
+Digital+Print,Monthly,Yes,1.74,24,0,No,0.86,2.66,North America,Politics,0.59,1,Mobile,Auto,Newsletter Promo,0.25,-45,-0.37,4,58,Web,PayPal,No,Cancelled,220
+Digital,Monthly,Yes,2.09,28,1,No,0.25,15.55,Others,Politics,0.98,0,Desktop,Auto,,0.11,67,0.18,5,68,Mobile App,Credit Card,No,Active,118
+Digital,Annual,Yes,2.19,5,2,No,0.98,10.57,Asia,Finance,0.71,2,Tablet,Auto,,0.34,20,0.92,1,56,Mobile App,Credit Card,No,Active,227
+Digital,Monthly,Yes,2.18,5,1,Yes,0.61,11.53,North America,Technology,0.91,0,Desktop,Auto,Survey,0.11,-20,0.22,5,55,Web,PayPal,No,Active,490
+Espresso,Monthly,Yes,4.25,12,1,No,0.79,15.46,Others,Culture,0.97,1,Tablet,Auto,,0.54,5,-0.99,4,67,Web,Credit Card,Yes,Active,1524
+Digital,Monthly,Yes,1.34,10,3,No,0.09,7.48,Europe,Environment,0.77,1,Tablet,Auto,Newsletter Promo,0.52,19,0.71,3,54,Web,PayPal,Yes,Cancelled,184
+Espresso,Monthly,Yes,3.33,13,2,No,0.18,12.3,Europe,Finance,0.68,0,Mobile,Auto,Newsletter Promo,0.24,-32,0.99,1,36,Web,Credit Card,No,Active,1274
+Digital,Monthly,No,4.83,1,0,Yes,0.76,9.56,Europe,Politics,0.3,1,Desktop,Manual,Newsletter Promo,0.07,-18,0.26,5,60,Web,Debit Card,No,Active,1556
+Digital,Monthly,No,2.23,7,0,No,0.02,9.26,North America,Technology,0.33,1,Mobile,Auto,Newsletter Promo,0.32,-59,0.09,5,22,Web,Credit Card,Yes,Active,963
+Espresso,Monthly,Yes,1.92,2,3,Yes,0.82,6.91,Europe,Technology,0.44,1,Mobile,Manual,,0.08,-2,-0.77,4,47,Web,PayPal,No,Cancelled,1121
+Digital,Monthly,Yes,2.65,22,1,No,0.01,16.66,Asia,Finance,0.43,2,Desktop,Auto,,0.3,29,-0.43,4,42,Mobile App,Credit Card,Yes,Active,1331
+Digital,Monthly,Yes,4.77,20,1,No,0.66,8.5,North America,Finance,0.48,4,Desktop,Auto,Newsletter Promo,0.39,-73,-0.15,4,47,Mobile App,Credit Card,No,Active,1058
+Digital+Print,Annual,Yes,3.29,2,0,No,0.37,12.8,North America,Finance,0.51,0,Desktop,Auto,Retention Offer,0.23,16,-0.37,3,42,Mobile App,Credit Card,No,Active,863
+Digital,Annual,No,2.2,0,1,No,0.61,2.5,North America,Finance,0.55,1,Desktop,Auto,Retention Offer,0.34,44,-0.25,2,26,Mobile App,PayPal,No,Active,1661
+Digital,Annual,Yes,3.73,23,1,No,0.7,14.72,Europe,Culture,0.59,1,Mobile,Auto,Newsletter Promo,0.51,-31,0.06,5,44,Referral,Credit Card,No,Active,1663
+Espresso,Annual,Yes,1.35,18,1,No,0.34,14.21,Asia,Finance,0.37,2,Desktop,Auto,Retention Offer,0.13,6,-0.34,3,41,Referral,PayPal,No,Active,1464
+Digital+Print,Monthly,Yes,4.02,17,0,Yes,0.11,10.39,Asia,Culture,0.33,2,Mobile,Manual,,0.13,22,0.76,5,57,Web,Credit Card,Yes,Active,1324
+Digital,Monthly,Yes,3.61,16,1,Yes,0.07,9.09,Others,Finance,0.77,1,Mobile,Auto,Retention Offer,0.31,-32,0.04,3,60,Web,PayPal,No,Active,711
+Digital,Monthly,Yes,2.54,19,2,No,0.59,11.6,Europe,Politics,0.68,1,Desktop,Manual,,0.62,-62,0.25,1,55,Mobile App,Credit Card,No,Active,1261
+Digital,Monthly,No,1.74,28,0,No,0.52,19.16,North America,Culture,0.61,2,Mobile,Auto,Newsletter Promo,0.19,34,0.25,2,32,Mobile App,Credit Card,No,Cancelled,1338
+Digital+Print,Annual,Yes,1.67,23,3,Yes,0.74,2.95,Others,Technology,0.74,1,Desktop,Auto,Retention Offer,0.2,59,0.19,5,55,Referral,Credit Card,No,Cancelled,281
+Digital,Monthly,Yes,3.8,12,1,No,0.51,13.13,Asia,Politics,0.88,2,Desktop,Auto,,0.57,-97,0.02,4,43,Mobile App,Credit Card,Yes,Active,1465
+Digital,Annual,Yes,4.84,2,2,No,0.42,6.35,Europe,Technology,0.6,1,Mobile,Manual,,0.24,48,0.5,2,47,Web,Credit Card,No,Active,1163
+Digital,Monthly,Yes,2.04,29,0,Yes,0.4,9.92,Europe,Finance,0.75,1,Desktop,Auto,Newsletter Promo,0.2,59,0.6,5,28,Web,PayPal,No,Active,1613
+Digital+Print,Annual,No,3.69,0,0,Yes,0.03,9.01,Others,Culture,0.97,0,Desktop,Manual,,0.04,-19,-1.03,1,46,Web,Credit Card,Yes,Active,1231
+Digital,Monthly,No,0.0,3,0,No,0.34,8.29,Asia,Finance,0.89,1,Mobile,Auto,Retention Offer,0.24,-4,-0.72,5,32,Mobile App,PayPal,No,Cancelled,327
+Espresso,Monthly,Yes,2.12,24,1,No,0.98,9.96,North America,Technology,0.6,0,Mobile,Manual,Newsletter Promo,0.15,41,-0.27,5,61,Referral,Credit Card,No,Active,1550
+Digital,Monthly,Yes,2.95,12,0,No,0.87,5.46,Asia,Politics,0.75,1,Desktop,Auto,,0.14,-31,-0.56,5,26,Web,Credit Card,No,Active,1457
+Digital,Monthly,No,1.64,16,0,Yes,0.33,14.12,North America,Finance,0.42,1,Mobile,Auto,,0.23,-55,-0.37,2,59,Mobile App,Debit Card,No,Cancelled,68
+Espresso,Monthly,No,1.6,27,2,No,0.59,2.82,North America,Environment,0.69,2,Desktop,Auto,Newsletter Promo,0.24,47,-0.23,5,46,Mobile App,Credit Card,No,Cancelled,1492
+Digital,Monthly,Yes,2.0,29,0,No,0.85,12.16,Europe,Culture,0.99,0,Mobile,Auto,Retention Offer,0.09,85,-0.13,4,32,Web,PayPal,No,Active,1585
+Digital+Print,Annual,No,3.44,10,2,No,0.44,8.69,North America,Politics,0.66,2,Desktop,Auto,,0.28,-2,-0.75,3,34,Mobile App,Credit Card,No,Active,551
+Digital,Monthly,Yes,2.72,1,0,No,0.02,5.32,North America,Politics,0.95,1,Tablet,Auto,Newsletter Promo,0.16,-21,-0.21,4,33,Mobile App,Credit Card,No,Active,157
+Digital,Monthly,Yes,0.0,24,0,Yes,0.07,10.81,North America,Finance,0.59,1,Mobile,Auto,Retention Offer,0.4,-53,0.71,1,39,Web,Credit Card,Yes,Cancelled,441
+Digital,Monthly,Yes,0.0,15,0,Yes,0.51,3.77,Europe,Technology,1.0,0,Desktop,Auto,,0.32,-94,-0.13,2,57,Web,Credit Card,No,Cancelled,1530
+Digital,Annual,No,2.09,1,2,Yes,0.97,10.16,Asia,Culture,0.71,1,Desktop,Auto,Survey,0.13,-61,0.3,3,66,Web,Credit Card,No,Active,1624
+Digital,Monthly,No,3.69,28,2,No,0.69,4.31,Others,Technology,0.33,2,Desktop,Auto,Retention Offer,0.42,-42,-0.03,2,60,Web,Credit Card,No,Cancelled,1540
+Digital,Monthly,Yes,0.0,18,1,No,0.07,11.85,North America,Finance,0.71,0,Desktop,Auto,,0.16,-65,0.06,2,28,Web,Credit Card,Yes,Cancelled,1636
+Espresso,Monthly,Yes,2.25,22,0,No,0.19,6.3,Europe,Culture,0.49,3,Desktop,Manual,,0.38,71,-0.06,5,55,Web,Credit Card,No,Active,1152
+Digital,Monthly,Yes,2.21,18,1,No,0.77,8.2,Others,Finance,0.32,0,Desktop,Manual,Newsletter Promo,0.23,7,0.37,4,42,Mobile App,PayPal,No,Active,340
+Digital+Print,Monthly,No,5.08,24,0,Yes,0.84,11.18,North America,Politics,0.87,3,Desktop,Auto,,0.1,-70,-0.41,3,47,Mobile App,Credit Card,No,Cancelled,762
+Digital+Print,Monthly,Yes,2.42,15,2,No,0.62,6.91,Asia,Technology,0.49,0,Desktop,Manual,Survey,0.46,69,0.09,5,19,Mobile App,PayPal,No,Active,818
+Digital,Monthly,Yes,3.57,21,1,No,0.64,9.77,Asia,Environment,0.86,2,Mobile,Auto,Newsletter Promo,0.11,-57,-0.29,3,18,Mobile App,Credit Card,No,Active,387
+Digital,Annual,Yes,3.21,18,3,No,0.03,3.94,North America,Culture,0.5,0,Tablet,Auto,Retention Offer,0.25,70,0.34,4,69,Referral,PayPal,No,Active,983
+Digital+Print,Monthly,Yes,0.0,8,2,Yes,0.83,12.52,Asia,Technology,0.44,1,Mobile,Auto,Survey,0.32,-58,-0.55,5,55,Mobile App,Credit Card,No,Cancelled,914
+Digital,Monthly,Yes,4.15,0,0,No,0.79,17.06,Asia,Technology,0.98,1,Mobile,Manual,,0.23,74,0.33,3,54,Web,Credit Card,Yes,Active,211
+Digital,Monthly,Yes,3.32,9,0,No,0.26,21.17,North America,Environment,0.55,1,Mobile,Auto,Newsletter Promo,0.15,33,0.1,5,26,Web,Credit Card,No,Active,1487
+Espresso,Annual,No,3.76,18,0,No,0.71,10.36,North America,Finance,0.72,1,Mobile,Manual,,0.04,-8,-0.63,2,22,Web,Credit Card,No,Active,927
+Digital,Monthly,Yes,8.89,0,1,Yes,0.21,13.15,North America,Finance,0.73,1,Mobile,Manual,,0.38,93,0.87,1,67,Mobile App,PayPal,Yes,Active,1331
+Digital+Print,Annual,No,0.0,1,0,No,0.04,2.88,North America,Environment,0.69,3,Mobile,Auto,,0.51,-15,0.28,3,41,Mobile App,Credit Card,No,Active,233
+Digital+Print,Monthly,Yes,5.59,15,1,Yes,0.2,16.01,Europe,Culture,0.94,4,Mobile,Auto,Survey,0.58,-92,-0.54,4,44,Mobile App,Debit Card,Yes,Active,1774
+Digital,Monthly,Yes,2.57,11,1,Yes,0.18,13.1,Europe,Finance,0.77,1,Desktop,Auto,Newsletter Promo,0.34,-90,0.08,3,47,Mobile App,PayPal,No,Active,71
+Digital,Monthly,No,3.43,7,3,No,0.34,8.06,North America,Finance,0.58,0,Mobile,Auto,Newsletter Promo,0.09,-21,-0.82,1,68,Mobile App,Credit Card,No,Active,1708
+Digital,Annual,Yes,2.93,22,1,Yes,0.42,14.95,Others,Finance,0.9,0,Mobile,Auto,,0.14,8,-0.86,3,32,Mobile App,Credit Card,No,Active,1762
+Espresso,Monthly,No,2.36,17,0,No,0.51,8.98,North America,Politics,0.43,0,Mobile,Auto,Newsletter Promo,0.35,17,0.6,3,64,Referral,Debit Card,No,Cancelled,379
+Digital,Annual,Yes,2.15,1,0,Yes,0.48,8.17,North America,Environment,0.68,3,Mobile,Auto,,0.24,-83,-0.6,3,26,Mobile App,Credit Card,Yes,Active,1631
+Digital+Print,Annual,Yes,3.49,24,1,No,0.27,11.9,North America,Finance,0.97,1,Mobile,Auto,Newsletter Promo,0.03,52,0.39,4,63,Mobile App,PayPal,No,Active,1188
+Digital,Monthly,No,0.72,28,1,No,0.03,5.75,Europe,Culture,0.74,1,Desktop,Auto,Retention Offer,0.22,-4,0.58,1,54,Mobile App,Debit Card,No,Cancelled,1544
+Digital,Monthly,Yes,4.13,12,1,No,0.61,14.09,Europe,Politics,0.87,2,Tablet,Auto,,0.21,85,-0.49,1,47,Web,PayPal,No,Active,1417
+Digital,Monthly,Yes,2.38,5,1,No,0.4,5.78,North America,Finance,0.76,1,Desktop,Auto,,0.1,-71,1.04,4,66,Web,PayPal,No,Active,1149
+Digital+Print,Monthly,No,1.3,20,0,Yes,0.3,5.8,North America,Politics,0.89,1,Desktop,Auto,,0.22,14,0.05,3,32,Web,PayPal,No,Cancelled,1057
+Digital,Annual,No,2.32,25,2,No,0.87,6.36,Asia,Culture,0.96,2,Mobile,Auto,,0.09,-100,0.02,3,37,Web,PayPal,No,Active,1434
+Digital,Annual,Yes,4.89,5,0,Yes,0.75,13.04,Others,Technology,0.49,1,Mobile,Manual,Retention Offer,0.35,90,-0.5,1,66,Referral,Credit Card,No,Active,1761
+Digital,Monthly,Yes,2.2,8,2,No,0.86,7.53,North America,Technology,0.42,1,Mobile,Auto,Newsletter Promo,0.21,-4,-0.49,3,42,Web,Credit Card,No,Active,220
+Digital+Print,Monthly,Yes,3.54,15,0,Yes,0.49,4.61,North America,Politics,0.64,0,Desktop,Auto,,0.1,12,-1.1,2,26,Web,PayPal,No,Active,1580
+Digital,Annual,No,1.9,10,2,No,0.13,7.58,Europe,Politics,0.79,0,Mobile,Manual,Newsletter Promo,0.45,-22,-0.39,3,62,Web,Debit Card,No,Active,995
+Digital+Print,Monthly,No,4.14,6,1,No,0.7,9.87,Asia,Politics,0.46,1,Desktop,Auto,,0.28,-72,0.58,3,39,Web,Credit Card,Yes,Active,1746
+Digital,Annual,Yes,4.03,9,1,No,0.21,5.28,North America,Politics,0.3,2,Mobile,Manual,,0.34,-35,-0.51,5,30,Referral,Credit Card,No,Active,1061
+Digital,Monthly,No,5.77,9,2,Yes,0.44,5.39,Others,Technology,0.54,2,Mobile,Auto,Newsletter Promo,0.32,80,-0.47,1,54,Web,Credit Card,Yes,Active,1025
+Digital+Print,Monthly,No,2.74,29,3,No,0.07,18.45,Europe,Technology,0.98,0,Tablet,Manual,,0.51,4,-0.64,1,45,Referral,PayPal,No,Cancelled,1281
+Digital+Print,Monthly,No,4.0,24,2,No,0.83,6.56,Europe,Technology,0.79,1,Desktop,Manual,Retention Offer,0.21,-82,-0.68,2,31,Web,Credit Card,No,Cancelled,304
+Digital,Monthly,Yes,3.15,19,0,No,0.13,8.71,Europe,Finance,0.58,1,Desktop,Auto,,0.2,-35,0.44,2,47,Referral,PayPal,Yes,Active,1302
+Digital,Monthly,Yes,4.94,17,1,Yes,0.9,8.53,Others,Politics,0.43,2,Desktop,Auto,Newsletter Promo,0.41,11,-0.61,2,56,Mobile App,Debit Card,No,Active,665
+Digital+Print,Monthly,Yes,1.92,27,1,No,0.86,8.31,Asia,Politics,0.55,1,Desktop,Manual,Retention Offer,0.16,79,-0.07,1,22,Mobile App,Credit Card,Yes,Cancelled,515
+Digital,Monthly,Yes,4.12,23,2,No,0.46,12.49,North America,Politics,0.42,3,Desktop,Manual,,0.16,58,-0.18,5,29,Web,Debit Card,Yes,Active,459
+Digital,Annual,Yes,2.71,19,1,No,0.74,13.79,North America,Culture,0.37,0,Tablet,Manual,,0.24,-41,0.48,5,52,Mobile App,Debit Card,No,Active,1376
+Digital,Annual,Yes,2.9,28,1,Yes,0.62,8.78,Europe,Technology,0.93,1,Mobile,Auto,,0.3,16,-0.42,4,58,Mobile App,Debit Card,No,Active,821
+Digital,Monthly,No,3.14,8,1,Yes,0.8,5.05,North America,Politics,1.0,1,Desktop,Manual,,0.24,-33,-0.22,1,59,Web,Credit Card,No,Active,734
+Digital+Print,Monthly,Yes,3.38,14,1,No,0.43,15.1,Asia,Politics,0.41,3,Desktop,Auto,,0.23,-8,-0.55,4,18,Web,Credit Card,No,Active,449
+Digital,Monthly,Yes,2.83,3,0,No,0.79,9.62,Asia,Culture,0.34,3,Mobile,Auto,Newsletter Promo,0.15,57,-0.32,3,63,Referral,PayPal,No,Active,937
+Digital,Monthly,Yes,3.32,7,2,No,0.46,16.92,Asia,Technology,0.53,1,Desktop,Auto,,0.19,40,-0.45,2,18,Web,Credit Card,Yes,Active,1458
+Espresso,Monthly,Yes,5.37,8,1,No,0.94,1.02,Others,Technology,0.62,1,Tablet,Auto,,0.27,42,-0.07,4,59,Referral,Credit Card,No,Active,1584
+Digital+Print,Monthly,Yes,4.48,12,0,No,0.49,10.78,North America,Finance,0.44,1,Mobile,Auto,Newsletter Promo,0.06,47,0.8,4,60,Mobile App,Debit Card,No,Active,626
+Digital+Print,Monthly,No,4.3,8,2,Yes,0.46,17.67,Asia,Politics,0.51,1,Mobile,Auto,,0.4,61,-0.1,1,37,Web,PayPal,Yes,Active,773
+Digital+Print,Monthly,Yes,2.32,25,1,No,0.79,8.59,Asia,Environment,0.44,1,Mobile,Auto,Survey,0.35,47,0.59,2,51,Web,Credit Card,Yes,Active,615
+Digital,Monthly,Yes,1.67,3,1,Yes,0.82,9.1,North America,Culture,0.84,1,Desktop,Auto,Retention Offer,0.48,-51,0.47,2,51,Referral,Credit Card,No,Cancelled,974
+Digital,Monthly,Yes,4.43,16,1,No,0.55,11.18,Asia,Finance,0.8,0,Desktop,Manual,Survey,0.33,-12,-0.02,5,41,Mobile App,PayPal,No,Active,904
+Digital+Print,Annual,Yes,4.31,15,3,Yes,0.18,7.76,North America,Culture,0.74,0,Mobile,Auto,Retention Offer,0.04,54,0.48,4,45,Web,PayPal,No,Active,225
+Digital+Print,Monthly,Yes,5.21,14,1,No,0.47,8.75,Asia,Culture,0.57,1,Desktop,Auto,Newsletter Promo,0.33,57,0.12,5,28,Mobile App,Credit Card,No,Active,699
+Digital+Print,Monthly,No,2.09,2,0,No,0.97,8.65,Europe,Politics,0.94,2,Mobile,Auto,Newsletter Promo,0.23,83,-0.71,4,25,Web,Credit Card,No,Active,35
+Digital,Monthly,Yes,2.66,24,0,No,0.75,7.49,North America,Finance,0.98,1,Desktop,Auto,,0.35,92,-0.02,1,52,Mobile App,PayPal,Yes,Active,1423
+Digital,Monthly,No,0.54,19,2,No,0.81,14.92,Europe,Politics,0.42,1,Mobile,Auto,Retention Offer,0.1,-2,0.1,1,58,Web,Credit Card,No,Cancelled,349
+Digital+Print,Annual,Yes,2.41,4,1,No,0.03,11.84,Europe,Politics,0.46,0,Mobile,Auto,,0.23,82,0.88,3,33,Web,Credit Card,No,Active,1273
+Digital,Monthly,Yes,4.49,22,0,Yes,0.47,11.0,North America,Technology,0.67,2,Desktop,Auto,,0.5,12,-0.47,4,33,Web,Credit Card,No,Active,802
+Digital,Annual,Yes,2.3,4,0,Yes,0.65,13.23,North America,Politics,0.36,1,Mobile,Manual,,0.4,6,0.23,4,59,Web,Credit Card,No,Active,1271
+Digital,Monthly,Yes,3.96,19,1,No,0.83,8.94,Europe,Culture,0.61,2,Mobile,Auto,,0.16,-77,-0.62,2,23,Mobile App,Credit Card,Yes,Active,666
+Digital,Monthly,Yes,2.71,14,0,No,0.05,6.9,Europe,Environment,0.71,0,Mobile,Auto,Survey,0.35,-76,0.77,2,37,Mobile App,PayPal,No,Active,1799
+Digital+Print,Annual,No,3.49,17,2,No,0.85,7.59,Asia,Politics,0.67,0,Mobile,Auto,,0.26,80,0.61,5,69,Mobile App,Credit Card,No,Active,781
+Digital,Monthly,Yes,1.28,14,0,No,0.55,10.01,Others,Finance,0.53,1,Mobile,Auto,,0.19,-90,-0.6,3,69,Mobile App,Debit Card,No,Active,153
+Digital+Print,Monthly,No,3.13,1,0,No,0.2,5.76,Europe,Culture,0.68,2,Tablet,Auto,,0.19,-7,0.87,1,28,Web,PayPal,No,Active,460
+Digital,Monthly,Yes,0.0,28,2,Yes,0.32,8.0,Asia,Culture,0.97,1,Desktop,Auto,,0.22,-41,0.54,4,25,Mobile App,PayPal,No,Cancelled,227
+Digital+Print,Monthly,No,2.72,12,0,Yes,0.28,7.94,Europe,Culture,0.44,2,Desktop,Auto,,0.3,74,0.63,5,37,Referral,Credit Card,No,Active,952
+Digital,Annual,No,0.55,3,2,Yes,0.53,18.5,Asia,Finance,0.76,1,Tablet,Auto,Newsletter Promo,0.12,52,0.78,3,49,Web,PayPal,No,Cancelled,378
+Digital+Print,Monthly,Yes,4.81,9,1,No,0.05,-1.1,North America,Finance,0.33,0,Mobile,Auto,,0.45,-76,0.56,2,50,Web,Debit Card,No,Active,1137
+Digital,Monthly,No,4.17,12,1,Yes,0.16,9.28,North America,Technology,0.35,1,Mobile,Auto,Retention Offer,0.61,44,-0.17,3,23,Mobile App,Credit Card,No,Active,599
+Espresso,Monthly,Yes,3.7,9,1,Yes,0.81,16.9,Europe,Environment,0.69,1,Mobile,Manual,Newsletter Promo,0.21,39,0.75,5,45,Web,Credit Card,No,Active,478
+Digital,Monthly,Yes,5.28,28,2,No,0.13,10.49,North America,Finance,0.37,1,Desktop,Auto,,0.26,22,-0.45,1,25,Web,Credit Card,No,Active,1213
+Digital+Print,Monthly,No,1.58,8,3,No,0.23,13.01,Asia,Environment,0.32,2,Desktop,Auto,Survey,0.38,79,-0.39,2,31,Mobile App,Credit Card,No,Cancelled,1090
+Digital,Monthly,Yes,5.62,7,3,Yes,0.45,10.4,Asia,Politics,0.42,0,Mobile,Auto,Survey,0.17,-90,-0.23,2,20,Mobile App,Credit Card,Yes,Active,569
+Digital,Monthly,No,4.4,2,2,No,0.52,7.33,North America,Environment,0.7,1,Mobile,Manual,,0.25,-91,0.17,1,19,Mobile App,Credit Card,Yes,Active,1654
+Digital,Annual,No,2.65,15,1,No,0.76,1.03,Europe,Technology,0.79,0,Desktop,Manual,,0.59,-20,-0.46,2,39,Mobile App,Credit Card,No,Active,1597
+Digital,Monthly,Yes,4.7,13,0,No,0.45,10.82,Asia,Finance,0.44,0,Desktop,Auto,Retention Offer,0.13,87,-0.6,5,50,Web,Credit Card,Yes,Active,58
+Digital+Print,Monthly,No,1.34,8,1,No,0.79,6.9,Asia,Technology,0.77,3,Desktop,Manual,,0.3,-47,-0.46,2,60,Mobile App,PayPal,No,Cancelled,1509
+Digital,Annual,Yes,1.76,29,1,No,0.62,6.8,North America,Politics,0.43,3,Mobile,Auto,Retention Offer,0.34,8,-0.18,4,38,Mobile App,PayPal,No,Active,1775
+Digital,Monthly,No,2.09,20,1,Yes,0.11,8.0,North America,Politics,0.73,0,Tablet,Manual,Newsletter Promo,0.21,-38,0.04,3,23,Web,Debit Card,Yes,Cancelled,872
+Digital,Monthly,No,2.21,10,0,Yes,0.16,16.98,Europe,Politics,0.59,1,Mobile,Auto,,0.17,-81,-0.38,5,57,Web,Credit Card,No,Active,1825
+Digital,Monthly,Yes,1.42,2,0,Yes,0.44,19.62,Europe,Politics,0.76,0,Desktop,Auto,Newsletter Promo,0.3,-96,-0.61,1,24,Mobile App,Credit Card,No,Cancelled,1097
+Digital,Monthly,Yes,4.83,4,2,No,0.4,10.87,North America,Finance,1.0,0,Tablet,Auto,Retention Offer,0.25,-60,0.19,5,23,Mobile App,PayPal,No,Active,137
+Digital,Monthly,No,2.61,28,1,Yes,0.74,8.14,North America,Culture,0.96,2,Tablet,Auto,,0.02,17,0.9,4,67,Mobile App,PayPal,No,Cancelled,451
+Digital,Annual,Yes,3.53,9,1,No,0.58,5.29,Asia,Technology,0.3,3,Mobile,Auto,Newsletter Promo,0.06,-38,-0.21,2,61,Web,Credit Card,No,Active,1607
+Espresso,Monthly,No,2.14,12,1,No,0.39,11.87,Europe,Politics,0.92,0,Mobile,Auto,Retention Offer,0.22,83,0.45,2,25,Web,Credit Card,Yes,Active,1417
+Digital+Print,Monthly,Yes,0.27,3,1,No,0.17,17.13,Others,Culture,0.35,1,Mobile,Auto,Retention Offer,0.13,-69,0.0,5,41,Web,Debit Card,No,Active,1119
+Digital,Annual,Yes,3.41,23,2,No,0.23,9.01,Asia,Technology,0.97,1,Mobile,Auto,Newsletter Promo,0.21,-74,0.32,2,44,Web,Credit Card,No,Active,806
+Digital,Monthly,Yes,0.13,12,1,No,0.58,0.48,Others,Environment,0.5,1,Desktop,Auto,Retention Offer,0.38,-33,0.41,2,68,Mobile App,Credit Card,No,Active,1690
+Espresso,Monthly,Yes,2.9,11,2,No,0.42,12.68,North America,Technology,0.57,0,Tablet,Manual,,0.24,4,0.0,4,45,Mobile App,Credit Card,No,Active,291
+Espresso,Monthly,Yes,0.95,4,2,No,0.51,13.94,Asia,Politics,0.36,1,Mobile,Manual,Newsletter Promo,0.52,75,-0.49,1,22,Mobile App,Debit Card,No,Active,908
+Digital,Annual,Yes,5.98,9,1,No,0.17,3.66,North America,Finance,0.38,1,Mobile,Manual,,0.31,-94,-0.62,3,36,Mobile App,Credit Card,No,Active,316
+Digital,Monthly,Yes,4.37,27,3,Yes,0.66,10.71,Europe,Technology,0.81,1,Mobile,Manual,Retention Offer,0.37,73,0.58,5,26,Web,PayPal,No,Cancelled,936
+Digital+Print,Monthly,Yes,3.16,23,1,No,0.85,11.8,Europe,Politics,0.96,1,Desktop,Auto,,0.18,2,0.32,1,42,Mobile App,Credit Card,No,Active,692
+Digital+Print,Monthly,No,4.9,8,0,Yes,0.26,9.71,North America,Politics,0.73,2,Tablet,Auto,,0.12,11,0.49,3,61,Web,Credit Card,No,Active,1369
+Digital+Print,Monthly,Yes,1.73,19,1,No,0.49,6.84,Asia,Politics,0.8,2,Mobile,Auto,,0.4,45,0.34,1,64,Web,Credit Card,No,Cancelled,1284
+Digital,Monthly,Yes,3.82,6,0,No,0.98,14.06,Asia,Politics,0.83,2,Mobile,Auto,,0.34,65,0.54,5,62,Web,Credit Card,No,Active,43
+Digital,Monthly,Yes,3.3,1,1,Yes,0.33,8.39,North America,Finance,0.48,0,Desktop,Auto,Survey,0.02,2,0.11,4,30,Referral,Debit Card,No,Active,283
+Digital+Print,Annual,Yes,3.4,21,1,No,0.6,4.06,Europe,Finance,0.33,2,Desktop,Manual,Newsletter Promo,0.3,92,-0.76,4,54,Web,PayPal,No,Active,288
+Digital,Monthly,Yes,4.91,23,0,No,0.09,1.8,North America,Politics,0.3,2,Mobile,Auto,,0.13,-84,0.14,4,19,Web,Credit Card,No,Active,844
+Digital,Monthly,No,4.1,27,0,Yes,0.61,15.04,Europe,Technology,0.55,0,Desktop,Manual,,0.51,-11,0.9,1,68,Mobile App,Credit Card,No,Cancelled,356
+Digital,Annual,No,3.43,22,1,No,0.09,12.47,Asia,Technology,0.47,0,Tablet,Auto,Retention Offer,0.13,14,0.18,5,57,Web,Credit Card,No,Active,1148
+Digital,Annual,Yes,0.52,6,1,Yes,0.96,10.35,North America,Politics,0.34,3,Desktop,Manual,Retention Offer,0.29,-15,-0.61,2,31,Web,PayPal,No,Active,402
+Digital,Monthly,Yes,1.56,7,1,No,0.72,8.24,Others,Politics,0.43,2,Desktop,Auto,Newsletter Promo,0.27,2,0.37,2,48,Mobile App,Credit Card,No,Active,785
+Digital+Print,Monthly,Yes,2.82,6,1,No,0.79,7.88,North America,Politics,0.39,2,Mobile,Auto,,0.49,-19,1.08,4,23,Web,Credit Card,No,Active,1601
+Digital,Monthly,Yes,3.14,20,1,No,0.7,5.7,Europe,Finance,0.94,0,Desktop,Manual,Newsletter Promo,0.58,25,-0.28,1,42,Referral,Credit Card,No,Active,1323
+Espresso,Annual,Yes,1.3,22,2,No,0.59,8.27,Europe,Politics,0.4,2,Mobile,Auto,Retention Offer,0.31,-63,0.16,2,56,Mobile App,Credit Card,Yes,Active,491
+Digital,Annual,Yes,6.62,28,2,Yes,0.45,1.52,North America,Finance,0.68,2,Mobile,Auto,,0.22,-9,0.24,1,63,Web,Credit Card,No,Active,437
+Digital,Monthly,No,5.27,13,1,Yes,0.86,7.06,North America,Technology,0.72,1,Mobile,Auto,,0.43,-38,0.1,5,48,Web,Credit Card,No,Active,132
+Digital,Annual,No,3.9,25,2,No,0.96,8.76,Asia,Finance,0.68,0,Mobile,Auto,Newsletter Promo,0.36,69,0.4,4,55,Mobile App,Credit Card,No,Active,271
+Digital,Monthly,Yes,3.11,18,3,No,0.5,12.44,Asia,Politics,0.37,1,Mobile,Auto,Newsletter Promo,0.15,35,-0.2,3,33,Web,PayPal,No,Active,1743
+Digital,Monthly,Yes,2.68,4,2,Yes,0.93,9.84,North America,Finance,0.52,3,Desktop,Auto,,0.36,-71,0.31,4,44,Mobile App,Debit Card,No,Active,119
+Digital,Monthly,No,1.57,22,2,No,0.58,13.18,Europe,Technology,0.34,0,Desktop,Auto,Survey,0.38,-37,0.58,3,47,Mobile App,Credit Card,No,Cancelled,721
+Digital,Annual,Yes,3.12,24,2,No,0.54,15.4,North America,Culture,0.58,1,Desktop,Auto,,0.38,-92,-0.12,2,21,Mobile App,Credit Card,No,Active,264
+Digital,Monthly,Yes,3.39,17,1,No,0.45,14.23,North America,Culture,0.43,3,Mobile,Auto,,0.31,-44,0.4,3,56,Mobile App,PayPal,Yes,Active,950
+Digital,Annual,Yes,1.14,19,1,No,0.21,11.88,Europe,Technology,0.69,1,Mobile,Manual,Newsletter Promo,0.45,6,-0.19,1,33,Mobile App,PayPal,No,Active,1155
+Digital,Annual,Yes,3.5,11,0,Yes,0.0,10.05,North America,Finance,0.78,0,Desktop,Manual,Newsletter Promo,0.26,86,-0.69,3,53,Web,Credit Card,No,Active,625
+Digital,Annual,Yes,2.77,22,2,Yes,0.24,6.08,Asia,Finance,0.67,1,Mobile,Auto,,0.21,-6,-0.69,2,24,Web,Credit Card,No,Active,573
+Digital,Monthly,No,0.14,16,0,No,0.51,12.96,Asia,Culture,0.6,1,Tablet,Auto,,0.57,94,0.23,2,38,Mobile App,PayPal,No,Cancelled,1243
+Digital,Monthly,Yes,1.71,12,0,No,0.38,16.72,Others,Politics,0.57,0,Mobile,Auto,,0.6,-26,-0.94,4,19,Web,Credit Card,No,Active,1043
+Digital,Monthly,Yes,2.38,1,1,No,0.45,11.37,Europe,Environment,0.89,1,Desktop,Manual,,0.18,-96,0.05,2,25,Mobile App,Credit Card,No,Active,943
+Digital,Monthly,No,5.83,24,0,No,0.98,17.67,Others,Technology,0.45,0,Mobile,Manual,Survey,0.69,-6,-0.4,1,59,Mobile App,PayPal,No,Cancelled,1266
+Digital+Print,Monthly,Yes,3.83,12,1,No,0.35,3.9,Europe,Technology,0.81,0,Desktop,Manual,Retention Offer,0.21,-97,-1.1,3,44,Web,Credit Card,No,Active,1131
+Digital,Annual,Yes,1.0,25,0,Yes,0.45,5.38,Europe,Politics,0.83,0,Desktop,Auto,Retention Offer,0.37,-93,0.34,5,19,Web,PayPal,No,Cancelled,966
+Digital,Monthly,Yes,3.73,6,0,No,0.13,13.42,Others,Technology,0.59,1,Tablet,Auto,Retention Offer,0.46,69,-0.7,2,23,Mobile App,PayPal,Yes,Active,1606
+Digital+Print,Monthly,Yes,0.68,27,1,No,0.05,11.06,Europe,Finance,0.51,1,Tablet,Auto,Newsletter Promo,0.24,62,1.15,3,21,Mobile App,Credit Card,No,Cancelled,280
+Digital,Monthly,No,4.62,9,0,No,0.78,15.26,North America,Politics,0.63,2,Mobile,Auto,Retention Offer,0.33,40,0.82,4,38,Web,PayPal,Yes,Active,934
+Espresso,Monthly,Yes,2.29,22,2,No,0.57,9.94,Asia,Politics,0.37,2,Desktop,Auto,,0.15,32,-0.03,5,18,Mobile App,Credit Card,No,Active,772
+Espresso,Monthly,Yes,2.86,5,0,No,0.76,6.53,Others,Culture,0.33,1,Mobile,Auto,Retention Offer,0.28,-61,-1.0,4,55,Web,PayPal,No,Active,807
+Digital,Monthly,Yes,4.99,2,0,Yes,0.15,9.15,Asia,Finance,0.38,1,Desktop,Manual,Newsletter Promo,0.18,-82,0.15,1,29,Web,PayPal,No,Active,930
+Digital,Annual,No,1.07,25,1,No,0.57,3.87,Europe,Finance,0.43,0,Mobile,Auto,Retention Offer,0.38,-19,0.92,4,44,Web,Credit Card,No,Cancelled,1801
+Digital+Print,Monthly,Yes,0.9,2,0,Yes,0.25,5.49,Europe,Politics,0.65,0,Desktop,Manual,Survey,0.66,24,0.53,3,31,Web,Credit Card,No,Cancelled,364
+Digital,Annual,Yes,2.12,17,1,No,0.23,13.89,Others,Technology,0.89,0,Tablet,Auto,,0.69,-97,0.56,5,32,Mobile App,Credit Card,No,Active,949
+Digital,Annual,No,4.56,10,1,No,0.01,13.49,North America,Technology,0.46,0,Mobile,Manual,Survey,0.6,27,0.77,4,41,Mobile App,Debit Card,No,Active,411
+Espresso,Monthly,No,0.72,21,0,No,0.13,11.45,Europe,Technology,0.95,0,Mobile,Manual,Survey,0.34,86,-0.63,4,35,Referral,Credit Card,No,Cancelled,821
+Digital,Annual,Yes,0.0,19,1,No,0.31,3.12,North America,Finance,0.97,2,Mobile,Manual,,0.26,45,0.54,1,34,Web,Credit Card,No,Active,103
+Digital,Monthly,Yes,2.32,4,1,No,0.12,8.57,Europe,Finance,0.97,0,Desktop,Manual,Newsletter Promo,0.18,51,0.97,3,26,Referral,Debit Card,No,Active,616
+Digital,Annual,Yes,3.83,18,1,No,0.99,5.1,Europe,Technology,0.89,2,Mobile,Manual,Retention Offer,0.36,6,-0.31,4,64,Mobile App,Credit Card,Yes,Active,948
+Digital,Monthly,Yes,4.8,21,1,Yes,0.31,14.71,North America,Politics,0.55,3,Tablet,Auto,Newsletter Promo,0.22,-8,-0.2,3,35,Web,Credit Card,No,Active,1084
+Digital,Annual,Yes,2.31,26,1,Yes,0.13,7.67,North America,Environment,0.35,2,Desktop,Auto,,0.35,-70,0.78,2,35,Web,PayPal,No,Active,573
+Digital,Annual,Yes,2.38,27,1,No,0.2,5.66,Europe,Technology,0.7,2,Desktop,Auto,Retention Offer,0.1,-43,0.7,1,22,Mobile App,Debit Card,Yes,Active,1824
+Digital,Annual,No,4.73,18,0,No,0.59,10.12,North America,Finance,0.69,0,Desktop,Manual,Retention Offer,0.1,-73,-0.44,1,65,Mobile App,Credit Card,Yes,Active,1427
+Digital+Print,Annual,Yes,0.2,29,1,No,0.06,7.44,North America,Finance,0.89,1,Mobile,Manual,,0.34,36,-0.65,1,26,Mobile App,Credit Card,Yes,Active,1236
+Digital,Monthly,No,2.42,14,0,No,0.86,15.93,Asia,Culture,1.0,2,Tablet,Auto,,0.19,72,-0.06,3,52,Mobile App,Debit Card,No,Active,1196
+Digital,Monthly,Yes,3.29,29,2,No,0.96,7.06,North America,Politics,0.66,1,Desktop,Auto,,0.35,-11,-0.74,4,61,Web,Credit Card,No,Active,1145
+Digital+Print,Monthly,No,3.67,15,2,Yes,0.25,4.4,Europe,Politics,0.54,0,Tablet,Auto,Newsletter Promo,0.06,-52,-0.43,4,63,Web,Credit Card,No,Active,208
+Digital+Print,Monthly,No,2.24,23,3,No,0.45,1.39,Others,Technology,0.43,1,Desktop,Manual,,0.21,10,-0.34,3,18,Web,Credit Card,No,Cancelled,1322
+Digital+Print,Monthly,Yes,3.05,8,1,No,0.02,9.88,North America,Finance,0.3,1,Desktop,Auto,,0.36,-99,0.56,3,58,Web,Credit Card,No,Active,1306
+Digital,Monthly,No,0.0,3,0,No,0.64,7.75,North America,Culture,0.66,2,Mobile,Auto,Retention Offer,0.39,-95,0.7,2,26,Mobile App,Credit Card,No,Cancelled,741
+Digital+Print,Annual,Yes,2.01,14,0,No,0.41,4.28,Europe,Politics,0.69,0,Desktop,Auto,,0.15,-72,0.56,5,49,Mobile App,PayPal,Yes,Active,802
+Digital,Monthly,No,3.68,24,3,Yes,0.27,14.76,Asia,Culture,0.88,2,Desktop,Auto,Survey,0.51,53,-0.41,5,37,Web,Credit Card,No,Cancelled,822
+Digital,Annual,Yes,1.53,11,0,No,0.21,12.67,Others,Politics,0.65,1,Desktop,Auto,Retention Offer,0.25,55,-0.04,1,30,Mobile App,PayPal,No,Active,148
+Digital+Print,Monthly,Yes,3.09,22,0,No,0.65,9.89,Others,Politics,0.94,1,Desktop,Auto,Newsletter Promo,0.12,-94,-0.23,4,57,Web,Credit Card,No,Active,1553
+Digital+Print,Annual,No,3.67,2,0,Yes,0.42,15.46,Asia,Culture,0.74,2,Mobile,Manual,,0.24,-67,0.11,1,28,Web,Credit Card,No,Active,809
+Digital,Annual,No,2.49,22,1,No,0.18,12.65,North America,Technology,0.89,0,Tablet,Auto,Retention Offer,0.43,83,0.38,4,63,Web,Credit Card,No,Active,1707
+Digital+Print,Monthly,Yes,3.26,13,1,Yes,0.69,6.71,North America,Finance,0.4,3,Tablet,Auto,,0.15,37,-0.24,4,65,Web,PayPal,Yes,Active,163
+Digital,Monthly,Yes,1.56,16,0,No,0.57,5.84,North America,Politics,0.9,0,Mobile,Manual,Newsletter Promo,0.17,11,-0.51,2,60,Web,Credit Card,Yes,Cancelled,144
+Digital,Annual,Yes,2.69,18,0,No,0.86,13.27,North America,Technology,0.77,1,Tablet,Manual,,0.46,-44,0.79,3,68,Web,Credit Card,No,Active,248
+Digital,Monthly,Yes,3.92,5,2,Yes,0.12,11.59,Asia,Finance,0.42,0,Mobile,Manual,,0.5,74,0.54,3,59,Web,Debit Card,No,Active,542
+Digital+Print,Monthly,Yes,3.24,3,2,No,0.79,10.68,Europe,Environment,0.43,1,Desktop,Auto,,0.36,-74,0.17,3,43,Web,Debit Card,No,Active,615
+Digital,Monthly,No,2.12,6,0,No,0.67,6.61,North America,Environment,0.95,0,Mobile,Manual,Retention Offer,0.34,-62,-0.53,5,57,Mobile App,Credit Card,No,Active,1575
+Digital+Print,Monthly,Yes,3.34,29,2,No,0.12,12.43,Asia,Technology,0.32,1,Tablet,Auto,Newsletter Promo,0.38,49,0.43,3,28,Web,Credit Card,Yes,Active,581
+Digital,Monthly,Yes,4.07,18,1,No,0.69,6.98,North America,Finance,0.62,0,Mobile,Manual,Retention Offer,0.42,18,-0.08,5,42,Referral,PayPal,No,Active,122
+Digital+Print,Monthly,Yes,0.0,16,2,Yes,0.44,9.59,Europe,Finance,0.52,0,Mobile,Auto,Newsletter Promo,0.16,46,-1.11,1,57,Mobile App,PayPal,No,Cancelled,1193
+Digital,Monthly,Yes,4.74,24,1,Yes,0.94,15.79,Europe,Technology,0.77,0,Mobile,Auto,Newsletter Promo,0.36,-1,-0.26,5,42,Referral,Debit Card,No,Active,1184
+Digital,Monthly,Yes,2.5,15,0,Yes,0.14,7.36,Europe,Politics,0.89,2,Mobile,Auto,,0.37,-92,0.23,4,37,Mobile App,Credit Card,No,Active,1543
+Digital+Print,Annual,Yes,3.64,14,0,Yes,0.64,3.71,Europe,Finance,0.55,1,Desktop,Auto,Newsletter Promo,0.18,46,-0.11,2,59,Mobile App,Credit Card,No,Active,1557
+Digital,Monthly,Yes,4.8,21,0,No,0.38,5.79,North America,Politics,0.6,0,Mobile,Manual,,0.43,-99,0.25,2,66,Web,PayPal,No,Active,1653
+Digital,Annual,Yes,0.94,7,2,No,0.96,13.98,Europe,Politics,0.99,0,Desktop,Auto,Newsletter Promo,0.58,-9,0.23,4,28,Mobile App,Credit Card,No,Active,1401
+Digital,Monthly,Yes,1.94,18,1,No,0.33,11.02,Asia,Politics,0.85,2,Tablet,Auto,,0.08,88,-0.55,1,61,Web,PayPal,No,Cancelled,931
+Digital,Monthly,No,2.57,7,0,No,0.96,9.48,Others,Finance,0.93,1,Desktop,Auto,Survey,0.39,-42,0.34,2,27,Web,PayPal,No,Active,537
+Digital,Monthly,No,1.82,17,0,No,0.9,7.96,Europe,Culture,0.61,1,Desktop,Auto,Newsletter Promo,0.27,97,0.39,4,69,Web,Credit Card,No,Cancelled,1207
+Digital,Monthly,Yes,5.6,27,1,Yes,0.27,11.94,Europe,Finance,0.46,2,Mobile,Manual,,0.31,-30,-0.02,2,66,Web,Credit Card,No,Active,1203
+Digital,Monthly,Yes,1.71,15,1,No,0.8,6.6,Asia,Finance,0.59,3,Mobile,Manual,,0.11,-31,0.01,5,20,Web,Credit Card,No,Active,1591
+Digital+Print,Monthly,No,2.17,19,1,No,1.0,11.22,Others,Politics,0.8,0,Desktop,Manual,,0.15,60,0.01,2,56,Referral,Credit Card,No,Cancelled,295
+Digital+Print,Monthly,No,3.31,18,0,No,0.25,7.07,North America,Technology,0.38,2,Mobile,Auto,,0.05,92,0.76,5,44,Web,Credit Card,No,Cancelled,406
+Digital+Print,Monthly,No,1.2,9,0,Yes,0.44,6.41,Europe,Politics,0.49,1,Tablet,Auto,Newsletter Promo,0.06,-76,0.19,5,52,Mobile App,Debit Card,No,Cancelled,1753
+Espresso,Monthly,No,2.41,16,1,Yes,0.52,7.45,Asia,Technology,0.33,1,Mobile,Auto,Newsletter Promo,0.46,-31,0.06,2,66,Web,Credit Card,Yes,Cancelled,1257
+Digital+Print,Monthly,Yes,3.48,12,2,Yes,0.29,8.5,Europe,Environment,0.6,0,Tablet,Auto,Retention Offer,0.53,55,0.24,2,57,Mobile App,Credit Card,Yes,Active,1360
+Digital,Monthly,Yes,2.5,12,1,No,0.02,9.8,North America,Politics,0.88,0,Mobile,Auto,,0.47,45,0.22,5,48,Mobile App,Credit Card,No,Active,769
+Digital+Print,Annual,Yes,2.86,6,0,Yes,0.22,10.94,Europe,Politics,0.32,3,Desktop,Manual,Survey,0.1,-38,-0.05,2,38,Mobile App,Credit Card,Yes,Active,996
+Digital,Monthly,Yes,2.21,26,0,No,0.28,-4.75,North America,Finance,0.77,2,Mobile,Auto,,0.6,-52,-0.67,1,39,Web,Credit Card,No,Active,651
+Espresso,Monthly,No,0.73,9,1,Yes,0.44,6.77,Europe,Environment,0.95,0,Mobile,Auto,Newsletter Promo,0.63,22,0.05,3,36,Mobile App,PayPal,No,Cancelled,1823
+Digital,Annual,No,3.48,1,0,No,0.17,8.43,Europe,Culture,0.47,0,Desktop,Auto,,0.46,23,0.3,3,31,Web,PayPal,No,Active,1238
+Digital,Monthly,Yes,5.63,3,1,No,0.87,16.02,Asia,Culture,0.79,0,Mobile,Auto,,0.09,93,0.15,4,54,Mobile App,Credit Card,No,Active,1346
+Digital+Print,Monthly,Yes,3.03,24,2,No,0.7,5.68,Europe,Finance,0.98,1,Desktop,Manual,Newsletter Promo,0.72,-61,-0.25,3,68,Mobile App,Credit Card,No,Active,362
+Digital+Print,Annual,Yes,3.34,5,0,Yes,0.09,10.65,North America,Environment,0.97,1,Desktop,Auto,Retention Offer,0.38,-16,-0.1,1,62,Web,Credit Card,No,Active,324
+Digital,Monthly,No,4.04,23,0,No,0.65,15.98,North America,Politics,0.46,0,Mobile,Auto,Retention Offer,0.39,-14,0.5,3,67,Web,Credit Card,No,Cancelled,63
+Digital+Print,Monthly,Yes,1.1,17,2,Yes,0.65,4.75,Asia,Politics,0.37,1,Tablet,Auto,,0.36,93,-0.84,3,40,Web,Credit Card,No,Cancelled,232
+Digital,Monthly,Yes,5.55,22,2,No,0.96,11.58,North America,Culture,0.4,1,Mobile,Manual,,0.32,-21,-0.37,1,43,Mobile App,PayPal,Yes,Active,42
+Digital,Monthly,Yes,3.3,5,0,No,0.0,6.79,Europe,Environment,0.79,3,Desktop,Manual,Newsletter Promo,0.18,-97,0.07,5,60,Mobile App,PayPal,No,Active,1168
+Digital,Monthly,Yes,5.45,28,1,No,0.25,7.98,North America,Politics,0.81,1,Desktop,Auto,Newsletter Promo,0.4,-67,0.52,3,61,Web,Debit Card,No,Active,48
+Digital,Monthly,Yes,1.9,29,0,No,0.93,6.79,Asia,Politics,0.77,2,Desktop,Auto,,0.36,-96,0.91,4,57,Web,PayPal,No,Cancelled,773
+Espresso,Monthly,Yes,5.73,24,1,No,0.93,7.07,Europe,Politics,0.54,0,Mobile,Auto,Survey,0.34,49,0.44,3,29,Web,Credit Card,No,Active,78
+Digital,Monthly,No,4.16,22,2,No,0.72,20.89,North America,Politics,0.42,1,Mobile,Auto,,0.08,47,-0.3,3,18,Web,Credit Card,No,Cancelled,600
+Digital,Annual,No,3.83,16,1,Yes,0.77,13.38,North America,Politics,0.71,1,Desktop,Manual,,0.56,2,-0.88,1,67,Mobile App,Credit Card,No,Active,1031
+Espresso,Annual,No,3.35,13,0,No,0.09,14.41,Asia,Environment,0.64,1,Mobile,Manual,Newsletter Promo,0.27,74,0.93,1,51,Mobile App,PayPal,No,Active,462
+Digital+Print,Monthly,Yes,2.63,23,1,Yes,0.51,11.97,Europe,Technology,0.81,2,Mobile,Manual,,0.05,-67,-0.42,4,61,Mobile App,Credit Card,No,Active,176
+Espresso,Monthly,Yes,4.8,10,1,No,0.23,3.57,Asia,Culture,0.61,0,Desktop,Auto,Newsletter Promo,0.14,71,0.07,2,36,Referral,PayPal,No,Active,503
+Digital,Monthly,Yes,3.21,25,1,Yes,0.18,11.58,Asia,Culture,0.54,0,Desktop,Manual,,0.56,-95,-0.06,1,40,Mobile App,Credit Card,No,Active,611
+Digital,Monthly,No,0.05,18,2,No,0.81,14.29,Others,Finance,0.51,1,Mobile,Auto,Newsletter Promo,0.53,83,-0.03,2,24,Mobile App,Debit Card,Yes,Cancelled,588
+Digital,Monthly,Yes,1.32,29,0,No,0.14,6.59,North America,Culture,0.45,0,Mobile,Manual,,0.28,-72,-0.58,4,24,Mobile App,Credit Card,Yes,Cancelled,1141
+Digital+Print,Monthly,Yes,2.72,1,1,No,0.47,13.86,Others,Technology,0.49,2,Mobile,Auto,Newsletter Promo,0.29,-48,0.9,3,18,Mobile App,Credit Card,No,Active,130
+Digital,Annual,Yes,3.46,27,2,No,0.94,12.82,North America,Finance,0.37,0,Mobile,Auto,,0.12,-100,-0.44,3,35,Mobile App,PayPal,No,Active,1539
+Digital+Print,Monthly,Yes,2.92,2,0,Yes,0.19,17.41,North America,Technology,0.54,2,Mobile,Auto,Newsletter Promo,0.55,-42,0.08,2,25,Mobile App,Credit Card,No,Active,1178
+Digital,Monthly,Yes,4.83,10,0,No,0.98,8.33,Asia,Finance,0.33,1,Mobile,Auto,Newsletter Promo,0.08,75,-0.22,4,42,Web,PayPal,No,Active,542
+Digital+Print,Monthly,Yes,0.07,5,1,No,0.99,5.61,North America,Culture,0.43,4,Tablet,Auto,,0.52,-94,0.31,4,59,Referral,Credit Card,No,Active,1569
+Digital+Print,Monthly,No,3.22,28,2,Yes,0.56,8.55,North America,Environment,0.82,0,Desktop,Manual,Retention Offer,0.28,59,-0.1,1,46,Mobile App,PayPal,No,Cancelled,711
+Digital,Annual,Yes,0.27,13,2,No,0.17,15.74,North America,Finance,0.53,1,Mobile,Auto,Survey,0.31,-23,-0.16,2,40,Web,Credit Card,No,Active,1483
+Digital,Annual,No,4.14,18,0,Yes,0.32,2.69,Europe,Culture,0.77,1,Mobile,Auto,,0.35,88,0.54,1,46,Mobile App,Credit Card,No,Active,435
+Digital,Annual,No,2.86,25,1,No,0.42,1.73,Europe,Politics,0.8,0,Desktop,Auto,,0.16,84,-0.16,2,18,Web,PayPal,No,Active,311
+Digital+Print,Monthly,No,3.63,15,2,Yes,0.31,10.36,Asia,Culture,0.71,1,Mobile,Auto,,0.21,-50,0.71,1,32,Mobile App,Credit Card,Yes,Active,410
+Digital,Monthly,Yes,1.7,20,2,No,0.28,8.23,Asia,Finance,0.97,2,Desktop,Manual,,0.04,46,-0.62,1,32,Referral,Credit Card,No,Cancelled,674
+Digital,Monthly,Yes,4.92,21,2,No,0.97,10.03,Europe,Politics,0.32,0,Tablet,Auto,,0.15,-74,-0.12,4,45,Web,PayPal,No,Active,238
+Digital,Monthly,Yes,4.56,23,1,No,0.15,13.78,North America,Finance,0.82,0,Desktop,Auto,Survey,0.51,-38,-0.43,4,53,Mobile App,Debit Card,No,Active,198
+Digital+Print,Monthly,No,3.88,6,2,Yes,0.73,7.79,Others,Technology,0.97,0,Mobile,Manual,Retention Offer,0.26,87,0.02,3,59,Mobile App,Credit Card,No,Active,61
+Digital,Annual,Yes,2.81,29,1,No,0.0,2.51,North America,Politics,0.9,0,Desktop,Manual,Retention Offer,0.13,-40,-0.69,3,57,Mobile App,Credit Card,No,Active,487
+Digital+Print,Monthly,Yes,3.87,26,0,No,0.6,18.18,North America,Environment,0.42,1,Tablet,Auto,,0.13,-40,0.31,4,49,Web,PayPal,No,Active,667
+Digital+Print,Monthly,Yes,1.94,7,0,Yes,0.92,6.01,North America,Politics,0.53,0,Desktop,Manual,Newsletter Promo,0.21,25,0.36,4,63,Web,PayPal,No,Cancelled,650
+Digital,Monthly,Yes,4.28,18,1,Yes,0.29,5.76,Europe,Environment,0.42,0,Desktop,Auto,,0.44,-56,0.75,1,30,Web,Debit Card,Yes,Active,1330
+Digital,Monthly,No,5.47,19,2,Yes,0.19,14.41,North America,Technology,0.72,0,Mobile,Manual,Newsletter Promo,0.37,48,0.42,3,38,Web,Credit Card,No,Cancelled,1242
+Digital,Monthly,Yes,4.61,15,0,Yes,0.65,8.46,North America,Finance,0.8,3,Mobile,Auto,Newsletter Promo,0.28,71,0.42,4,66,Mobile App,Credit Card,No,Active,1738
+Digital,Annual,Yes,1.91,21,0,No,0.71,9.75,North America,Finance,0.52,1,Desktop,Manual,,0.26,28,0.34,2,56,Mobile App,Credit Card,No,Active,1692
+Digital,Annual,No,3.54,26,1,No,0.69,11.93,North America,Technology,0.68,0,Tablet,Auto,,0.23,-6,-0.11,2,55,Referral,Credit Card,No,Active,1347
+Digital,Annual,Yes,1.06,6,4,Yes,0.32,14.33,Europe,Technology,0.78,1,Desktop,Auto,Survey,0.18,-10,0.81,3,26,Web,Credit Card,No,Cancelled,754
+Digital,Monthly,Yes,3.86,8,0,Yes,0.25,8.67,Asia,Technology,0.59,1,Desktop,Auto,,0.26,-57,0.28,2,37,Web,Credit Card,No,Active,1216
+Digital+Print,Monthly,Yes,3.68,12,1,No,0.96,16.08,Asia,Finance,0.9,1,Mobile,Auto,Newsletter Promo,0.25,-39,1.24,1,37,Mobile App,Credit Card,No,Active,913
+Digital,Monthly,No,0.2,0,1,No,0.92,1.46,North America,Finance,0.84,1,Mobile,Manual,Newsletter Promo,0.11,-40,0.88,3,25,Web,Credit Card,No,Cancelled,73
+Digital+Print,Monthly,No,1.26,28,1,Yes,0.46,13.04,North America,Environment,0.35,1,Desktop,Auto,Newsletter Promo,0.1,-22,0.17,4,31,Referral,PayPal,No,Cancelled,1414
+Espresso,Annual,No,2.58,7,1,No,0.85,6.64,Others,Politics,0.73,0,Mobile,Auto,,0.38,-12,0.2,2,37,Mobile App,PayPal,No,Active,209
+Digital,Monthly,Yes,2.55,23,0,No,0.45,15.49,North America,Finance,0.46,2,Desktop,Auto,Retention Offer,0.3,11,0.42,1,52,Mobile App,Credit Card,No,Active,1449
+Espresso,Monthly,Yes,1.19,21,1,No,0.42,10.57,Asia,Politics,0.69,3,Mobile,Auto,Newsletter Promo,0.18,10,0.79,4,62,Web,PayPal,No,Cancelled,118
+Digital,Monthly,No,3.58,3,2,No,0.16,7.31,North America,Culture,0.97,2,Desktop,Manual,Survey,0.3,-51,-0.77,5,38,Web,Debit Card,No,Active,574
+Espresso,Monthly,Yes,3.38,2,1,Yes,0.43,12.65,Others,Culture,0.92,1,Desktop,Auto,,0.28,-60,0.66,1,58,Web,Credit Card,No,Active,1406
+Digital,Annual,Yes,2.71,26,2,No,0.54,13.57,North America,Politics,0.58,0,Mobile,Auto,Newsletter Promo,0.31,-68,0.19,2,58,Web,Credit Card,No,Active,1604
+Digital,Monthly,No,1.87,2,2,Yes,0.02,12.57,Europe,Politics,0.5,2,Mobile,Manual,Newsletter Promo,0.66,-89,0.54,1,39,Mobile App,Credit Card,Yes,Cancelled,572
+Digital+Print,Monthly,Yes,4.57,21,2,No,0.44,5.88,Asia,Politics,0.46,0,Desktop,Manual,,0.75,-99,-0.36,5,60,Web,Credit Card,No,Active,434
+Digital,Monthly,Yes,5.48,12,2,No,0.78,8.06,Europe,Finance,0.67,1,Tablet,Auto,,0.34,6,-0.38,5,23,Mobile App,Credit Card,No,Active,645
+Digital+Print,Monthly,No,2.27,7,0,Yes,0.68,9.98,North America,Finance,0.38,2,Desktop,Auto,Newsletter Promo,0.04,48,0.17,1,61,Mobile App,Credit Card,Yes,Active,202
+Digital+Print,Annual,No,2.08,6,1,No,0.64,9.83,Europe,Environment,0.68,0,Mobile,Manual,Newsletter Promo,0.36,41,0.49,4,44,Web,Credit Card,No,Active,691
+Digital,Annual,Yes,3.74,26,1,No,0.91,13.0,Asia,Finance,0.3,2,Mobile,Manual,,0.29,-67,-0.62,4,21,Mobile App,Credit Card,No,Active,641
+Digital,Annual,Yes,2.46,0,2,No,0.02,1.94,North America,Politics,0.53,0,Mobile,Manual,,0.26,-16,-0.2,5,21,Mobile App,Credit Card,Yes,Active,1225
+Espresso,Annual,Yes,2.79,26,1,No,0.56,11.34,North America,Culture,0.45,1,Mobile,Manual,,0.24,91,-0.6,3,45,Web,Credit Card,No,Active,502
+Digital,Monthly,Yes,4.11,15,0,No,0.79,8.84,Europe,Finance,0.98,1,Desktop,Manual,,0.1,50,0.21,3,44,Web,Credit Card,No,Active,1154
+Digital,Monthly,No,0.14,5,2,Yes,0.54,6.65,North America,Technology,0.81,0,Desktop,Manual,Survey,0.13,-16,1.0,4,34,Mobile App,Credit Card,Yes,Cancelled,248
+Digital+Print,Monthly,No,4.98,6,1,Yes,0.32,7.03,Europe,Politics,0.54,0,Mobile,Manual,Newsletter Promo,0.34,-51,-0.17,3,56,Mobile App,Credit Card,No,Active,443
+Digital,Monthly,Yes,3.11,11,0,Yes,0.14,9.14,North America,Finance,0.36,0,Mobile,Auto,Retention Offer,0.65,41,0.39,4,55,Mobile App,PayPal,No,Active,582
+Digital+Print,Annual,No,2.38,22,0,No,0.89,-4.4,Europe,Environment,0.66,0,Mobile,Auto,,0.21,5,0.06,2,69,Web,PayPal,No,Active,1691
+Digital,Monthly,No,2.87,8,3,No,0.47,7.19,North America,Technology,0.45,1,Tablet,Auto,,0.44,-55,0.18,4,46,Web,Credit Card,No,Active,1117
+Digital,Annual,Yes,2.94,26,0,No,0.88,6.5,Europe,Finance,0.68,1,Desktop,Auto,,0.18,17,-0.3,2,57,Web,Debit Card,No,Active,678
+Digital+Print,Monthly,Yes,0.4,10,1,No,0.59,12.13,North America,Technology,0.88,2,Desktop,Manual,Retention Offer,0.34,-96,0.33,5,24,Web,PayPal,No,Active,1711
+Digital,Monthly,Yes,5.24,9,1,No,0.67,6.78,North America,Environment,0.73,1,Mobile,Manual,,0.45,-35,-0.1,3,25,Mobile App,Credit Card,Yes,Active,1433
+Digital+Print,Monthly,Yes,3.06,20,0,No,0.8,9.14,North America,Politics,0.74,2,Desktop,Manual,Newsletter Promo,0.32,49,0.9,5,58,Mobile App,Credit Card,No,Active,828
+Digital,Annual,No,3.66,0,0,Yes,0.66,16.17,Others,Finance,0.68,0,Mobile,Manual,,0.54,-31,-0.26,1,50,Mobile App,Credit Card,No,Active,1088
+Digital+Print,Monthly,Yes,4.43,17,2,No,0.4,13.98,North America,Environment,0.95,0,Mobile,Auto,Retention Offer,0.31,7,0.49,1,49,Web,Credit Card,No,Active,1338
+Digital+Print,Monthly,No,1.47,3,0,No,0.51,13.61,Asia,Politics,0.95,1,Desktop,Manual,,0.26,-99,0.99,5,52,Web,Credit Card,No,Cancelled,43
+Digital,Monthly,Yes,3.71,4,0,Yes,0.8,8.0,North America,Technology,0.66,1,Desktop,Auto,,0.2,-72,0.59,4,35,Mobile App,Credit Card,Yes,Active,1136
+Digital+Print,Monthly,Yes,2.6,8,2,No,0.37,12.17,North America,Technology,0.51,0,Mobile,Auto,Newsletter Promo,0.35,-40,-0.45,4,68,Mobile App,PayPal,Yes,Active,1363
+Digital,Monthly,Yes,4.27,26,0,Yes,0.39,9.06,Europe,Technology,0.62,0,Mobile,Auto,Newsletter Promo,0.25,-1,-0.5,3,60,Mobile App,Credit Card,No,Active,1635
+Digital,Annual,Yes,0.0,16,1,Yes,0.1,9.22,Europe,Finance,0.43,0,Mobile,Manual,,0.15,27,0.23,5,33,Web,Credit Card,No,Cancelled,809
+Digital,Monthly,Yes,2.85,2,0,Yes,0.91,11.64,Others,Finance,0.75,1,Mobile,Auto,,0.08,98,0.03,1,35,Mobile App,Credit Card,No,Active,1111
+Digital,Monthly,No,2.1,15,1,No,0.09,7.61,Others,Technology,0.65,1,Desktop,Manual,Newsletter Promo,0.34,43,0.26,5,55,Mobile App,Debit Card,No,Active,1151
+Digital,Monthly,Yes,3.65,4,0,Yes,0.65,15.97,Asia,Politics,0.37,0,Tablet,Auto,Newsletter Promo,0.17,91,0.6,5,42,Referral,Credit Card,No,Active,739
+Digital+Print,Monthly,Yes,3.71,15,2,No,0.41,9.36,Europe,Finance,0.44,1,Mobile,Auto,Newsletter Promo,0.39,-4,0.04,3,51,Referral,Credit Card,No,Active,865
+Espresso,Annual,No,1.94,2,1,Yes,0.41,12.47,Europe,Politics,0.64,1,Mobile,Auto,Survey,0.44,-4,-0.31,4,21,Referral,Credit Card,No,Cancelled,1497
+Digital+Print,Monthly,Yes,1.93,19,0,No,0.68,15.82,North America,Politics,0.92,1,Mobile,Auto,Newsletter Promo,0.32,-87,0.1,1,22,Mobile App,Credit Card,No,Cancelled,1071
+Digital+Print,Monthly,Yes,2.83,14,3,No,0.07,14.13,Others,Environment,0.7,2,Desktop,Manual,Retention Offer,0.12,-58,0.76,3,31,Mobile App,Credit Card,Yes,Active,596
+Digital+Print,Monthly,No,1.66,29,1,No,0.59,4.36,Europe,Finance,0.78,1,Mobile,Auto,,0.4,70,0.02,1,18,Web,PayPal,No,Cancelled,1558
+Digital+Print,Annual,Yes,4.26,2,3,No,0.77,11.78,Europe,Environment,0.54,0,Desktop,Manual,,0.33,-31,1.08,1,39,Mobile App,Credit Card,No,Active,689
+Digital+Print,Annual,Yes,2.45,19,2,Yes,0.83,13.4,North America,Politics,0.7,3,Mobile,Manual,Retention Offer,0.17,-46,0.44,4,63,Web,Credit Card,No,Active,751
+Digital,Monthly,Yes,0.0,13,0,Yes,0.17,13.57,North America,Technology,0.61,1,Desktop,Manual,Survey,0.61,-70,0.39,4,38,Web,Credit Card,Yes,Cancelled,1275
+Digital,Monthly,Yes,2.44,15,1,Yes,0.9,5.55,Others,Politics,0.76,0,Desktop,Auto,,0.25,-25,-0.27,3,30,Mobile App,PayPal,No,Active,364
+Digital,Monthly,Yes,1.44,28,1,No,0.66,7.37,North America,Culture,0.34,3,Tablet,Manual,,0.21,67,-0.06,2,65,Mobile App,Credit Card,No,Cancelled,960
+Digital,Annual,Yes,0.55,28,1,Yes,0.88,13.98,Europe,Culture,0.65,0,Tablet,Auto,Newsletter Promo,0.48,54,0.26,3,53,Mobile App,PayPal,No,Cancelled,1713
+Digital,Monthly,Yes,1.14,16,0,No,0.49,6.95,North America,Politics,0.51,3,Desktop,Auto,,0.27,-49,-0.01,3,46,Web,Credit Card,No,Cancelled,220
+Digital,Monthly,No,3.16,27,2,Yes,0.54,8.8,Asia,Environment,0.53,1,Tablet,Auto,Newsletter Promo,0.22,27,0.63,2,55,Mobile App,Credit Card,No,Cancelled,741
+Digital,Monthly,Yes,4.99,23,0,Yes,0.92,16.3,North America,Politics,0.97,0,Mobile,Manual,Newsletter Promo,0.19,-94,0.11,1,26,Referral,PayPal,Yes,Active,1258
+Digital+Print,Monthly,Yes,3.47,19,2,No,0.9,9.81,Asia,Technology,0.43,1,Mobile,Auto,Retention Offer,0.57,73,-0.29,5,50,Mobile App,Credit Card,No,Active,1342
+Digital,Monthly,No,2.09,22,0,Yes,0.45,7.09,North America,Environment,0.52,0,Mobile,Auto,,0.06,-1,0.18,2,39,Mobile App,Credit Card,No,Cancelled,984
+Digital,Annual,Yes,3.68,17,4,No,0.27,6.49,Asia,Culture,0.66,0,Desktop,Auto,,0.52,60,-0.16,5,34,Mobile App,Credit Card,Yes,Active,644
+Digital,Monthly,Yes,2.31,17,1,No,0.39,11.33,Asia,Environment,0.9,1,Tablet,Auto,,0.37,35,0.36,1,40,Referral,Credit Card,No,Active,207
+Digital,Monthly,No,1.96,21,0,No,0.39,4.67,North America,Finance,0.59,1,Mobile,Auto,Newsletter Promo,0.44,32,-0.24,2,53,Web,Credit Card,No,Cancelled,1741
+Digital,Monthly,Yes,1.27,13,1,No,0.29,9.01,Europe,Politics,0.82,0,Desktop,Manual,,0.1,-40,0.95,4,23,Web,Credit Card,No,Active,897
+Espresso,Annual,Yes,0.37,17,2,Yes,0.27,11.33,North America,Politics,0.9,2,Desktop,Auto,,0.43,99,-0.72,3,65,Web,Credit Card,No,Cancelled,1113
+Digital+Print,Monthly,Yes,2.42,14,1,No,0.86,15.2,North America,Finance,0.52,1,Tablet,Manual,Newsletter Promo,0.31,3,-0.14,2,56,Web,Credit Card,No,Active,944
+Digital,Annual,No,3.24,14,1,No,0.07,12.67,Asia,Culture,0.57,0,Desktop,Auto,,0.19,87,0.12,2,46,Web,Credit Card,Yes,Active,1002
+Digital,Monthly,No,2.86,5,2,No,0.68,7.14,Europe,Politics,0.55,0,Tablet,Manual,Newsletter Promo,0.58,51,-0.21,1,44,Mobile App,Credit Card,No,Active,175
+Espresso,Monthly,Yes,2.38,26,1,Yes,0.17,14.71,North America,Technology,0.88,0,Mobile,Auto,,0.25,-94,-1.1,4,22,Web,PayPal,No,Active,1817
+Digital+Print,Monthly,Yes,1.58,14,2,Yes,0.34,8.8,North America,Finance,0.33,4,Mobile,Auto,Retention Offer,0.38,88,1.0,2,26,Web,Credit Card,No,Cancelled,754
+Digital,Monthly,No,3.91,17,1,Yes,0.06,5.06,North America,Finance,0.52,4,Desktop,Auto,,0.34,-18,0.42,4,41,Web,PayPal,No,Cancelled,862
+Digital,Monthly,Yes,1.02,3,1,Yes,0.27,9.31,Asia,Technology,0.78,0,Mobile,Auto,Survey,0.1,-6,-0.58,5,36,Referral,Credit Card,No,Cancelled,1435
+Digital+Print,Annual,No,4.16,22,1,No,0.77,15.75,North America,Finance,0.7,3,Mobile,Manual,Survey,0.42,63,-0.5,2,50,Mobile App,Credit Card,No,Active,1747
+Digital,Monthly,Yes,1.5,7,0,No,0.89,10.66,Others,Culture,0.61,1,Desktop,Auto,Newsletter Promo,0.33,-74,-0.68,4,47,Web,PayPal,Yes,Active,586
+Espresso,Monthly,Yes,1.87,14,2,No,0.22,10.05,Others,Politics,0.68,0,Desktop,Manual,Newsletter Promo,0.14,23,-0.02,3,57,Web,Credit Card,No,Active,726
+Digital,Monthly,Yes,0.8,2,0,No,0.46,16.55,North America,Culture,0.44,1,Desktop,Manual,Retention Offer,0.2,56,0.79,1,69,Web,Credit Card,No,Active,631
+Digital,Annual,No,2.25,29,1,Yes,0.47,4.27,North America,Politics,0.6,0,Mobile,Auto,,0.06,-14,-0.09,4,21,Mobile App,Credit Card,Yes,Active,466
+Digital,Annual,Yes,4.46,14,0,No,0.87,4.86,Asia,Politics,0.65,1,Desktop,Auto,,0.42,47,-0.18,1,49,Mobile App,Credit Card,No,Active,118
+Digital,Monthly,No,3.77,12,1,Yes,0.76,3.54,North America,Technology,0.93,1,Mobile,Auto,Newsletter Promo,0.19,-31,0.53,2,66,Referral,Credit Card,No,Active,1516
+Digital+Print,Annual,Yes,4.47,8,2,No,0.51,11.49,North America,Culture,0.48,0,Mobile,Auto,Retention Offer,0.16,13,0.21,2,18,Mobile App,Credit Card,Yes,Active,1531
+Digital,Monthly,Yes,3.78,1,2,No,0.67,10.67,North America,Politics,0.91,0,Desktop,Auto,Survey,0.27,-25,0.02,5,51,Referral,Credit Card,No,Active,378
+Digital,Monthly,No,1.34,23,0,No,0.85,16.17,Europe,Finance,0.75,0,Mobile,Manual,,0.27,13,0.42,1,38,Web,PayPal,No,Cancelled,1610
+Digital+Print,Annual,No,2.5,7,1,Yes,0.01,10.97,Asia,Finance,0.31,0,Mobile,Auto,Newsletter Promo,0.2,-98,-0.83,3,48,Mobile App,Credit Card,No,Active,1726
+Digital+Print,Annual,Yes,1.83,28,2,Yes,0.4,8.38,North America,Politics,0.81,2,Desktop,Auto,Newsletter Promo,0.14,66,0.29,3,31,Mobile App,Credit Card,No,Cancelled,1642
+Digital+Print,Monthly,Yes,5.0,29,3,Yes,0.91,10.01,North America,Culture,0.32,0,Mobile,Auto,Newsletter Promo,0.15,-2,0.69,4,43,Web,Debit Card,No,Cancelled,1340
+Digital,Monthly,Yes,1.2,19,2,No,0.74,10.47,Others,Culture,1.0,1,Tablet,Auto,,0.17,23,-0.57,3,39,Web,Credit Card,Yes,Cancelled,956
+Digital,Monthly,No,4.34,16,1,Yes,0.54,3.31,Asia,Politics,0.91,2,Desktop,Manual,Survey,0.06,-56,-0.13,1,51,Mobile App,Credit Card,Yes,Cancelled,1636
+Digital+Print,Annual,Yes,4.34,12,0,No,0.53,20.84,Europe,Finance,0.51,0,Tablet,Manual,,0.24,25,-0.92,2,50,Web,PayPal,No,Active,918
+Digital,Monthly,Yes,5.74,0,1,No,0.35,12.08,Asia,Culture,0.48,1,Mobile,Manual,,0.27,-33,-0.16,1,30,Mobile App,Credit Card,No,Active,973
+Digital,Monthly,Yes,2.39,1,0,Yes,0.52,10.84,Europe,Finance,0.57,0,Desktop,Manual,,0.41,-70,-0.27,1,49,Mobile App,Debit Card,No,Active,1257
+Digital,Monthly,Yes,4.07,29,1,No,0.66,12.46,Asia,Technology,0.55,0,Mobile,Auto,Newsletter Promo,0.24,5,0.91,2,25,Web,Credit Card,No,Active,837
+Digital,Monthly,Yes,6.42,14,1,Yes,0.42,12.84,North America,Politics,0.56,2,Desktop,Auto,Newsletter Promo,0.21,-63,-0.18,1,39,Web,Credit Card,No,Active,1712
+Digital,Monthly,Yes,2.07,11,2,No,0.71,9.44,North America,Technology,0.52,1,Mobile,Auto,Survey,0.6,33,0.2,3,58,Referral,Credit Card,Yes,Active,1043
+Digital+Print,Annual,Yes,0.7,13,3,No,0.86,7.48,Asia,Politics,0.73,1,Mobile,Manual,Newsletter Promo,0.24,-93,0.73,4,37,Web,Credit Card,No,Active,1312
+Espresso,Monthly,Yes,0.18,24,0,Yes,0.15,12.4,Europe,Culture,0.41,2,Desktop,Manual,Newsletter Promo,0.25,-73,-1.04,4,38,Web,Debit Card,No,Cancelled,797
+Digital,Monthly,Yes,4.07,28,1,No,0.45,11.54,Others,Finance,0.89,0,Mobile,Auto,Survey,0.24,-86,0.12,1,51,Web,PayPal,Yes,Active,1546
+Digital,Monthly,No,0.18,1,1,Yes,0.41,6.76,North America,Politics,0.87,0,Mobile,Auto,Retention Offer,0.17,-93,-0.5,2,66,Referral,PayPal,Yes,Cancelled,1787
+Digital,Annual,Yes,2.44,17,0,No,0.69,15.68,Others,Culture,0.63,0,Mobile,Auto,,0.3,-47,-0.49,5,47,Mobile App,Credit Card,No,Active,602
+Digital+Print,Monthly,Yes,3.66,21,0,Yes,0.25,11.17,Others,Politics,0.9,1,Desktop,Manual,Survey,0.23,33,-0.38,1,23,Web,PayPal,No,Active,1313
+Digital+Print,Monthly,Yes,3.28,6,0,No,0.64,12.92,North America,Finance,0.47,1,Mobile,Auto,,0.26,-72,-0.19,1,52,Web,PayPal,No,Active,1739
+Digital,Annual,No,3.64,28,2,No,0.88,15.57,Asia,Finance,0.31,1,Mobile,Manual,Retention Offer,0.11,14,-0.46,5,44,Web,Credit Card,No,Active,125
+Digital+Print,Annual,No,3.33,22,1,No,0.42,10.09,Europe,Politics,0.73,1,Mobile,Auto,Newsletter Promo,0.35,-67,-0.16,4,37,Web,PayPal,No,Active,888
+Digital,Annual,Yes,4.92,28,1,No,0.91,11.27,Others,Environment,0.62,0,Desktop,Auto,Retention Offer,0.1,-94,0.53,4,66,Mobile App,PayPal,No,Active,30
+Digital,Annual,No,1.57,24,4,Yes,0.99,13.24,Europe,Culture,0.7,1,Desktop,Manual,Newsletter Promo,0.25,-61,0.29,5,55,Web,PayPal,No,Cancelled,1062
+Digital+Print,Monthly,Yes,1.98,5,3,No,0.11,7.1,Asia,Politics,0.93,2,Mobile,Auto,,0.49,-27,1.41,2,57,Mobile App,Credit Card,No,Cancelled,637
+Digital+Print,Annual,No,1.84,13,0,No,0.23,10.22,Europe,Technology,0.98,0,Mobile,Manual,Newsletter Promo,0.73,40,0.14,1,31,Mobile App,Debit Card,No,Active,420
+Digital,Monthly,No,4.25,7,1,No,0.95,10.5,North America,Finance,0.74,3,Mobile,Manual,Newsletter Promo,0.34,-39,0.35,3,27,Web,Credit Card,No,Active,203
+Digital,Annual,No,4.35,26,1,No,0.96,6.18,North America,Environment,0.83,1,Mobile,Auto,,0.02,-15,0.68,4,69,Referral,PayPal,No,Active,273
+Digital,Annual,No,3.68,21,1,Yes,0.1,19.27,Europe,Finance,0.36,1,Mobile,Manual,,0.37,15,-0.54,4,59,Web,Credit Card,No,Active,121
+Digital,Annual,Yes,4.78,1,0,Yes,0.01,4.37,Asia,Technology,0.41,0,Mobile,Auto,,0.57,-36,0.67,4,32,Web,Debit Card,Yes,Active,1711
+Digital,Monthly,No,1.23,16,2,No,0.16,4.81,Europe,Finance,0.81,1,Desktop,Auto,Newsletter Promo,0.4,-60,-0.44,2,57,Mobile App,Credit Card,No,Cancelled,1660
+Digital,Monthly,Yes,5.5,4,1,Yes,1.0,15.26,Europe,Finance,0.6,3,Tablet,Manual,,0.45,22,0.26,5,60,Web,Credit Card,No,Active,750
+Digital+Print,Monthly,Yes,5.28,13,1,No,0.18,12.85,North America,Finance,0.61,0,Mobile,Auto,,0.16,69,0.51,2,65,Web,Credit Card,Yes,Active,74
+Digital,Annual,Yes,4.1,24,1,No,0.5,5.9,Europe,Politics,0.52,0,Desktop,Auto,Newsletter Promo,0.25,15,-0.92,4,20,Web,Credit Card,No,Active,314
+Digital,Annual,Yes,5.67,23,1,Yes,0.85,12.43,North America,Culture,0.73,0,Desktop,Manual,Newsletter Promo,0.25,-35,-0.16,1,32,Web,Debit Card,No,Active,381
+Digital+Print,Monthly,Yes,0.52,29,1,No,0.02,15.87,Asia,Finance,0.43,2,Desktop,Auto,Newsletter Promo,0.25,15,-0.01,4,62,Referral,Debit Card,No,Cancelled,633
+Digital,Monthly,Yes,2.21,28,0,Yes,0.6,9.88,Others,Environment,0.74,2,Desktop,Manual,,0.29,38,-0.53,1,48,Web,Credit Card,No,Active,981
+Digital+Print,Monthly,No,1.9,19,1,Yes,0.28,20.4,Europe,Politics,0.42,0,Mobile,Manual,Newsletter Promo,0.06,0,0.19,1,28,Web,Credit Card,No,Cancelled,1163
+Digital+Print,Annual,Yes,4.08,20,0,No,0.86,3.1,North America,Technology,0.34,1,Mobile,Auto,Survey,0.42,-51,0.87,4,63,Mobile App,Credit Card,Yes,Active,130
+Digital+Print,Annual,Yes,1.42,28,1,Yes,0.28,12.78,North America,Environment,0.53,1,Desktop,Auto,,0.49,-30,-0.46,4,56,Web,Credit Card,Yes,Cancelled,416
+Digital,Monthly,Yes,4.14,20,0,Yes,0.69,14.67,Europe,Technology,0.46,0,Mobile,Auto,Survey,0.09,62,0.62,1,36,Referral,PayPal,No,Active,548
+Digital,Monthly,Yes,5.06,21,4,No,0.67,13.57,Europe,Culture,0.92,2,Mobile,Auto,Retention Offer,0.22,-21,0.27,2,32,Web,PayPal,No,Active,1775
+Espresso,Annual,Yes,4.04,2,0,Yes,0.22,9.18,Asia,Culture,0.34,1,Mobile,Manual,Newsletter Promo,0.37,-22,-0.65,2,55,Web,Credit Card,Yes,Active,1600
+Digital+Print,Annual,Yes,3.43,4,3,No,0.03,8.84,North America,Finance,0.42,0,Mobile,Manual,Retention Offer,0.11,-81,-0.18,2,37,Web,Credit Card,No,Active,842
+Digital+Print,Monthly,Yes,1.52,15,0,Yes,0.41,11.78,Asia,Technology,0.68,1,Desktop,Auto,Newsletter Promo,0.07,55,0.15,3,39,Web,PayPal,No,Cancelled,1573
+Espresso,Monthly,Yes,1.73,17,3,Yes,0.29,13.26,Europe,Politics,0.64,1,Mobile,Auto,,0.32,22,0.82,1,24,Web,Credit Card,Yes,Cancelled,215
+Espresso,Monthly,No,4.87,25,0,No,0.81,12.41,North America,Finance,0.33,0,Mobile,Manual,Retention Offer,0.25,-64,0.43,3,31,Web,Credit Card,No,Cancelled,253
+Digital+Print,Monthly,Yes,4.17,16,0,No,0.8,14.16,Europe,Politics,0.31,1,Mobile,Auto,Newsletter Promo,0.48,-98,-0.32,3,21,Mobile App,Credit Card,Yes,Active,1311
+Digital,Monthly,No,2.94,10,1,Yes,0.46,5.92,North America,Technology,0.99,3,Mobile,Manual,Retention Offer,0.16,-8,0.22,1,26,Web,Credit Card,Yes,Active,496
+Espresso,Monthly,Yes,2.37,16,0,No,0.61,9.09,Europe,Finance,0.76,0,Tablet,Manual,Newsletter Promo,0.29,86,-1.38,3,56,Web,Credit Card,No,Active,1710
+Digital+Print,Annual,Yes,0.0,15,1,No,0.6,6.24,Asia,Finance,0.56,2,Mobile,Auto,,0.31,0,0.48,1,42,Web,Debit Card,No,Active,828
+Espresso,Monthly,No,1.39,25,1,No,0.83,8.46,Europe,Politics,0.63,2,Tablet,Auto,,0.17,54,-0.36,5,64,Mobile App,Credit Card,No,Cancelled,901
+Digital,Annual,No,5.87,22,4,No,0.43,14.06,Asia,Environment,0.49,1,Desktop,Manual,,0.32,-69,-0.5,5,52,Web,PayPal,No,Cancelled,1825
+Digital,Monthly,No,1.08,1,0,No,0.28,10.43,Europe,Politics,0.54,0,Desktop,Auto,Newsletter Promo,0.2,-53,-0.13,1,54,Web,Credit Card,No,Cancelled,726
+Digital+Print,Monthly,Yes,3.28,3,0,No,0.27,20.43,North America,Politics,0.75,1,Mobile,Auto,Survey,0.33,-55,-0.6,1,66,Mobile App,PayPal,No,Active,1048
+Digital,Monthly,Yes,4.51,20,2,No,0.54,10.77,Europe,Politics,0.92,0,Mobile,Manual,,0.36,13,-0.07,1,44,Web,Credit Card,No,Active,447
+Digital,Monthly,Yes,1.12,6,1,Yes,0.45,10.24,Europe,Environment,0.43,0,Desktop,Manual,Newsletter Promo,0.15,-6,0.55,2,45,Web,Credit Card,No,Cancelled,91
+Digital,Annual,Yes,3.28,1,2,No,0.44,10.42,North America,Environment,0.89,1,Desktop,Auto,Newsletter Promo,0.41,-54,-0.96,1,41,Web,Credit Card,Yes,Active,1278
+Digital,Annual,Yes,4.41,29,1,No,0.09,7.45,North America,Technology,0.39,1,Mobile,Auto,Survey,0.12,-61,-0.01,4,50,Web,PayPal,No,Active,817
+Espresso,Monthly,Yes,3.02,5,1,No,0.72,9.77,Europe,Culture,0.45,1,Mobile,Auto,,0.25,30,-0.05,5,50,Mobile App,PayPal,No,Active,1225
+Digital,Monthly,Yes,7.3,16,0,No,0.21,14.51,North America,Politics,0.33,1,Mobile,Auto,,0.35,15,0.28,5,33,Web,Debit Card,No,Active,1266
+Digital,Annual,Yes,0.5,6,1,No,0.2,10.46,North America,Environment,0.4,4,Tablet,Auto,Newsletter Promo,0.27,56,-0.07,1,40,Web,Credit Card,No,Active,1240
+Digital+Print,Monthly,Yes,4.59,24,1,No,0.41,6.83,Europe,Politics,0.94,2,Mobile,Auto,Newsletter Promo,0.13,-10,0.5,5,63,Web,Credit Card,No,Active,1310
+Digital+Print,Monthly,No,2.74,4,0,No,0.23,6.3,North America,Politics,0.62,3,Desktop,Auto,,0.33,-43,0.71,1,28,Referral,Credit Card,No,Active,251
+Digital+Print,Annual,Yes,4.16,4,2,Yes,0.58,8.2,Others,Politics,0.35,3,Desktop,Auto,,0.27,77,0.54,1,63,Web,Credit Card,No,Active,289
+Digital+Print,Monthly,Yes,3.66,19,0,Yes,0.37,10.3,North America,Technology,0.97,2,Desktop,Auto,,0.27,-91,-0.34,5,57,Mobile App,Credit Card,No,Active,423
+Espresso,Monthly,No,1.9,15,2,Yes,0.45,14.77,Asia,Culture,0.92,1,Desktop,Auto,,0.47,-40,1.0,5,36,Web,PayPal,No,Cancelled,1328
+Digital+Print,Monthly,Yes,3.34,18,0,Yes,0.54,4.64,Europe,Finance,0.83,2,Mobile,Auto,Newsletter Promo,0.25,10,-0.55,4,51,Mobile App,Credit Card,No,Active,756
+Digital+Print,Annual,No,0.21,8,0,Yes,0.2,8.72,Asia,Environment,0.95,1,Tablet,Auto,,0.27,20,0.39,3,40,Mobile App,PayPal,No,Cancelled,710
+Digital,Monthly,No,3.9,4,1,No,0.16,10.58,North America,Finance,0.45,0,Desktop,Manual,Survey,0.26,-40,0.61,4,27,Web,Credit Card,No,Active,603
+Digital,Monthly,Yes,3.45,7,0,Yes,0.88,2.67,Others,Politics,0.89,3,Desktop,Auto,,0.54,50,1.07,4,54,Web,Credit Card,No,Active,1443
+Digital,Annual,No,3.96,8,2,No,0.43,6.67,Europe,Finance,0.78,2,Mobile,Auto,Newsletter Promo,0.23,-95,0.53,5,64,Web,Credit Card,No,Active,930
+Digital,Monthly,Yes,4.59,4,1,Yes,0.41,7.28,Asia,Technology,0.91,0,Desktop,Manual,Newsletter Promo,0.32,-26,-0.35,4,18,Web,Credit Card,No,Active,960
+Digital,Annual,Yes,3.55,9,0,Yes,0.04,6.82,North America,Culture,0.86,0,Mobile,Auto,,0.0,87,0.49,5,19,Web,Debit Card,No,Active,336
+Digital,Monthly,No,3.22,24,0,No,0.5,10.77,North America,Finance,0.54,1,Mobile,Manual,,0.01,14,-0.04,2,68,Web,PayPal,Yes,Cancelled,1297
+Digital+Print,Annual,Yes,1.68,1,1,No,0.55,9.36,Europe,Technology,0.84,0,Desktop,Auto,,0.55,54,0.58,1,39,Web,PayPal,No,Active,1075
+Digital+Print,Monthly,No,1.93,8,2,No,0.56,7.78,North America,Politics,0.48,2,Desktop,Auto,Survey,0.15,82,0.13,3,34,Web,Debit Card,Yes,Cancelled,321
+Espresso,Monthly,Yes,4.78,10,1,Yes,0.71,11.71,Europe,Technology,0.53,1,Desktop,Auto,,0.55,-70,0.75,2,64,Mobile App,Credit Card,No,Active,1601
+Digital,Monthly,Yes,5.15,3,3,Yes,0.18,16.89,North America,Environment,0.38,1,Mobile,Auto,,0.33,22,0.05,1,41,Web,Credit Card,No,Active,886
+Digital,Monthly,No,2.64,21,1,Yes,0.25,16.56,Europe,Politics,0.95,1,Desktop,Auto,Retention Offer,0.12,57,0.5,1,67,Web,PayPal,No,Cancelled,626
+Digital+Print,Annual,No,3.07,21,1,No,0.81,2.31,Others,Culture,0.5,0,Mobile,Auto,Retention Offer,0.15,-34,-0.28,3,38,Mobile App,Credit Card,No,Active,767
+Digital,Annual,Yes,1.64,21,0,Yes,0.95,12.31,Europe,Technology,0.66,2,Desktop,Auto,Retention Offer,0.36,-88,0.62,4,57,Mobile App,Credit Card,No,Cancelled,868
+Digital+Print,Monthly,Yes,4.76,1,1,No,0.14,9.29,Asia,Politics,0.57,3,Mobile,Manual,Survey,0.46,-42,-1.04,1,46,Referral,Credit Card,No,Active,389
+Espresso,Monthly,No,4.0,22,0,Yes,0.5,10.62,Europe,Environment,0.97,1,Desktop,Auto,Newsletter Promo,0.13,-47,0.38,3,31,Mobile App,Credit Card,No,Cancelled,251
+Digital,Annual,Yes,5.91,28,1,No,0.21,8.41,Europe,Finance,0.53,0,Desktop,Auto,,0.24,3,0.22,5,25,Mobile App,PayPal,No,Active,338
+Digital+Print,Annual,Yes,1.68,5,1,No,0.06,10.47,Others,Finance,0.84,1,Mobile,Auto,,0.18,-80,0.11,1,47,Web,Credit Card,No,Active,1215
+Digital,Monthly,Yes,2.43,26,0,No,0.33,10.61,Asia,Politics,0.9,1,Mobile,Auto,,0.23,-58,-1.05,1,39,Mobile App,Credit Card,No,Active,1653
+Digital+Print,Monthly,Yes,3.35,13,0,Yes,0.14,7.68,Asia,Politics,0.6,0,Desktop,Manual,,0.09,-90,-0.21,4,40,Mobile App,Credit Card,No,Active,129
+Digital,Monthly,Yes,3.97,0,2,Yes,0.71,6.41,North America,Culture,0.56,0,Desktop,Auto,Newsletter Promo,0.22,8,0.63,4,57,Mobile App,Credit Card,No,Active,691
+Digital+Print,Monthly,Yes,2.68,17,1,No,0.53,8.21,Europe,Technology,0.82,2,Desktop,Auto,,0.33,-34,-0.39,5,68,Web,PayPal,No,Active,863
+Digital,Monthly,Yes,1.69,6,2,No,0.14,10.94,North America,Environment,0.94,1,Desktop,Manual,Retention Offer,0.36,65,-0.7,1,30,Mobile App,Credit Card,No,Active,417
+Digital,Monthly,Yes,4.32,0,0,Yes,0.01,12.4,Europe,Politics,0.83,1,Mobile,Manual,Retention Offer,0.57,-6,-0.5,4,45,Mobile App,Credit Card,No,Active,1343
+Digital,Monthly,No,4.08,0,2,No,0.81,13.41,Europe,Politics,0.46,1,Mobile,Auto,Retention Offer,0.11,51,0.63,3,47,Web,Credit Card,No,Active,1224
+Digital,Annual,Yes,1.63,0,2,Yes,0.18,8.02,Asia,Politics,0.92,1,Mobile,Auto,Newsletter Promo,0.38,5,0.26,1,22,Mobile App,Credit Card,No,Active,1683
+Digital,Monthly,Yes,5.03,23,0,No,0.61,11.14,Asia,Finance,0.57,3,Mobile,Auto,Newsletter Promo,0.18,-50,0.74,3,27,Web,Credit Card,No,Active,562
+Digital+Print,Monthly,Yes,4.76,3,0,No,0.34,13.85,Europe,Environment,0.7,0,Desktop,Auto,,0.26,88,0.38,2,56,Mobile App,PayPal,No,Active,426
+Digital+Print,Monthly,Yes,3.2,3,1,Yes,0.59,14.66,North America,Technology,0.88,1,Mobile,Auto,Newsletter Promo,0.47,-55,-0.4,5,26,Mobile App,Credit Card,No,Active,1576
+Digital,Monthly,Yes,3.12,28,1,Yes,0.32,9.76,Asia,Finance,0.43,0,Tablet,Auto,,0.16,-58,0.95,4,31,Web,Credit Card,No,Active,847
+Digital,Monthly,Yes,3.83,17,1,No,0.09,9.12,North America,Culture,0.85,0,Desktop,Manual,Retention Offer,0.22,-74,-0.27,2,55,Mobile App,PayPal,No,Active,653
+Digital+Print,Monthly,Yes,1.71,26,1,No,0.22,10.76,Europe,Culture,0.72,1,Desktop,Auto,Retention Offer,0.44,-16,-0.38,4,27,Mobile App,PayPal,Yes,Cancelled,1029
+Digital,Monthly,Yes,3.05,10,2,Yes,0.19,5.4,North America,Politics,0.93,2,Tablet,Auto,,0.19,57,0.16,2,50,Web,Credit Card,Yes,Active,626
+Digital+Print,Monthly,No,0.0,26,2,No,0.43,9.23,North America,Culture,0.42,1,Mobile,Auto,Survey,0.38,-7,0.24,4,28,Web,Credit Card,No,Cancelled,1483
+Digital+Print,Monthly,Yes,4.31,0,1,Yes,0.66,12.98,Others,Finance,0.59,2,Desktop,Auto,,0.1,26,0.45,5,57,Mobile App,Credit Card,No,Active,1802
+Digital+Print,Monthly,Yes,0.66,27,0,No,0.26,12.57,North America,Politics,0.88,0,Mobile,Auto,Survey,0.23,90,-0.14,1,23,Web,Credit Card,No,Cancelled,386
+Digital,Annual,No,5.26,9,1,No,0.01,8.92,Europe,Politics,0.31,3,Mobile,Auto,,0.41,-91,0.74,3,34,Web,Credit Card,No,Active,1265
+Digital+Print,Monthly,Yes,2.5,8,1,Yes,0.52,10.87,North America,Finance,0.38,0,Desktop,Auto,,0.71,30,-0.29,2,53,Mobile App,Credit Card,No,Active,1119
+Digital,Annual,Yes,2.68,22,2,Yes,0.61,6.7,Others,Finance,0.99,1,Mobile,Auto,,0.42,-41,-0.52,3,23,Referral,Credit Card,No,Active,902
+Digital,Monthly,Yes,2.06,3,1,No,0.96,12.81,Asia,Politics,0.5,0,Tablet,Auto,,0.66,-74,-0.95,3,64,Web,PayPal,No,Active,1055
+Digital,Monthly,No,2.57,27,2,Yes,0.59,9.69,North America,Politics,0.98,3,Desktop,Auto,Retention Offer,0.08,22,-0.09,4,27,Web,PayPal,No,Cancelled,1588
+Digital,Monthly,No,5.13,5,0,No,0.47,8.9,North America,Culture,0.43,0,Desktop,Auto,,0.12,72,0.45,1,66,Mobile App,Credit Card,No,Active,381
+Digital,Monthly,Yes,0.0,29,2,No,0.57,8.55,Europe,Environment,0.55,2,Mobile,Auto,Newsletter Promo,0.21,-39,0.39,4,59,Mobile App,Credit Card,No,Cancelled,601
+Digital+Print,Annual,No,4.92,15,2,Yes,0.93,9.75,North America,Culture,0.83,1,Desktop,Auto,Newsletter Promo,0.37,51,0.18,3,22,Mobile App,Credit Card,No,Active,1572
+Digital,Annual,Yes,3.51,1,1,Yes,0.83,8.21,Europe,Politics,0.76,2,Mobile,Auto,,0.43,-55,-0.21,5,36,Web,Credit Card,No,Active,1262
+Digital,Annual,Yes,1.19,22,0,Yes,0.32,12.63,North America,Politics,0.71,0,Desktop,Manual,Retention Offer,0.15,25,0.65,1,24,Mobile App,Credit Card,No,Cancelled,1548
+Digital+Print,Monthly,No,1.39,17,0,No,0.24,8.42,North America,Politics,0.67,2,Mobile,Manual,Newsletter Promo,0.18,71,0.07,1,41,Web,PayPal,No,Cancelled,971
+Digital+Print,Monthly,Yes,5.51,9,1,No,0.26,16.37,Europe,Politics,0.89,1,Desktop,Auto,Retention Offer,0.46,-38,0.22,3,68,Mobile App,Credit Card,No,Active,740
+Digital,Monthly,Yes,1.58,23,0,No,0.5,15.86,North America,Technology,0.46,1,Mobile,Manual,Survey,0.36,-97,-0.56,4,59,Web,Credit Card,No,Cancelled,1162
+Digital+Print,Monthly,Yes,1.27,23,0,No,0.74,6.43,Asia,Technology,0.61,1,Mobile,Auto,Retention Offer,0.05,-85,-0.91,5,36,Mobile App,Credit Card,No,Cancelled,568
+Digital+Print,Monthly,Yes,4.71,16,0,Yes,0.5,10.28,North America,Technology,0.41,1,Mobile,Manual,Newsletter Promo,0.31,78,0.46,2,28,Mobile App,PayPal,No,Active,429
+Digital,Monthly,Yes,3.51,12,1,No,0.07,7.4,North America,Technology,0.72,0,Mobile,Auto,,0.07,-27,1.28,4,20,Mobile App,PayPal,No,Active,426
+Digital+Print,Monthly,Yes,1.59,23,0,Yes,0.72,8.69,Others,Politics,0.48,0,Desktop,Auto,,0.23,11,0.25,1,47,Web,PayPal,No,Cancelled,721
+Digital,Monthly,Yes,3.32,17,3,No,0.81,18.01,Europe,Finance,0.53,2,Mobile,Auto,Retention Offer,0.15,0,0.46,4,60,Mobile App,Credit Card,Yes,Active,584
+Digital+Print,Annual,Yes,1.46,21,1,No,0.29,8.77,Asia,Technology,0.63,0,Mobile,Auto,Newsletter Promo,0.24,75,0.45,2,55,Referral,PayPal,No,Active,1779
+Digital,Annual,Yes,4.65,12,0,No,0.66,11.44,North America,Finance,0.32,2,Desktop,Manual,Retention Offer,0.12,92,0.06,5,23,Referral,PayPal,Yes,Active,1773
+Digital,Annual,Yes,4.59,16,0,No,0.43,12.17,Europe,Politics,0.36,1,Mobile,Auto,Newsletter Promo,0.49,96,-0.75,5,64,Referral,Credit Card,No,Active,404
+Digital,Monthly,Yes,3.8,4,1,No,0.89,6.0,Asia,Finance,0.78,0,Mobile,Auto,Retention Offer,0.42,-56,0.39,2,52,Web,Credit Card,No,Active,445
+Digital,Monthly,Yes,3.54,10,0,Yes,0.85,6.58,North America,Politics,0.6,0,Desktop,Auto,Newsletter Promo,0.33,30,0.79,2,39,Web,PayPal,Yes,Active,1486
+Digital,Monthly,No,5.64,6,0,No,0.53,5.18,Asia,Politics,0.91,1,Mobile,Auto,,0.3,-84,0.3,3,28,Web,Debit Card,Yes,Active,1174
+Digital+Print,Annual,Yes,3.0,28,2,Yes,0.69,6.46,Europe,Culture,0.79,3,Mobile,Auto,,0.06,64,-0.08,1,25,Web,Debit Card,No,Active,382
+Digital,Monthly,No,1.23,9,1,No,0.88,-1.4,North America,Culture,0.31,0,Mobile,Auto,,0.17,-96,0.25,3,44,Web,Credit Card,No,Cancelled,790
+Digital,Monthly,Yes,3.67,16,1,Yes,0.5,12.18,Europe,Politics,0.73,1,Mobile,Auto,Newsletter Promo,0.47,74,0.01,4,46,Mobile App,Debit Card,Yes,Active,211
+Digital,Annual,Yes,6.13,14,1,No,0.31,18.22,Europe,Politics,0.37,2,Desktop,Manual,Newsletter Promo,0.48,-57,0.7,2,25,Mobile App,Credit Card,No,Active,670
+Digital+Print,Monthly,Yes,1.48,17,1,Yes,0.75,10.59,North America,Technology,0.85,1,Mobile,Auto,,0.3,60,0.15,3,40,Mobile App,Credit Card,No,Cancelled,379
+Digital+Print,Monthly,Yes,2.46,22,1,No,0.22,4.33,Europe,Politics,0.99,0,Desktop,Auto,Retention Offer,0.14,-80,0.41,1,46,Mobile App,Debit Card,No,Active,1023
+Digital+Print,Monthly,Yes,3.62,21,1,Yes,0.39,7.43,North America,Finance,0.67,1,Mobile,Auto,,0.17,94,0.61,1,33,Web,PayPal,No,Active,1447
+Digital+Print,Monthly,Yes,2.92,18,1,Yes,0.87,8.16,Europe,Politics,0.78,1,Mobile,Manual,,0.27,-33,0.41,2,52,Mobile App,PayPal,No,Active,1500
+Digital,Monthly,Yes,1.53,29,2,No,0.72,5.93,Asia,Politics,0.47,1,Mobile,Auto,,0.11,-69,0.08,3,25,Web,PayPal,No,Cancelled,1582
+Digital+Print,Monthly,Yes,4.68,25,2,No,0.4,13.44,Europe,Culture,0.61,1,Desktop,Auto,Newsletter Promo,0.04,-77,-0.71,5,25,Web,PayPal,Yes,Active,1125
+Digital,Monthly,Yes,6.48,1,1,No,0.21,13.24,Others,Culture,0.9,1,Tablet,Manual,Newsletter Promo,0.4,62,0.27,2,62,Web,Credit Card,No,Active,1665
+Digital+Print,Monthly,Yes,3.29,25,2,Yes,0.36,5.38,North America,Politics,0.42,1,Desktop,Auto,,0.7,45,0.52,4,50,Mobile App,Debit Card,No,Active,1328
+Digital,Annual,No,1.64,3,0,No,0.28,12.9,Europe,Finance,0.49,1,Tablet,Auto,,0.51,-34,-0.75,3,59,Referral,Debit Card,Yes,Active,609
+Digital+Print,Monthly,Yes,0.68,2,2,No,0.18,16.11,Asia,Politics,0.61,1,Mobile,Auto,Newsletter Promo,0.14,2,0.26,3,22,Web,Credit Card,Yes,Active,117
+Digital,Monthly,Yes,3.39,6,1,No,0.74,17.61,Europe,Politics,0.8,2,Mobile,Manual,Survey,0.56,-47,0.06,2,54,Web,Credit Card,No,Active,792
+Digital,Monthly,Yes,4.66,23,1,No,0.25,21.46,Europe,Environment,0.56,2,Mobile,Manual,Retention Offer,0.08,53,-1.08,3,34,Mobile App,Credit Card,No,Active,1137
+Digital,Annual,No,3.71,17,0,Yes,0.45,6.39,North America,Technology,0.95,2,Mobile,Manual,Retention Offer,0.38,87,0.22,3,39,Mobile App,PayPal,Yes,Active,419
+Digital,Monthly,Yes,3.0,9,3,No,0.39,21.3,North America,Finance,0.37,1,Mobile,Auto,,0.28,24,0.74,4,31,Mobile App,PayPal,No,Active,1079
+Digital,Monthly,No,2.12,6,0,Yes,0.98,8.58,North America,Culture,0.56,0,Mobile,Auto,,0.13,16,0.06,4,55,Web,Debit Card,No,Active,523
+Digital,Annual,Yes,1.36,7,1,Yes,0.39,7.63,Others,Culture,0.8,3,Mobile,Auto,Survey,0.23,-36,-0.99,5,49,Mobile App,Credit Card,No,Active,1050
+Digital+Print,Annual,Yes,4.25,5,0,No,0.08,11.31,North America,Culture,0.46,2,Mobile,Manual,Newsletter Promo,0.05,78,0.23,4,31,Web,PayPal,Yes,Active,48
+Digital,Monthly,Yes,4.37,21,1,Yes,0.09,7.67,Asia,Politics,0.76,2,Mobile,Manual,Retention Offer,0.22,13,0.6,5,61,Web,PayPal,Yes,Active,1268
+Digital,Annual,No,0.68,25,1,No,0.59,11.6,Europe,Politics,0.41,1,Mobile,Auto,,0.24,87,-0.38,4,37,Web,Credit Card,No,Cancelled,1267
+Digital+Print,Monthly,Yes,5.38,0,1,Yes,0.6,4.72,North America,Technology,0.34,3,Desktop,Auto,Newsletter Promo,0.21,86,-0.07,5,39,Referral,PayPal,Yes,Active,1440
+Digital,Monthly,Yes,3.86,3,0,No,0.42,9.04,Europe,Finance,0.38,1,Mobile,Auto,Newsletter Promo,0.03,-25,-0.13,4,47,Web,Credit Card,Yes,Active,1639
+Digital+Print,Monthly,Yes,5.1,13,0,Yes,0.43,15.14,Asia,Environment,0.95,2,Desktop,Auto,,0.11,-84,0.09,4,50,Mobile App,PayPal,No,Active,1038
+Digital,Monthly,Yes,0.99,16,2,No,0.05,9.77,Asia,Technology,0.69,2,Desktop,Auto,Retention Offer,0.25,48,-0.15,2,22,Web,PayPal,No,Cancelled,1345
+Digital,Annual,No,0.95,19,0,No,0.52,10.57,North America,Environment,0.86,0,Mobile,Auto,,0.79,94,0.71,4,35,Web,PayPal,No,Cancelled,1384
+Digital,Monthly,Yes,2.78,17,1,No,0.5,11.9,North America,Politics,0.53,1,Mobile,Auto,Newsletter Promo,0.17,7,0.7,5,63,Referral,Credit Card,No,Active,1003
+Digital,Monthly,Yes,3.75,10,0,No,0.15,14.68,North America,Culture,0.71,0,Mobile,Auto,,0.54,-73,-0.27,2,24,Web,Credit Card,No,Active,88
+Digital+Print,Annual,Yes,5.69,28,2,Yes,0.1,3.38,North America,Finance,0.65,1,Desktop,Manual,,0.56,-57,0.71,5,46,Mobile App,PayPal,Yes,Active,1230
+Digital,Annual,No,4.06,20,0,No,0.12,12.34,Europe,Environment,0.96,1,Mobile,Manual,Retention Offer,0.29,97,-0.79,4,64,Referral,Credit Card,Yes,Active,1449
+Digital+Print,Monthly,Yes,2.64,25,1,Yes,0.1,8.93,Asia,Politics,0.82,1,Mobile,Manual,Newsletter Promo,0.06,89,-0.37,4,26,Mobile App,Credit Card,Yes,Active,1291
+Digital,Monthly,Yes,1.46,13,0,No,0.61,10.67,North America,Finance,0.81,0,Mobile,Manual,Newsletter Promo,0.41,69,0.35,5,64,Web,Credit Card,No,Active,1551
+Digital+Print,Monthly,Yes,4.85,8,2,Yes,0.2,14.24,Asia,Culture,0.33,3,Desktop,Auto,Retention Offer,0.15,-7,0.08,3,65,Mobile App,Credit Card,No,Active,1379
+Digital+Print,Annual,No,1.55,26,2,No,0.25,5.22,Europe,Finance,0.68,4,Mobile,Auto,,0.2,-79,0.11,2,58,Mobile App,PayPal,Yes,Cancelled,1003
+Digital,Monthly,Yes,5.44,14,2,No,0.17,5.95,North America,Finance,0.63,1,Desktop,Manual,Survey,0.63,-63,0.22,2,24,Referral,PayPal,No,Active,1355
+Digital+Print,Annual,No,2.57,11,1,No,0.96,2.26,North America,Environment,0.95,0,Mobile,Auto,,0.17,-87,-0.21,4,24,Mobile App,Credit Card,No,Active,1548
+Espresso,Monthly,Yes,5.39,9,0,Yes,0.85,7.8,Asia,Finance,0.48,3,Desktop,Auto,,0.43,10,0.66,2,66,Web,PayPal,Yes,Active,1686
+Digital,Monthly,No,4.02,18,0,No,0.23,15.32,Asia,Technology,0.49,0,Desktop,Auto,Newsletter Promo,0.21,21,0.38,5,60,Mobile App,Credit Card,No,Cancelled,1095
+Digital+Print,Monthly,Yes,2.79,23,2,Yes,0.33,9.52,Europe,Politics,0.59,0,Mobile,Manual,Newsletter Promo,0.31,53,-0.01,4,23,Web,Credit Card,No,Active,868
