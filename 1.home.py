@@ -8,7 +8,7 @@ def load_data():
 df = load_data()
 col1, col2 = st.columns([5,1])
 with col1:
-    st.title("🏠 Economist Risk Tracking Home")
+    st.title("🏠 Risk Tracking Home")
 with col2:
     st.image("assets/logo.jpg",width=150)
 st.divider()
